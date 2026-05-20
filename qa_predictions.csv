@@ -1,0 +1,1005 @@
+qid,question,context_excerpt,gold_answer,predicted_answer,em,f1
+NEWS_0221_Q5,Who is fast-tracking to get married?,"LONDON, England (CNN) -- British reality TV star Jade Goody married Sunday after",Jade Goody,Tweed,0,0.0
+NEWS_0916_Q3,What did the Los Angeles Times music critic call Dudamel?,"LOS ANGELES, California (CNN) -- He got a standing ovation before the orchestra ","a phenomenon,""",Mark Swed,0,0.0
+NEWS_0158_Q1,what is happening with wall street,(CNN) -- Gordon Gekko-inspired suspenders may have faded from Wall Street and lu,"It became a financial casino,""",It became a financial casino,1,1.0
+NEWS_0593_Q2,What is the film about?,"San Diego, California (CNN) -- Sometimes, a film is so powerful that it haunts y","Michael Oher, who went from being a homeless inner-city high school student whose father was dead and whose mother was a crack addict to a star lineman at the University of Mississippi",The Blind Side,0,0.0
+NEWS_0556_Q2,What  broke up in 1978?,(CNN) -- Fashion designer Vivienne Westwood and members of the Sex Pistols have ,The Sex Pistols,the Sex Pistols,1,1.0
+NEWS_0118_Q5,What does John mayer have?,(CNN) -- Acoustic rocker John Mayer has bowed out of a series of concerts after ,"granuloma,""",bowed out of a series of concerts,0,0.0
+NEWS_0942_Q1,what Her final performance was a May 7?,(CNN) -- The Queen of the Blues is dead. Koko Taylor performs in Spain in 2005. ,"blues award show,",blues award show,1,1.0
+NEWS_0527_Q4,Who's spokesman called the rumor a hoax?,(CNN) -- Twitter was buzzing Thursday morning with news that several airlines ar,an American Airlines,American Airlines,1,1.0
+NEWS_0347_Q4,What film is dominating advance ticket sales?,"New York (CNN) -- For Kenny Ortega, Travis Payne and Michael Bearden, ""It"" is a ","""This Is It,""",This Is It,1,1.0
+NEWS_0521_Q3,What year is the Bureau of Labor Statistics report?,"Editor's note: CNN.com has a business partnership with CareerBuilder.com, which ",(May 2008),2008,0,0.6666666666666666
+NEWS_0054_Q1,Where will the movie play?,"LOS ANGELES, California (CNN) -- The date of the funeral for pop legend Michael ",theaters worldwide,Glendale Forest Lawn Memorial Park,0,0.0
+NEWS_0674_Q5,What has been overshadowd,(CNN) -- Remember the iPod Nano and iPod Touch? They'll be getting some feature ,iPods,Tuesday's iPhone 4S news,0,0.0
+NEWS_0069_Q4,Whats the country called that has been affected?,(CNN) -- 10:44 p.m. -- The family of Anaika St. Louis lays the 11-year-old to re,Haiti,Haiti,1,1.0
+NEWS_0181_Q4,Who is San Francisco's BART paying?,"San Francisco, California (CNN) -- Officials have agreed to pay $1.5 million to ",Tatiana,Carole Ward Allen,0,0.0
+NEWS_0689_Q3,what is holbrook doing,"LOS ANGELES, California (CNN) -- Hal Holbrook has made his name playing famous h",playing famous historical figures.,gone into the wilderness,0,0.0
+NEWS_0370_Q3,What does Obama kid Jay Leno about?,Washington (CNN) -- President Obama's punch lines targeted a diverse group Satur,he described as the only person with worse ratings than his.,worse ratings,0,0.33333333333333337
+NEWS_0924_Q3,Who had the most fans previous to that?,"LONDON, England (CNN)  -- Michael Jackson has officially become the most popular",U.S. President Obama.,U.S. President Obama,1,1.0
+NEWS_0929_Q1,Who uses twiter?,"(CNN) -- It's Sunday night during TNT's coverage of the NBA playoffs, and announ",TNT's Kenny Smith,Kenny Smith,0,0.8
+NEWS_0917_Q3,What film is Spielberg remaking?,"LOS ANGELES, California (CNN) -- Financing for DreamWorks Studios' partnership w","""Harvey,""",DreamWorks Studios,0,0.0
+NEWS_0614_Q3,Who compiled the Greatest Albums list?,"London, England (CNN) -- The debut album by New York rock band The Strokes has b","a panel of musicians, producers, writers and record label bosses,",Casablancas,0,0.0
+NEWS_0195_Q2,Jada's daughter will appear in what?,"LOS ANGELES, California (CNN) -- Before Jada Pinkett Smith took the role of prod","""Karate Kid"" remake.",TNT Network,0,0.0
+NEWS_0972_Q1,Who plays a used car salesman?,"ATLANTA, Georgia (CNN) -- Jeremy Piven is the kind of guy who can make you laugh",Jeremy Piven,Nicole Lapin,0,0.0
+NEWS_0736_Q4,Who has won critical acclaim for his music?,"LONDON, England (CNN) -- As the lights went down in the theater the low murmur b",Tom Waits,Bukowski,0,0.0
+NEWS_0182_Q5,What did Mir Hossein Mousavi create for his campaign?,"TEHRAN, Iran (CNN) -- Iranian President Mahmoud Ahmadinejad said Monday he did n",Facebook page,a Facebook page,1,1.0
+NEWS_0359_Q5,What does most of the movie focus on?,"(CNN) -- Remember ""You're money, baby""? Vince Vaughn and Jon Favreau making the ","In the film, couples go to the Eden Resort, which is offering a great package deal on relationship counseling.","selfish, insensitive jerks",0,0.0
+NEWS_0467_Q1,How many people are in custody?,"MIAMI, Florida (CNN) -- Police think it started with a dispute over an ex-girlfr",four men are in,four,0,0.4
+NEWS_0262_Q2,in what way does she describe Gibson?,"LOS ANGELES, California (CNN) -- In her first television interview since Mel Gib","""different facets of love,""","""different facets of love",1,1.0
+NEWS_0427_Q2,What show received 23 nominations?,"(CNN) -- ""Mad Men"" and ""Damages"" found themselves on top when the nominations fo","""John Adams""",John Adams,1,1.0
+NEWS_0669_Q1,What did Anthropologist say?,"(Mental Floss) -- Although you probably use it every day, here's some interestin","it might be responsible for early man's survival. Leakey's theory claims that most predators avoided feasting on humans because our body odor was ""too repugnant.""",itrus,0,0.0
+NEWS_0732_Q2,What are the benefits of the car kit advertised?,(CNN) -- We're reviewing two $99 turn-by-turn navigation applications for the iP,"the device adds power, a bigger speaker and a better GPS chip.","the device adds power, a bigger speaker and a better GPS chip",1,1.0
+NEWS_0260_Q2,What is her condition?,(CNN) -- Actress Jessica Lange took a tumble in her Minnesota vacation cabin Tue,not serious.,"bruised ribs, a broken collarbone",0,0.0
+NEWS_0917_Q5,How much money did Ambani provide for DreamWorks,"LOS ANGELES, California (CNN) -- Financing for DreamWorks Studios' partnership w","$875 million,",$875 million,1,1.0
+NEWS_0231_Q1,What did Hamilton want to be?,"NEW YORK (CNN) -- He is iconic, there's no doubt. George Hamilton gets his life ",a doctor.,a doctor,1,1.0
+NEWS_0689_Q4,Who is the oldest supporting actor Oscar nominee ever?,"LOS ANGELES, California (CNN) -- Hal Holbrook has made his name playing famous h",Hal Holbrook,Cassidy,0,0.0
+NEWS_0836_Q3,What is Sicko?,"(CNN) -- Filmmaker Michael Moore, whose new documentary ""Sicko"" takes on America",documentary,who we put in power,0,0.0
+NEWS_0818_Q5,What day did Lance Armstrong brought a Scottish town center to a standstill ?,(CNN) -- Seven-times Tour de France winner Lance Armstrong brought a Scottish to,Tuesday,Tuesday,1,1.0
+NEWS_0164_Q4,Who is Perseus the bastard son of?,"(CNN) -- There's never a bad time for a toga party, right? The story of Perseus ",Zeus,Zeus,1,1.0
+NEWS_0190_Q3,What does Janet Jackson open up about?,(CNN) -- The notoriously private Janet Jackson opened up about her brother's dea,her brother's death,her brother's death,1,1.0
+NEWS_0219_Q3,What is Jackie Chan famed for?,"LONDON, England (CNN)  -- He's the butt-kicking, karate-chopping, kung fu supers","butt-kicking, karate-chopping, kung fu superstar",mixing humor with martial arts,0,0.0
+NEWS_0865_Q3,"""The Iron Lady"" may be useful propaganda for whom?",(CNN) -- There's always been something about Margaret Thatcher that makes grown ,Conservative Party,Conservative Party,1,1.0
+NEWS_0223_Q4,Where is Grylls going for treatment?,(CNN) -- Adventurer and TV show host Bear Grylls injured his shoulder in Antarct,UK,the UK,1,1.0
+NEWS_0546_Q2,Who won song of the year?,(CNN) -- The unlikely alchemy of a hard-rock legend and a bluegrass superstar cr,Alison Krauss and Robert Plant's,Coldplay,0,0.0
+NEWS_0970_Q3,In which category Malden won Oscar?,"LOS ANGELES, California (CNN) -- Veteran actor Karl Malden, who won an Academy A",best supporting actor,supporting actor,0,0.8
+NEWS_0157_Q4,What has spread to eight million computers?,"LONDON, England (CNN) -- A new sleeper virus that could allow hackers to steal f",new sleeper virus,USB data sticks,0,0.0
+NEWS_0010_Q2,What is fashion director Roberti Cavalli known primarily for,"(CNN) -- Flamboyant and fearless, Roberto Cavalli is the peacock of the fashion ",colorful creations,Roberto Cavalli is the peacock of the fashion world,0,0.0
+NEWS_0290_Q1,who are in writers guild of america,"LOS ANGELES, California (CNN) -- Striking Hollywood writers will be back at thei",Steven Binder,guild members specifically for new media,0,0.0
+NEWS_0516_Q5,What was banned by Israel in mid-1960s?,JERUSALEM (CNN) -- Some 43 years after a Beatles concert was -- according to pop,a Beatles concert,a Beatles concert,1,1.0
+NEWS_0644_Q2,What did Horne love the most?,"(CNN) -- Legendary singer, dancer, actress and civil rights activist Lena Horne,",performing for live audiences,performing for live audiences,1,1.0
+NEWS_0774_Q3,What percent of mobile games are Tetris?,"(CNN) -- It's amazing how a huge global phenomenon can begin. Tetris, the simple",10,10 percent,0,0.6666666666666666
+NEWS_0661_Q5,where did the violence occur?,Cairo (CNN) -- When Azza Hilal Suleiman saw Egyptian military pummel the veiled ,"Cairo,",Cairo's Tahrir Square,0,0.0
+NEWS_0626_Q4,What did Jay-z rise from?,(OPRAH.com)  -- At 13 he was selling crack. By 30 he was a hip-hop legend -- hav,"the hard-knock life,",Anger,0,0.0
+NEWS_0649_Q4,when is supreme court expected to rule?,WASHINGTON (CNN)  -- The Supreme Court heard new arguments Wednesday in a dramat,in a couple of months.,a couple of months,0,0.8571428571428571
+NEWS_0612_Q1,Where did the police take troubled suspect into?,"LOS ANGELES, California (CNN) -- Actress Demi Moore's frequent postings on Twitt",custody,custody,1,1.0
+NEWS_0629_Q3,Which is Sacha Baron Cohen's new film?,"(CNN) -- Achtung, baby! Sacha Baron Cohen stars as a flamboyant Austrian fashion","""Bruno.""",Borat,0,0.0
+NEWS_0382_Q1,What is the name of Disney's new label?,(CNN) -- A polar bear falls through thin Arctic ice while searching for food for,Disneynature,Disneynature,1,1.0
+NEWS_0921_Q1,What network broadcasts The Closer?,(CNN) -- Holly Hunter doesn't take roles based on what she thinks viewers want t,TNT's,TNT,0,0.0
+NEWS_1008_Q3,What is the name of Michael Jackson's biggest selling album in the past weeks?,"(Entertainment Weekly)  -- For the past three weeks in a row, Michael Jackson's ","""Number Ones""",Number Ones,1,1.0
+NEWS_0899_Q2,What percentage of people keep their exes in the friends list?,(Mashable) -- There's no denying that Facebook has had an impact on the way the ,73 percent,73 percent,1,1.0
+NEWS_0714_Q3,who drops her 11th album today?,"(CNN) -- For a good part of her career, Martina McBride's success has largely be",Martina McBride's,Martina McBride,0,0.5
+NEWS_0719_Q1,What might be the only guarantee for a successful YouTube video?,"London, England (CNN) --  YouTube this week announced the biggest viral video se",novelty.,novelty,1,1.0
+NEWS_0532_Q3,what has been restored,"LONDON, England (CNN) -- Social networking, Martin Scorsese and cinema classics ",lost cinema classics from around the world,a free online film festival making available classic films from its large library,0,0.1111111111111111
+NEWS_0683_Q4,what say Reese Whitherspoon?,(InStyle.com) -- She refuses to dwell on the past and accepts that she can't con,"You have to keep it together for your kids and for yourself too. I'm trying to learn from the things that have happened in my life, live more in the moment, and have more fun.",They take care of me and I take care of them,0,0.045454545454545456
+NEWS_0372_Q3,What was the reason they went to Hubble Space Telescope?,"(CNN) -- It's not quite the achievement of a lunar landing, but astronaut Mike M",make repairs.,to make repairs,0,0.8
+NEWS_0434_Q3,who talks about rivalry with Jay Chou?,(CNN) --   He performed to a watching audience of millions at the closing ceremo,Wang Leehom,Watch Wang Leehom,0,0.8
+NEWS_0237_Q3,What did the president of the academy say?,"LOS ANGELES, California (CNN) -- The number of movies nominated for the best pic","""Having 10 Best Picture nominees is going allow",a wider field competed for the top award of the year,0,0.0
+NEWS_0436_Q1,Who is Mariska Hargitay?,(CNN) -- Actress Mariska Hargitay went to a hospital for tests Wednesday after s,Actress,Olivia Benson,0,0.0
+NEWS_0060_Q3,What was controversial book made into controversial film?,(CNN) -- If director Ron Howard hopes religious controversy will help sell ticke,"'The Da Vinci Code,'",The Da Vinci Code,1,1.0
+NEWS_0553_Q2,on how many entities did CNN posed the question to people?,"(CNN) -- Fire, the wheel and even cup noodles were among the varied answers to t","Berlin, Madrid, Rome, Bangkok, Tokyo, New Delhi and Paris.","Fire, the wheel and even cup noodles",0,0.13333333333333333
+NEWS_0803_Q4,What was the reason he checked himself into rehab?,"LOS ANGELES, California (CNN) -- Burt Reynolds checked into a drug rehab clinic ","""to regain control of",to regain control of his life,0,0.8
+NEWS_0916_Q4,What nationality does the new conductor of the Los Angeles Philharmonic hold?,"LOS ANGELES, California (CNN) -- He got a standing ovation before the orchestra ",Venezuelan,Venezuelan,1,1.0
+NEWS_0805_Q2,Michelle Obama as a tradition of wearing what?,(InStyle.com) -- Michelle Obama dazzled on the dance floor Tuesday night at the ,American designers who hail from other countries.,American designers,0,0.4444444444444445
+NEWS_0927_Q1,Who is leaving the soap?,(Entertainment Weekly) -- In yet another blow to the already ailing soap opera w,"Eric Braeden,",Eric Braeden,1,1.0
+NEWS_0217_Q3,What is the capital of Moldova?,(CNN) -- Moldova's president Wednesday accused Romania of involvement in a huge ,Chisinau,Chisinau,1,1.0
+NEWS_0396_Q4,Where is the International Animated Film Festival held?,"LONDON, England (CNN) -- From bedroom creators to big studios, hand-drawn to CGI","Geneva,",The French town,0,0.0
+NEWS_0847_Q2,What did he and Stanley Kubrick share?,"(CNN) -- Author Arthur C. Clarke, whose science fiction and non-fiction works ra","Academy Award nomination for best adapted screenplay for ""2001.""",an Academy Award nomination for best adapted screenplay,0,0.8750000000000001
+NEWS_0107_Q2,What was Vick in prison for?,(CNN) -- Former Atlanta Falcons quarterback Michael Vick left a federal prison i,to a federal charge of bankrolling a dogfighting operation,dogfighting,0,0.25
+NEWS_0403_Q5,Vic Armstrong stunt doubled in which series of movies?,"LONDON, England (CNN) -- Think of a bullwhip and fedora and one man immediately ",Indiana Jones films,Live and Let Die,0,0.0
+NEWS_0156_Q4,What does the movie examine?,(CNN) -- It's hard to imagine Meryl Streep having second thoughts about tackling,happens when a strict nun who heads a Catholic school in the Bronx suspects a charismatic priest of having an inappropriate relationship with a,morality,0,0.0
+NEWS_0453_Q2,"How many Friday shows will ""The Dark Knight"" according to Fandango.com?","(CNN) -- As ""The Dark Knight's"" crusading District Attorney Harvey Dent vigorous","about 3,000 late-night showings,",more than 150,0,0.0
+NEWS_0603_Q2,What happened the day Michael Jackson died?,(CNN) -- Michael Jackson couldn't sleep. A coroner preliminarily has concluded M,was unable to sleep.,overdose of propofol,0,0.0
+NEWS_0182_Q3,Who created a Facebook page for the campaign?,"TEHRAN, Iran (CNN) -- Iranian President Mahmoud Ahmadinejad said Monday he did n",Mir Hossein Mousavi,Behzad Mortazavi,0,0.0
+NEWS_0528_Q3,What charges brought upon Conrad Murray?,Los Angeles (CNN) -- They came seeking justice as the sun rose Tuesday over a co,involuntary manslaughter,involuntary manslaughter,1,1.0
+NEWS_0472_Q4,What has been kept under court seal?,"LOS ANGELES, California (CNN)  -- A judge Wednesday approved Katherine Jackson's",The cost of the burial,The cost of the burial,1,1.0
+NEWS_0361_Q4,who is wanted in Germany on 19 fraud counts?,Los Angeles (CNN) -- The mother of a German national suspected of one of the wor,"Dorothee Burkhart,",Harry Burkhart,0,0.5
+NEWS_0011_Q2,What is Michelle Obama wearing?,(CNN) -- President Barack Obama and first lady Michelle Obama were dancing their,"Jason Wu,",Jason Wu,1,1.0
+NEWS_0828_Q4,What kind of ring was Spritzer linked to?,WASHINGTON (CNN) -- Federal agents have determined New York Gov. Eliot Spitzer u,high-priced call-girl,corruption-buster,0,0.0
+NEWS_0670_Q4,Which star is getting married?,(InStyle.com) -- A hit TV show. An Emmy. A summer blockbuster. A new company. A ,Katherine Heigl,Katherine Heigl,1,1.0
+NEWS_0108_Q4,What app can help you catch a cab quickly?,(AOL Autos) -- How long did it take you to get a taxi last time you tried? If it,Taxi Magic,a call or Web site,0,0.0
+NEWS_0482_Q3,What is the movie called?,"(Entertainment Weekly) -- ""The Time Traveler's Wife,"" adapted from the 2003 best","""The Time Traveler's Wife,""",The Lewis Carroll Story,0,0.0
+NEWS_0841_Q1,What year Puck came to Los Angeles?,LOS ANGELES (CNN) -- Since he opened his first restaurant in the heart of Beverl,1974,1974,1,1.0
+NEWS_0873_Q1,iphone 4s scored very well in it's tests for what?,"(CNN) -- Despite complaints by some owners about underwhelming battery life, the",battery performance,battery performance,1,1.0
+NEWS_0909_Q4,What did South Carolina congressman shout at Obama?,"(CNN) -- Two words, delivered with index finger punctuating the air and directed","""You lie!""",a liar,0,0.0
+NEWS_0353_Q4,who released The Grey Album,"(CNN) -- When Brian Burton, a little known DJ operating under the name of Danger","a little known DJ operating under the name of Danger Mouse,",Brian Burton,0,0.0
+NEWS_0994_Q1,who will be answering questions?,(CNN) -- He's gone from being a backup dancer to the biggest thing in Asian pop ,"Rain, real name Jung Ji-hoon,",screaming fans,0,0.0
+NEWS_0138_Q4,What number should you call for information?,"NEW YORK (CNN) -- Juliana Redding was 21, an aspiring actress and model who, lik",(310) 458-8449.,458-8449,0,0.6666666666666666
+NEWS_0934_Q1,What is also posted?,"Editor's note: CNN.com has a business partnership with CareerBuilder.com, which ",first photograph,articles and Tweets,0,0.0
+NEWS_0041_Q4,What event did the troubled singer hit a woman in September?,"LONDON, England (CNN) -- A London court cleared singer Amy Winehouse of assault ",charity ball,charity ball,1,1.0
+NEWS_0945_Q2,What sport has been good for film makers?,(CNN) -- The drama of the action in-and-around the golf course has enraptured fa,golf,golf,1,1.0
+NEWS_0053_Q5,What is the new album called?,"LOS ANGELES, California (CNN) -- It was the hottest ticket in town. Colin Farrel","""Roadsinger,""",Roadsinger,1,1.0
+NEWS_0518_Q4,where he started his carrer?,"(CNN) -- Writer and producer Larry Gelbart, most known for his work on the hit t",comedy writer for radio in the 1940s.,Gelbart,0,0.0
+NEWS_0286_Q1,Who got engaged on the set?,(InStyle.com) -- So you're finally ready to settle down and make that marriage p,Tia Mowry and Cory Hardrict,tour guide,0,0.0
+NEWS_0252_Q5,When did Coleman suffer a brain hemorrhage?,"(CNN) -- Actor Gary Coleman, who had suffered from intracranial brain bleeding a",Wednesday evening,Wednesday evening,1,1.0
+NEWS_0020_Q2,How much is it estimated the industry would have lost if the Oscar's had been canceled?,"LONDON, England (CNN) -- At a time of economic uncertainty in the U.S., the writ",400 million dollar,$1m,0,0.0
+NEWS_0872_Q5,She has recently worked with Karl Lagerfeld as the new face of Channel,Japanese actress Rinko Kikuchi walks Anjali Rao through the streets of Tokyo. Sh,Rinko Kikuchi,Rinko Kikuchi,1,1.0
+NEWS_0780_Q5,What might be built near a Maryland battlefield?,"WASHINGTON (CNN) -- Development threatens to engulf Civil War battlefields, a pr",Wal-Mart Supercenter,trash-processing facility with a 350-foot smokestack,0,0.0
+NEWS_0185_Q5,Which film was France's choice?,"LONDON, England (CNN) -- While the Oscars is without doubt the grandest of all t","""Persepolis""",DIDN'T,0,0.0
+NEWS_0524_Q5,What kind of club in Rhode Island needs more workers?,CNN affiliates report on where job seekers are finding work across the country a,strip,strip club,0,0.6666666666666666
+NEWS_0315_Q2,What do scans show humans respond rapidly to?,(CNN) -- Rapid-fire TV news bulletins or getting updates via social-networking t,"signs of physical pain in others,",signs of physical pain,0,0.8
+NEWS_0927_Q2,When will Braeden's last episode air?,(Entertainment Weekly) -- In yet another blow to the already ailing soap opera w,November 2.,September 23,0,0.0
+NEWS_0210_Q1,What amount of money was lost to the scams?,WASHINGTON (CNN) -- Internet-based rip-offs jumped 33 percent last year over the,$265 million.,$265 million,1,1.0
+NEWS_0858_Q4,Which phone brand is able to geotag its own photos?,"(CNET) -- With its launch of iPhoto 09, Apple has begun showing some reasons why",Apple,iPhone,0,0.0
+NEWS_0166_Q2,Who did India celebrate at the Oscars?,"NEW DELHI, India (CNN) -- The collective cry throughout India of ""Jai ho"" (May y","Composer A. R. Rahman,",The Mozart of Madras,0,0.0
+NEWS_0598_Q1,what has angered homosexuals?,"COLUMBIA, South Carolina (CNN)  -- Democratic Sen. Barack Obama kicked off a ser","saying homosexuality is a choice, and",prayer,0,0.0
+NEWS_0712_Q1,Who is he working with?,NEW YORK (CNN) -- Chris Cornell has taken to Twitter like Tweety Bird took to ma,Timbaland.,Timbaland,1,1.0
+NEWS_0827_Q4,what did lohan's rep say about her,Los Angeles (CNN) -- Lindsay Lohan's need for a better toothpaste should not out,Lindsay,Friday,0,0.0
+NEWS_0430_Q2,What year did Polanski plead guilty?,(CNN) -- Roman Polanski is regarded as one of the finest directors of his genera,1977,1977,1,1.0
+NEWS_0833_Q3,Who is a conservative member of Dutch parliament?,"JAKARTA, Indonesia (CNN) -- About 50 students broke into a Dutch consulate compo",Geert Wilders',Wilders,0,0.6666666666666666
+NEWS_0933_Q5,Who was the star of the movie?,"NEW YORK (CNN) -- The numbers were good for ""Knowing."" In ""Knowing,"" a physics p",Nicolas Cage,Rose Byrne,0,0.0
+NEWS_0939_Q5,what is Madonna appealing,(CNN) -- Madonna said she hopes the Malawian girl she wants to adopt and the boy,adoption application.,legal battle,0,0.0
+NEWS_0386_Q4,What does the band have out?,"LOS ANGELES, California (CNN) -- Brandon Boyd blends into his Venice, California","a greatest hits collection called ""Monuments and Melodies.""","it had a cape, and some tights",0,0.15384615384615383
+NEWS_0622_Q4,Where did CNN go to?,"LONDON, England (CNN) -- We're in Hollywood on this month's CNN Business Travell",Hollywood,England,0,0.0
+NEWS_0741_Q4,When was Lindsay Lohan convicted of drunk driving?,"LOS ANGELES, California (CNN)  -- A hearing is set for Monday in a case involvin",2007,2007,1,1.0
+NEWS_0505_Q1,Who is Queen Rania?,"LONDON, England (CNN) -- She is one of the world's most likeable and photogenic ","world's most likeable and photogenic leaders,",down-to-earth personality,0,0.0
+NEWS_0304_Q3,What does Vertu make?,"(WIRED) -- Got a few grand to spare for a $3,000 phone? Yeah, we didn't think so","phones starting at $6,000",true luxury phones,0,0.28571428571428575
+NEWS_0344_Q1,For what number of years has the internet been changing industries?,(CareerBuilder.com) -- Are you an online enthusiast? The dictionary doesn't have,more than a decade.,more than a decade,1,1.0
+NEWS_0336_Q5,What is the name of the movie?,"LOS ANGELES, California (CNN) -- The romantic comedy ""New In Town"" puts co-stars","""New In Town""",New In Town,1,1.0
+NEWS_0773_Q4,"What genre is the album ""The Great Escape Artist""","(CNN) -- If you didn't know that Perry Farrell, Dave Navarro and Stephen Perkins",alternative rock,alternative rock,1,1.0
+NEWS_0509_Q3,What did he do with at-risk students?,"ATLANTA, Georgia (CNN)  -- Rap star T.I. was sentenced in Atlanta federal court ",mentored,mentored,1,1.0
+NEWS_0375_Q2,Where was the airport?,(CNN) -- Woody Harrelson defended his clash with a photographer at a New York ai,New York,New York,1,1.0
+NEWS_0991_Q4,What does the worm do according to Microsoft?,"(CNN) -- Software giant Microsoft is offering a $250,000 reward for information ",Windows,exploits a bug in Microsoft Windows to infect mainly corporate networks,0,0.18181818181818182
+NEWS_0273_Q3,Who wanted to leave the band?,"LONDON, England (CNN) -- Oasis front man Noel Gallagher has quit the rock group ",Noel Gallagher,Noel Gallagher,1,1.0
+NEWS_0524_Q2,Who is hiring?,CNN affiliates report on where job seekers are finding work across the country a,the federal government,KIVI,0,0.0
+NEWS_0120_Q4,Who are Jackson's former wifes?,"LOS ANGELES, California (CNN)  -- They poured in to Los Angeles from places far-","Debbie Rowe,",Debbie Rowe,1,1.0
+NEWS_0065_Q2,Is acting Mary J. Blige's first profession?,NEW YORK (CNN)  -- Mary J. Blige has sung her way to nine Grammy Awards and sold,is not,not my first profession,0,0.3333333333333333
+NEWS_0719_Q2,What is the only guarantee of success?,"London, England (CNN) --  YouTube this week announced the biggest viral video se",novelty.,novelty,1,1.0
+NEWS_0801_Q4,Where dud Taylor attend the concert?,"LOS ANGELES, California (CNN) -- Elizabeth Taylor went to the Hollywood Bowl to ",Hollywood Bowl,Hollywood Bowl,1,1.0
+NEWS_0875_Q1,Who won Oscar and also director of The Old Vic in London?,"(CNN) -- ""Movies aren't an actor's medium...actors are just color in other peopl",Kevin Spacey,Kevin Spacey,1,1.0
+NEWS_0242_Q4,What show will the doctor appear on?,"LOS ANGELES, California (CNN) -- Michael Jackson's dermatologist did not rule ou","""Good Morning America,""",Good Morning America,1,1.0
+NEWS_0526_Q5,what does the software do?,"(CNN) -- Since the early days of pop music, the music industry has been searchin",claims to be able to predict whether a song will be a pop hit,works by breaking down more than 60 elements of a song,0,0.0909090909090909
+NEWS_0071_Q4,"Who won this season's ""Celebrity Apprentice""?","(CNN) -- She's been a comedian, talk-show host and feared red carpet fashion cri",Joan Rivers',Piers Morgan,0,0.0
+NEWS_0550_Q1,where is the service?,"LONDON, England (CNN) -- Thousands of mourners and well-wishers gathered Saturda",in Essex,Essex Saturday,0,0.5
+NEWS_0876_Q5,Who has Cuban heritage?,"LOS ANGELES, California (CNN) -- As the man in the Dodgers jersey walked quickly","Armando Christian Perez,",Gloria Estefan,0,0.0
+NEWS_0677_Q1,who was a medical student,"BOSTON, Massachusetts (CNN) -- They were crimes born of the Internet age -- roma","Philip Markoff,",Philip Markoff,1,1.0
+NEWS_0927_Q5,How many years ago had Braeden taking a pay cut previously?,(Entertainment Weekly) -- In yet another blow to the already ailing soap opera w,two,10,0,0.0
+NEWS_0656_Q1,Who makes the HTC Magic handset?,"BARCELONA, Spain (CNN) -- Google launched the latest salvo in the cellphone wars",Vodafone's,Vodafone,0,0.0
+NEWS_0131_Q5,What movie is not authentically Bollywood or Indian?,"(CNN) -- ""Slumdog Millionaire"" took home eight Oscars on Sunday night, a surpris","""Slumdog Millionaire""",The Pink Panther 2,0,0.0
+NEWS_0694_Q1,"Who hopes to make 20,000 sedans?","LOS ANGELES, California (CNN)  -- While automakers lay off staff and shut down p",Tesla,Tesla,1,1.0
+NEWS_0152_Q3,What is the price,"(ArsTechnica) -- Amazon has clarified that the next generation of its 3G Kindle,","$149,","$149, 50 percent",0,0.5
+NEWS_0187_Q2,Who built the new app?,(Mashable) -- Social media management company Vitrue released a free tool Thursd,Vitrue,MASHABLE.com,0,0.0
+NEWS_0854_Q4,former what singer,"LONDON, England (CNN) -- Karma caught up with former Culture Club singer Boy Geo",Culture Club,Boy George,0,0.0
+NEWS_0552_Q3,The first single made history on what Billboard Song Chart?,(CNN) -- Singer Nelly Furtado is trying to cross over in a direction many artist,Hot Latin,Hot Latin,1,1.0
+NEWS_0565_Q4,Who got SAG award for best leading actress in a movie?,"(CNN) -- The actors of ""Slumdog Millionaire"" won outstanding performance by a ca",Meryl Streep,Julie Christie,0,0.0
+NEWS_0882_Q4,what area hotels also hit hard by dropoff in business?,"ORLANDO, Florida (CNN) -- Disney World has not been the happiest place on Earth ",Orlando,Orlando,1,1.0
+NEWS_0971_Q3,What translation style does Facebook favor?,(CNN) -- One of the Internet's great promises is that it's the ultimate democrat,of volunteers and some hired professional translators.,human,0,0.0
+NEWS_0645_Q2,What is the internet making it easier to buy?,"NASHVILLE, Tennessee (CNN) -- The accused came from all walks of life: Retirees,",prostitutes and pornography,pornography,0,0.5
+NEWS_0860_Q1,What is the trial seeking to overturn?,(CNN) -- It's hard to imagine a video of lawyers debating points of constitution,California's voter-approved ban on same-sex marriage,California's voter-approved ban on same-sex marriage,1,1.0
+NEWS_0272_Q2,Which was one of top hits of summer?,"NEW YORK (CNN) -- Sean Kingston was talking about his hit song ""Fire Burning"" wh","""Fire Burning.""",Fire Burning,1,1.0
+NEWS_0869_Q2,What is Gilliam's first name?,"LONDON, England (CNN) -- Is there a filmmaker in the world with worse luck than ",Terry,Heath Ledger,0,0.0
+NEWS_0471_Q4,What is the name is the documentary?,"LOS ANGELES, California (CNN) -- As Ryan O'Neal walked the red carpet at the pre","'Farrah's Story,'",Farrah's Story,1,1.0
+NEWS_0864_Q1,Who stars in this movie?,"(CNN) -- The trouble with boxing is, people get hurt. Some time soon, according ","(Hugh Jackman),",Shawn Levy,0,0.0
+NEWS_0155_Q2,who made the film,"(CNN) -- Before the storm hit and the floodwaters took over, Kimberly Rivers Rob","Kimberly Rivers Roberts and her husband, Scott,",Scott,0,0.25
+NEWS_0643_Q1,who was honoured,Washington (CNN) -- Legendary performers mingled with Washington heavyweights as,Bruce Springsteen.,Bruce Springsteen,1,1.0
+NEWS_1004_Q1,What did Kirk Jones tell CNN?,"Los Angeles, California (CNN) -- If you stared at empty seats around your Thanks","""I'm hoping it might catch the moment, and it might catch the Christmas spirit and the Thanksgiving spirit,""",over coffee,0,0.0
+NEWS_0043_Q3,What did Jobs' deflection tactics allow?,"London, England (CNN) -- Apple CEO Steve Jobs this week rebuffed the suggestion ",the company to lower market expectations and fool competitors.,lower market expectations and fool competitors,0,0.8571428571428571
+NEWS_0200_Q3,which studio is making,NEW YORK (CNN) -- Perhaps he should be called Captain Phoenix? Captain America w,Marvel,DC Comics,0,0.0
+NEWS_0244_Q5,who is she married to?,"NEW YORK (CNN)  -- Natasha Richardson, a film star, Tony-winning stage actress a","Liam Neeson,",Liam Neeson,1,1.0
+NEWS_0946_Q3,what was found at winehouse's home,London (CNN) -- Singer Amy Winehouse's death this summer was the result of alcoh,"three empty vodka bottles,",alcohol,0,0.0
+NEWS_0605_Q3,The movie has already made more than how much ?,"London, England (CNN) -- Sherlock Holmes the movie has already made more than $3",$300 million,$300 million,1,1.0
+NEWS_0212_Q4,For what reason did outage occur?,(CNN) -- Google said Tuesday's widespread Gmail outage occurred when the company,company took some servers offline,when the company took some servers offline to perform routine maintenance,0,0.6666666666666666
+NEWS_0963_Q4,Who participated in a fund-raising concert?,(CNN) -- Former Beatles Paul McCartney and Ringo Starr will reunite on stage nex,Beatles Paul McCartney and Ringo Starr,Paul McCartney (above) and Ringo Starr,0,0.8333333333333334
+NEWS_0689_Q1,who did he play,"LOS ANGELES, California (CNN) -- Hal Holbrook has made his name playing famous h",Abraham Lincoln,Cassidy and Penn,0,0.0
+NEWS_0711_Q2,Who produced some of Michael Jackson's albums?,(CNN) -- It's difficult to overestimate Quincy Jones's contribution to American ,Quincy Jones,Jones,0,0.6666666666666666
+NEWS_0171_Q3,what was assembled from musicians around the world,NEW YORK (CNN)  -- The YouTube and Carnegie Hall generations collided Wednesday ,first symphony orchestra comprised of members who auditioned solely online,the world's first symphony orchestra comprised of members who auditioned solely online,0,0.9523809523809523
+NEWS_0529_Q1,Who vows to keep up the fight?,"(CNN) -- The Internet connection in Myanmar was cut Friday, limiting the free fl",Ko Htike,Ko Htike,1,1.0
+NEWS_0906_Q3,What provides more option to actors than ever?,"(CNN) -- Happy birthday, Catherine Zeta-Jones. You are turning 40 this month, jo","independent films and television,",independent films and television,1,1.0
+NEWS_0337_Q4,What did Rupert Murdoch predicts?,(CNN) -- Media tycoon Rupert Murdoch expects News Corporation-owned newspaper We,News Corporation-owned newspaper Web sites to start charging,the worst of the financial crisis had passed,0,0.0
+NEWS_0150_Q2,What is covered with an aeeat of lipstick kisses?,(CNN) -- They scream germs: Used gum. A flock of pigeons. A tomb covered with ki,tomb,A tomb,1,1.0
+NEWS_0690_Q3,Where was Alan Scherr from?,"(CNN) -- They were fathers and daughters, tycoons and spiritualists, Westerners ",a Virginia meditation group,Mumbai,0,0.0
+NEWS_0747_Q1,"Who finished sixth of season seven of ""American Idol""?",(CNN) -- Carly Smithson wants to make one thing clear: She is not the new lead s,Carly,The dark-haired Irish rocker,0,0.0
+NEWS_0176_Q3,what is the name of the actress quoted?,"ATLANTA, Georgia (CNN) -- Wearing a plaid green A-line spring skirt from her new",Kristin Davis,Kristin Davis,1,1.0
+NEWS_0388_Q4,when was the froup formed,"(CNN) -- In 1980, in the pre-Internet, pre-download days when R.E.M. formed in A","1980,","The band formed at a time when ""underground"" really meant something",0,0.0
+NEWS_0367_Q2,Who directed the films?,"LONDON, England (CNN) --     Editor's note: Watch Tarantino talking about the ma",Quentin Tarantino's,Stephen Goldblatt,0,0.0
+NEWS_0014_Q2,Which Oscar-winners  did he star in?,"LONDON, England (CNN) -- He immortalized the ""smell of napalm in the morning"" in","""The Godfather,"" ""The Godfather: Part II""",Francis,0,0.0
+NEWS_0296_Q4,what did the election help show?,"(CNN) -- In 1979, Jarreth Merz, then a young boy in Ghana, saw the dramatic resu","""You don't have to rebel. You have the freedom to choose, and with that choice comes a responsibility.""",breakdown in civil order,0,0.0
+NEWS_0077_Q1,Andrew Lloyd Webber expressed interest in buying what?,"London, England (CNN) -- The iconic Abbey Road music studios made famous by the ",Abbey Road music studios,the studios,0,0.4
+NEWS_0631_Q1,When did the couple meet?,Amadou Bagayoko and Mariam Doumbia are the blind husband and wife team from Mali,"1977,",1977,1,1.0
+NEWS_0517_Q1,what says producer?,(CNN) -- Tensions between Israel and Turkey spilled into a second day Tuesday wh,"""will continue to tell the truth and expose the wrongs.""",Pana Film,0,0.0
+NEWS_0604_Q1,What city does she say is a place of great opportunity?,"Sara, 29, has lived in Miami for five years, where she works as freelance writer",Miami,Miami,1,1.0
+NEWS_0725_Q4,What does Pistorius hold?,(CNN) -- A double amputee sprinter has won the right to be eligible to compete a,"the Paralympic world records in the 100, 200, and 400 meters.",a Paralympic Games champion and world record holder,0,0.375
+NEWS_0835_Q5,What show is Neil Patrick Harris on?,"(OPRAH.com) -- He can saw himself in half, sing a selection of Broadway showtune","""How I Met Your Mother,""",NPH: Very much. Steve Allen hosted the first televised awards,0,0.0
+NEWS_0497_Q4,When was student separated?,(CNN) -- Skeletal remains found in a hayfield are those of Virginia Tech student,October 17.,October 17,1,1.0
+NEWS_0062_Q1,what is Heidi Newfield up for,"LOS ANGELES, California (CNN) -- Heidi Newfield goes into Sunday's Academy of Co",top female vocalist,I thought one or two would be so fabulous,0,0.0
+NEWS_0015_Q5,Where was Gary Coleman arrested?,(CNN) -- Former child actor Gary Coleman remained in a Utah jail Monday after be,"Santaquin City, Utah, home",Spanish Fork,0,0.0
+NEWS_0457_Q5,"What are the visitors of ""The Sound of Music"" doing?","(CNN) -- When Michele Maro became captivated by ""The Lord of the Rings"" movies, ",singing with joy,"singing with joy in Salzburg, Austria",0,0.6666666666666666
+NEWS_0502_Q2,how many months was Saberi in jail?,"CANNES, France (CNN) -- As award-winning Iranian film-maker Bahman Ghobadi walke",three and a half,17,0,0.0
+NEWS_0749_Q5,What was the scandal about?,"(CNN) -- He has been at the center of Asia's biggest sex scandal, but now actor ",sex,sex scandal,0,0.6666666666666666
+NEWS_0298_Q5,Which celebrities are going to attend?,"LOS ANGELES, California (CNN)  -- Fifteen first ladies from African nations will","Billy Zane and Sharon Stone,",Maria Bello,0,0.0
+NEWS_0304_Q2,What is the introduction price for a Vertu phone?,"(WIRED) -- Got a few grand to spare for a $3,000 phone? Yeah, we didn't think so","$6,000","$6,000",1,1.0
+NEWS_0169_Q4,"Where should you post ""pix""?",(The Frisky) -- You don't have to be Jennifer Aniston to think that the four wom,Facebook,social networking sites,0,0.0
+NEWS_0057_Q5,What opened famed French festical?,(CNN) -- The economic downturn may take its toll at the 2009 Cannes Film Festiva,"The festival is opening with ""Up,"" the latest animated work from Pixar.",Los Angeles,0,0.0
+NEWS_0365_Q3,What was he really good with?,(CNN) -- CNN.com reader Kristy O'Connor took a prenatal yoga class with Heath Le,tools!,tools,1,1.0
+NEWS_0410_Q3,what do women love,(The Frisky) -- When I try to explain my ardor for HBO's trashy-fabulous soap op,bad boys,bad boys,1,1.0
+NEWS_0087_Q2,Who fell off the stage?,(CNN) -- Country music singer-songwriter Brad Paisley was examined and released ,Brad Paisley,Brad Paisley,1,1.0
+NEWS_0378_Q3,where is a  new Harry Potter theme park ?,(CNN) -- Muggles will have another opportunity to slip into Harry Potter's magic,Universal Studios Hollywood.,Universal Studios Hollywood,1,1.0
+NEWS_0594_Q5,What role is getting nods for Firth?,"(CNN) -- 'Tis the season, for movies, that is! This holiday season is introducin",King George VI.,King George VI,1,1.0
+NEWS_0706_Q5,"How long did ""The George Michael Sports Machine"" run for?",Washington (CNN) -- Veteran sports anchor George Michael died early Thursday aft,27 years.,27 years,1,1.0
+NEWS_0458_Q2,Which is one of the best-selling albums?,"(CNN) -- Michael Jackson, the show-stopping singer whose best-selling albums -- ","""Thriller""","""Off the Wall,"" ""Thriller"" and ""Bad""",0,0.33333333333333337
+NEWS_0908_Q5,"Who is due to play in ""Sticky and Sweet"" tour?","(CNN) -- Madonna was ""devastated"" to hear that a man was killed in an accident d",Madonna,Madonna,1,1.0
+NEWS_0277_Q2,who is featuring in Charlie's Angels?,"(CNN) -- Farrah Fawcett, the actress known worldwide for her beauty and her role",Farrah,Farrah Fawcett,0,0.6666666666666666
+NEWS_0515_Q1,What has Dayton gained?,(CNN) -- You can't get through a conversation with Jesse Dayton without hearing ,a hard core following in Texas.,one fan,0,0.0
+NEWS_0307_Q2,what was she known for,"(CNN) -- Actress Dixie Carter, best known for her role as Julia Sugarbaker on th",her role as Julia Sugarbaker,her role as Julia Sugarbaker,1,1.0
+NEWS_0520_Q2,Where are would-be iPhone developers turning t o?,"(WIRED) -- Apple is the exclusive gatekeeper to its iPhone App Store, able to re",Cydia.,app store,0,0.0
+NEWS_0209_Q1,To whom did Bout ship arms?,"NEW YORK (CNN) -- For years, Russian arms dealer Viktor Bout made millions of do","warlords and militants,",warlords and militants,1,1.0
+NEWS_0043_Q2,What has Jobs denied in the past?,"London, England (CNN) -- Apple CEO Steve Jobs this week rebuffed the suggestion ","""There are no plans to make a tablet.",a new service,0,0.0
+NEWS_0804_Q1,When did the accident happen?,(CNN) -- A second person has died during construction for Madonna's upcoming con,Thursday.,5:15 p.m.,0,0.0
+NEWS_0720_Q2,What is the BART officer accused of?,"OAKLAND, California (CNN)  -- A former transit police officer charged with murde",murder,murder,1,1.0
+NEWS_0498_Q5,Who is the author?,"(CNN) -- The modern and dysfunctional man, who struggles to find his footing in ",Nick Hornby's,Nick Hornby,0,0.5
+NEWS_0120_Q2,When is a private gathering expected to be held?,"LOS ANGELES, California (CNN)  -- They poured in to Los Angeles from places far-",Tuesday morning ahead of the public service.,Tuesday morning,0,0.5
+NEWS_0975_Q2,What instrument does she play?,NEW YORK (CNN) -- The home life Diana Krall shares with husband (and fellow musi,piano,piano,1,1.0
+NEWS_0009_Q1,there were many dead in the attack?,(CNN) -- At least 40 people were killed and numerous others injured in a reporte,At,At least 40 people were killed,0,0.2857142857142857
+NEWS_0876_Q2,Pitbull sings what genre?,"LOS ANGELES, California (CNN) -- As the man in the Dodgers jersey walked quickly",rapper,hip-hop,0,0.0
+NEWS_1031_Q3,Was a Harvard professor typecast as black?,"ATLANTA, Georgia (CNN) -- Boris Kodjoe owns a mansion in Atlanta. But when he go",you're still,"No matter your status or prominence in society, you're still typecast",0,0.3076923076923077
+NEWS_0693_Q3,What did the tow-truck driver say about the suspect?,(CNN) -- Elizabeth McCutchen and a friend were walking to book club two weeks ag,"said McCroskey was wearing a black-hooded sweatshirt and ""was really smelling bad, like real bad. I can't describe it.""",he started gagging from the odor and immediately rolled down the windows,0,0.07142857142857142
+NEWS_0170_Q1,Who is charged with murder?,(CNN) -- A part-time actor has been accused of killing his neighbor and then lur,"Daniel Wozniak,",Daniel Wozniak,1,1.0
+NEWS_0556_Q1,Who died of cancer at age 64?,(CNN) -- Fashion designer Vivienne Westwood and members of the Sex Pistols have ,Malcolm McLaren,Malcolm McLaren,1,1.0
+NEWS_0764_Q2,Who will have access to feed of all news feed content?,(CNET) -- A post on the Facebook developer blog announces the big application pr,third-party developers,third-party developers,1,1.0
+NEWS_0107_Q4,What is the age of Vick?,(CNN) -- Former Atlanta Falcons quarterback Michael Vick left a federal prison i,"28,",28,1,1.0
+NEWS_0705_Q4,Who is a trained doctor?,"LONDON, England (CNN) -- A medical ailment that has worried male members of stri","Elaine Murphy,",Elaine Murphy,1,1.0
+NEWS_0347_Q3,What film is currently dominating ticket sales?,"New York (CNN) -- For Kenny Ortega, Travis Payne and Michael Bearden, ""It"" is a ","""This Is It,""",This Is It,1,1.0
+NEWS_0441_Q3,Who will the inaugural show feature?,(CNN) -- John McCain tried to make Barack Obama's celebrity status a campaign is,"Mary J. Blige, Garth Brooks, Sheryl Crow, Renee Fleming, Josh Groban, Herbie Hancock, Heather Headley, John Legend, Jennifer Nettles, John Mellencamp, Usher Raymond IV, Shakira, James Taylor, will.i.am,",National Council of Negro Women,0,0.0
+NEWS_0886_Q5,What did jury member Robin Wright Penn say?,"CANNES, France (CNN) -- After eleven days, hundreds of screenings and thousands ","""There have been rumors circulating that we were fighting in the room,""","""Some of the films are very long,""",0,0.0
+NEWS_0172_Q1,Where was Michael Jackson born?,(CNN) -- U.S. fans of Michael Jackson are pouring out their grief through music ,"Gary, Indiana,",Jackson Street,0,0.0
+NEWS_1032_Q2,What is the film about?,"(CNN) -- ""Wolverine."" ""Star Trek."" ""Angels & Demons."" ""Terminator: Salvation."" T","pair of con-artist brothers,",eccentricity,0,0.0
+NEWS_0229_Q4,What movie took second place?,"(Entertainment Weekly) -- It couldn't top its predecessors, but ""X-Men Origins: ","""Ghosts of Girlfriends Past""",Ghosts of Girlfriends Past,1,1.0
+NEWS_0903_Q5,what did the un say,"LONDON, England -- Cocaine-abusing celebrities are glamorizing the use of narcot",Cocaine-abusing celebrities are glamorizing the use of narcotics and encouraging,smoking crack,0,0.0
+NEWS_0345_Q5,What is the theme on Google?,(Mashable) -- You know there's something significant going on when Google create,Halloween,Halloween,1,1.0
+NEWS_0248_Q5,What is the title of the concert?,Los Angeles (CNN) -- Acts signed for October's tribute concert for Michael Jacks,"""Michael Forever: The Tribute Concert""",Michael Forever: The Tribute Concert,1,1.0
+NEWS_0314_Q5,What was the Supreme Court opinion on the matter ?,Washington (CNN) -- The Supreme Court has again indefinitely blocked plans to di,expanded broadcast should not permitted,another court's administrative discretion,0,0.0
+NEWS_0611_Q2,how much cost the solar cell phone?,"(CNN) -- Peter Gathungu walks more than a mile to a shopping center, where he pa","about $35,",50 shillings,0,0.0
+NEWS_0639_Q5,What are some producers saying about Bollywood?,"MUMBAI, India (CNN) -- Bollywood's recent financial growth has been as dizzying ","""It's become more difficult now to green light films; to be able to think of developing films,""",fewer films are being made,0,0.0909090909090909
+NEWS_0713_Q1,who won three razzies,"LOS ANGELES, California (CNN)  -- It was a night for neon pink bow ties and word",Paris Hilton,Boll,0,0.0
+NEWS_0542_Q2,Nair directed which filds?,"(CNN) -- From ""Mississippi Masala"" to ""Vanity Fair,"" Mira Nair's movies have ent","""Monsoon Wedding"" and ""Salaam Bombay!""",Mira Nair CNN,0,0.0
+NEWS_0575_Q5,How many people did the Boy shoot to death?,(CNN)  -- The mother of an 8-year-old boy suspected in the shooting deaths of hi,two,"4,000",0,0.0
+NEWS_0332_Q4,Where did Snoop Dogg perform?,"Habib Battah is a blogger, freelance journalist and documentary filmmaker based ","Beirut,",DJ podium,0,0.0
+NEWS_0067_Q5,What will be unveiled Tuesday by Cook?,"(CNN) -- On Tuesday, new Apple CEO Tim Cook is expected to help unveil Apple's l",Apple's latest iPhone,iPhone,0,0.5
+NEWS_0976_Q5,What did he write about?,"(CNN) -- British author J.G. Ballard, whose boyhood experience in a World War II",boyhood experience in a World War II internment camp,science fiction,0,0.0
+NEWS_0534_Q4,which dominates the market,San Francisco (CNN) -- When Microsoft released the first Xbox nearly a decade ag,"Microsoft and Sony,",CNN,0,0.0
+NEWS_0527_Q3,What outlet were the rumors being spread on?,(CNN) -- Twitter was buzzing Thursday morning with news that several airlines ar,Twitter,Twitter and other social networks,0,0.33333333333333337
+NEWS_0442_Q1,When did King go missing?,"CHICAGO, Illinois (CNN) -- The body found inside an SUV Monday morning has been ",Friday.,3 p.m. Friday,0,0.5
+NEWS_0400_Q1,what is helping the advance of these technologies?,(CNN) -- Blair MacIntyre imagines a world where tiny clouds of information -- Fa,MacIntyre,It adds information to your world,0,0.0
+NEWS_0139_Q3,What is TED's motto?,"Long Beach, California (CNN) -- Moments after marine explorer Sylvia Earle finis","""Ideas worth spreading.""",Ideas worth spreading,1,1.0
+NEWS_0304_Q1,For what reason is it in decline,"(WIRED) -- Got a few grand to spare for a $3,000 phone? Yeah, we didn't think so","""The culture has shifted away from conspicuous consumption,",rapid advances in technology can rend older models obsolete very quickly,0,0.0
+NEWS_0478_Q4,What is the number of people who clicked the video?,"BERLIN, Germany (CNN) -- A hoax video purporting to show Michael Jackson hopping","More than 880,000","More than 880,000",1,1.0
+NEWS_0820_Q3,Who is credited for developing rubber compounds?,"(AOL Autos) -- Ever wonder what goes into the making of that round, black, rubbe",Charles Goodyear,Charles Goodyear,1,1.0
+NEWS_1014_Q5,What person was the tribute for?,"LONDON, England -- A huge crowd gathered in London, UK on Friday for a mass ""moo",Michael Jackson,Gail Porter,0,0.0
+NEWS_0746_Q3,when did it debut?,"LOS ANGELES, California (AP) -- The shoe phone on TV's ""Get Smart"" wasn't just a","in 1965,",1965,0,0.6666666666666666
+NEWS_0351_Q2,The fight is between Victor Ortiz and who else?,"(CNN) -- When Piers Morgan pointed out that ""Vicious"" Victor Ortiz will be ""faci",Floyd Mayweather.,de la Hoya,0,0.0
+NEWS_0164_Q2,What about he film is abominable?,"(CNN) -- There's never a bad time for a toga party, right? The story of Perseus ","retro-fitted 3D,",retro-fitted 3D,1,1.0
+NEWS_0797_Q1,What type of tips did Houston give?,(InStyle) -- Chanteuse Whitney Houston is back and she is better than ever! The ,on how to be alluring.,how to be alluring,0,0.888888888888889
+NEWS_0650_Q4,what did jolie say,"(CNN) -- Actress Angelina Jolie says she feels passionate about Haiti, whose ""ex","she feels passionate about Haiti,",They have no cell phones,0,0.0
+NEWS_0458_Q5,Where does Jackson suffer cardiac arrest?,"(CNN) -- Michael Jackson, the show-stopping singer whose best-selling albums -- ","his residence in the Holmby Hills section of Los Angeles, California,","Los Angeles, California",0,0.4615384615384615
+NEWS_0873_Q2,Who is recommending the new iphone?,"(CNN) -- Despite complaints by some owners about underwhelming battery life, the",Mike Gikas,Consumer Reports,0,0.0
+NEWS_0535_Q1,What movie in 2007 depicted his efforts?,"(CNN) -- Former Democratic Rep. Charles Wilson of Texas, whose support for anti-","""Charlie Wilson's War,""",Charlie Wilson's War,1,1.0
+NEWS_0117_Q1,What is Moore better known for?,"LOS ANGELES, California (CNN) -- Mandy Moore is getting a license to wed rocker ",success as a recording artist,producing rock music with a country influence,0,0.0
+NEWS_0177_Q2,What is the name of the cyclist?,"LOS ANGELES, California (CNN) -- A one-of-a-kind bicycle belonging to U.S. cycli",Lance Armstrong's,Lance Armstrong,0,0.5
+NEWS_0713_Q4,what is the purpose of the razzies,"LOS ANGELES, California (CNN)  -- It was a night for neon pink bow ties and word",honored the worst film achievements of the year,the foundation also recognized his lifetime work with the worst career achievement award,0,0.11764705882352942
+NEWS_0968_Q2,Where is Liz from?,"HOLLYWOOD, California (CNN) -- Singer Christina Aguilera joins fellow Grammy Awa","St. Bernard Parish, Louisiana,",CNN International,0,0.0
+NEWS_0421_Q5,What was the website that may have been involved?,(CNN) -- Authorities have identified three of the four women found dead this mon,"backpage.com,",accepts ads for escort services,0,0.0
+NEWS_0403_Q1,What was the name of Harrison Ford's stunt double in the Indiana Jones movies?,"LONDON, England (CNN) -- Think of a bullwhip and fedora and one man immediately ",Vic Armstrong.,Gregory Peck,0,0.0
+NEWS_0513_Q2,What does Rep. Jason Chaffetz talk about?,"Washington (CNN) -- At the House Republican strategy session in January, I stood","With today's easy Internet access and the surging popularity of social networking, there's no excuse for politicians to remain in the 20th century. For me, embracing new media and increasing the accessibility for my constituents is a winning formula.",the issues I think are important,0,0.0
+NEWS_0523_Q2,Who could have their service cut off?,"PARIS, France (CNN) -- French Internet users who download files illegally could ",French Internet users,Internet users who download files illegally,0,0.4444444444444444
+NEWS_0113_Q1,What did Jackson fans do?,"LONDON, England (CNN) -- Hundreds of Michael Jackson fans gathered in London on ",gathered in London,talk and share stories,0,0.0
+NEWS_0509_Q5,What was the rapper T.I. sentenced on?,"ATLANTA, Georgia (CNN)  -- Rap star T.I. was sentenced in Atlanta federal court ",weapons charges,one year and one day in prison,0,0.0
+NEWS_0997_Q5,What is the first policy issue to be debated online,(CNN) -- Sometimes it seems like Barack Obama rules the Internet. President Obam,health care fight is the,health care reform,0,0.5714285714285715
+NEWS_0837_Q4,what happened to carradine,"LOS ANGELES, California (CNN) -- David Carradine's wife and his manager disputed",death,vintage metal lunch box,0,0.0
+NEWS_0173_Q5,Which characters in `Antichrist` was played by Charlotte Gainsbourgh and Willem Dafoe?,"LONDON, England (CNN) -- When Danish auteur Lars von Trier presented his gothic ",a couple grieving the loss of a child,female,0,0.0
+NEWS_0807_Q4,"Who issues statement ""to set the record straight"" regarding remark?","(CNN) -- Actress Sharon Stone said in a statement Saturday that she ""could not b",Sharon Stone,Christian Dior,0,0.0
+NEWS_0930_Q4,What prison term does he face?,"LOS ANGELES, California (CNN)  -- After about 30 hours of deliberation, a jury o",18 years to life,18 years to life in prison when he is sentenced May 29,0,0.5
+NEWS_0127_Q1,which actor was appealed too?,"LAGOS, Nigeria (CNN) -- A group of Nigerian rebels who wrote a letter to U.S. Pr","George Clooney,",George Clooney,1,1.0
+NEWS_0562_Q1,This is the first I phone launch since who died,(CNN) -- Apple fans -- including co-founder Steve Wozniak -- lined up on Friday ,"Steve Jobs,",iPhone 4S,0,0.0
+NEWS_0062_Q2,What group was she lead singer for?,"LOS ANGELES, California (CNN) -- Heidi Newfield goes into Sunday's Academy of Co",Trick Pony.,Trick Pony,1,1.0
+NEWS_0423_Q3,What is a remake of the original for XBox 360?,San Francisco (CNN) -- Executing a successful remake of a video game can be like,"""Halo""",Halo,1,1.0
+NEWS_0374_Q1,"What year was the ""Last Lecture"" ?","(CNN) -- Randy Pausch, the professor whose ""last lecture"" became a runaway pheno",2007.,2007,1,1.0
+NEWS_0340_Q1,What is her rom-com called?,(The Frisky) -- Natalie Portman is getting a lot of Oscar buzz for her performan,"""No Strings Attached,""",Bride Wars,0,0.0
+NEWS_0445_Q5,How many people attend Comic-Con each year?,"(CNN) -- Hundreds of people attending Comic-Con in San Diego, California, will t","125,000","125,000",1,1.0
+NEWS_0555_Q5,How many films in the show?,"(CNN) -- When ""La Bamba"" hit movie screens in 1987, audiences flocked to see the",40,70,0,0.0
+NEWS_0335_Q4,Is he a famous person in tunisia?,(CNN) -- When scores of disgruntled Tunisians took to the streets in January to ,Dhafer L'Abidine,Tunisia's most famous actors,0,0.0
+NEWS_0792_Q2,who have highest rates?,"Editor's note: CNN.com has a business partnership with CareerBuilder.com, which ",Michigan,Arkansas,0,0.0
+NEWS_0879_Q5,What did Mary Hudson say?,"(PEOPLE.com) -- Katy Perry's parents, who are evangelical ministers, mentioned t","""I'm sure that Katy's trending on the Internet was to get you here to church tonight,""",they attend Perry's concerts,0,0.0
+NEWS_0929_Q5,Who are some prolific twitterers?,"(CNN) -- It's Sunday night during TNT's coverage of the NBA playoffs, and announ",Lance Armstrong,Shaquille O'Neal,0,0.0
+NEWS_0884_Q5,who was killed in a dubai apartment?,"CAIRO, Egypt (CNN) -- An Egyptian real estate mogul and a former police officer ",Lebanese singer Suzanne Tamim,Tamim,0,0.4
+NEWS_0910_Q2,when was the original release,(CNN) -- Rolling Stones frontman Mick Jagger played down his status as an iconic,40 years ago.,Tuesday,0,0.0
+NEWS_0904_Q3,Who is Brisco?,"MIAMI, Florida (CNN)  -- Miami rapper Brisco lost $40,000 in jewelry and his lux",Miami rapper,British Mitchell,0,0.0
+NEWS_0638_Q1,On what date was the released photo taken,(CNN) -- California corrections officials released a startling new prison mug sh,"June 5,",June 5,1,1.0
+NEWS_0199_Q3,What actor is going to join the white house?,"Editor's Note: The following story contains spoilers regarding the show ""House.""","Kal Penn,",Kal Penn,1,1.0
+NEWS_0268_Q4,What can be just as important as your degree?,"Editor's note: CNN.com has a business partnership with CareerBuilder.com, which ",presentation,presentation matters,0,0.6666666666666666
+NEWS_0299_Q1,What did clark say?,"ATLANTA, Georgia (CNN) -- Seventh graders at Ron Clark Academy became an overnig","""The higher the expectations, the higher the results,""","He was up in front of the kids on desks, he was dancing",0,0.0
+NEWS_0331_Q2,In which films did he have starring roles?,"(CNN) -- Former college and pro football star Charles Aaron ""Bubba"" Smith, who w","""Police Academy""",all six,0,0.0
+NEWS_0612_Q4,What was Moore's comment?,"LOS ANGELES, California (CNN) -- Actress Demi Moore's frequent postings on Twitt","""Thanks everyone for reaching out to the San Jose PD i am told they are aware and no need to call anymore. I do not know this woman.""","""Hope you are joking.""",0,0.06451612903225806
+NEWS_0852_Q1,What is Woody Allen's new film?,"LOS ANGELES, California (CNN) -- Actress Patricia Clarkson has a giggle whenever","""Whatever Works.""",Whatever Works,1,1.0
+NEWS_0112_Q2,who are in the movies,(CNN)  -- Rafael Nadal may be more used to serving aces than strutting his stuff,Rafael Nadal,The Indian star's handsome profile and suave personality,0,0.0
+NEWS_0713_Q5,"what ""Indiana Jones"" won worst prequel, remake?","LOS ANGELES, California (CNN)  -- It was a night for neon pink bow ties and word","Jones and the Kingdom of the Crystal Skull,""",Kingdom of the Crystal Skull,0,0.8
+NEWS_0306_Q3,Which of Jennifer's relatives were found dead in Chicago?,(CNN) -- In an age when many people become celebrities through looks or connecti,"7-year-old nephew,",Jason Hudson,0,0.0
+NEWS_0910_Q3,Which album was re-released?,(CNN) -- Rolling Stones frontman Mick Jagger played down his status as an iconic,"""Exile on Main Street.""",Exile on Main Street,1,1.0
+NEWS_0111_Q4,What was Drew Barrymore's directorial debut ?,"(Entertainment Weekly) -- ""Whip It!"" suggests what might have happened if Juno h","""Whip It!""",Smashley Simpson,0,0.0
+NEWS_0911_Q3,who get grammy winning?,"LOS ANGELES, California (CNN) -- Rapper Kanye West and his business manager face","winner, and Crawley were in the airport to catch a flight to Honolulu, Hawaii, police said.",West,0,0.0
+NEWS_0762_Q3,What songs did she sing?,"LONDON, England (CNN) -- Vera Lynn, who made her name entertaining troops in Wor","""The White Cliffs of Dover""",her first song 70 years ago,0,0.0
+NEWS_0842_Q3,What did the executive director say?,(Ars Technica) -- With the planned settlement between Google and book publishers,"""This group of American universities has no authority to decide whether, when or how authors forfeit their copyright protection. These aren't orphaned books, they're abducted books.""","they're abducted books.""",0,0.20689655172413793
+NEWS_0885_Q2,Who is staring in the film?,(CNN) -- While the horrors inflicted by the Nazis during World War II are well d,Daniel Craig,Zwick,0,0.0
+NEWS_0012_Q4,Who hears testimony on quake-ravaged nation?,(CNN) -- Sean Penn could have been walking the red carpet at the Cannes Film Fes,Senate Foreign Relations Committee,Andrew Natsios,0,0.0
+NEWS_0333_Q4,who is tyler perry,"ATLANTA, Georgia (CNN)  -- Tyler Perry is known today as the first African-Ameri",the first African-American to own a major film and TV studio.,Tyler Perry,0,0.0
+NEWS_0219_Q1,What is Jackie Chan famous for ?,"LONDON, England (CNN)  -- He's the butt-kicking, karate-chopping, kung fu supers","He's the butt-kicking, karate-chopping, kung fu superstar",star of the Rush Hour trilogy,0,0.0
+NEWS_0684_Q4,Where had he stayed?,New York (CNN) -- Police in New York and Virginia are searching for a 22-year-ol,"with a fellow VCU student and her friend in an apartment on 139th Street near Riverside Drive in Harlem,",139th Street,0,0.21052631578947367
+NEWS_0335_Q3,What show is he know for appearing in?,(CNN) -- When scores of disgruntled Tunisians took to the streets in January to ,"""Prince of Poets""",Prince of Poets,1,1.0
+NEWS_0027_Q2,Where is Mongolia?,"(CNN) -- China's Olympic adventure may be over, but new age chanteuse Sa Dingdin","northern China,",Inner Mongolia,0,0.0
+NEWS_0710_Q1,What is the name of the actor?,(CNN) -- Actor Edward Norton already wanted to be in better shape for his 40th b,Edward Norton,Edward Norton,1,1.0
+NEWS_0980_Q2,Who is up for best supporting actor?,"(CNN) -- ""Benjamin Button"" received more life, but Batman ended up in the dark. ",Heath Ledger's,Taraji P. Henson,0,0.0
+NEWS_0459_Q5,Where are people posting concern over Jackson?,"(CNN) -- From street corners, buses and subways to phone calls, e-mails, text me","phone calls, e-mails, text messages, online posts","Hong Kong, China",0,0.0
+NEWS_0362_Q1,What can you check out at the Muscle Beach competition?,Los Angeles Film Festival (June 18 -- 28) Since the Oscars are a closed shop to ,bikini-clad women contestants as well as a plethora of Arnie Schwarzenegger wannabes all hoping to be crowned the golden couple of,Mr and Mrs,0,0.0
+NEWS_0114_Q3,How much was spent on movie tickets?,"(CNN) -- The U.S. Postal Service spent more than $792,000 ""without justification","$14,140","$14,140",1,1.0
+NEWS_0627_Q1,What does F stand for,"LONDON, England (CNN) -- If mention of The Pirate Bay conjures up images of parr",Free Culture,Free Culture movement,0,0.8
+NEWS_0275_Q4,Who interviewed Olivia Newton-John?,"London, England (CNN) -- ""I had to be stitched into those pants,"" Olivia Newton-","CNN's Max Foster,",John Easterling,0,0.0
+NEWS_0094_Q2,what other songwriters are his fans,"(CNN) -- Josh Rouse is a chameleon. And a busy one, too. Josh Rouse has made his","Edie Brickell,",Edie Brickell,1,1.0
+NEWS_0773_Q2,CNN visits band during video shoot for new single called what?,"(CNN) -- If you didn't know that Perry Farrell, Dave Navarro and Stephen Perkins","""Irresistible Force,""",Irresistible Force,1,1.0
+NEWS_0979_Q1,For what reason does Jon say children should no longer film the show?,"LOS ANGELES, California (CNN)  -- After four years of ""Jon & Kate Plus 8,"" Jon G",I don't think it's healthy,self-destructive and unprofessional actions,0,0.0
+NEWS_0088_Q1,What will be on the cover of Billboard?,"OFF THE BAHAMAS (CNN) -- As the lights come up, Third Day lead singer Mac Powell",Third Day's,they became the first Christian band,0,0.0
+NEWS_0365_Q4,Who helped Don Bova change a tire?,(CNN) -- CNN.com reader Kristy O'Connor took a prenatal yoga class with Heath Le,Heath Ledger.,Heath Ledger,1,1.0
+NEWS_0489_Q3,When did this happen?,"NEW YORK (CNN)  -- Misdemeanor assault charges have been dropped against ""24"" st",May 7.,May 7,1,1.0
+NEWS_0489_Q1,What television drama does Kiefer Sutherland star in?,"NEW YORK (CNN)  -- Misdemeanor assault charges have been dropped against ""24"" st","""24""",CNN,0,0.0
+NEWS_0851_Q5,Which TV show is McCartney appearing on?,NEW YORK (CNN) -- Paul McCartney has come to New York and he wants to shout it f,"""Late Night with David Letterman,""",Late Night with David Letterman,1,1.0
+NEWS_0277_Q3,What disease is Fawcett fighting?,"(CNN) -- Farrah Fawcett, the actress known worldwide for her beauty and her role",cancer.,cancer,1,1.0
+NEWS_0348_Q1,who got a quick response?,(CNN)  -- When film director Kevin Smith tweeted about getting kicked off a Sout,Kevin Smith,John Smith,0,0.5
+NEWS_0038_Q5,Who's health was bad?,"LOS ANGELES, California (CNN) -- Actor Ricardo Montalban, star of the hit TV ser",Ricardo Montalban,spinal cord,0,0.0
+NEWS_0631_Q2,In what year did they meet?,Amadou Bagayoko and Mariam Doumbia are the blind husband and wife team from Mali,"1977,",1977,1,1.0
+NEWS_0012_Q5,What did Sean Penn found?,(CNN) -- Sean Penn could have been walking the red carpet at the Cannes Film Fes,"the J/P Haitian Relief Organization,",J/P Haitian Relief Organization,1,1.0
+NEWS_0171_Q5,Where did generations collide on Wednesday?,NEW YORK (CNN)  -- The YouTube and Carnegie Hall generations collided Wednesday ,New York City,New York City,1,1.0
+NEWS_0219_Q2,What is his new film called?,"LONDON, England (CNN)  -- He's the butt-kicking, karate-chopping, kung fu supers","""The Forbidden Kingdom""",Drunken Master,0,0.0
+NEWS_0184_Q4,What will extend the life of Nintendo's 3DS device?,"(CNN) -- For video game fans, many of the gadgets and accessories designed to su",Charge Base for,anemic 3- to 4- hour battery life,0,0.0
+NEWS_0347_Q1,Was the production more for the fans or Jackson's children?,"New York (CNN) -- For Kenny Ortega, Travis Payne and Michael Bearden, ""It"" is a ",kids,fans,0,0.0
+NEWS_0372_Q5,who post to Twitter from space?,"(CNN) -- It's not quite the achievement of a lunar landing, but astronaut Mike M",Mike Massimino,Massimino,0,0.6666666666666666
+NEWS_0757_Q3,Where are the Midnite Disturbers from?,"NEW ORLEANS, Louisiana (CNN) -- At the New Orleans Jazz and Heritage Festival, s",New Orleans,Jazz Fest,0,0.0
+NEWS_0071_Q1,who won this years final,"(CNN) -- She's been a comedian, talk-show host and feared red carpet fashion cri",Joan Rivers',"Britain's Got Talent""",0,0.0
+NEWS_0609_Q3,What number of years did it take to realize you were part of history?,(CNN) -- Cheryl Morse was 19 years old when she hitchhiked more than 700 miles f,10,10 years,0,0.6666666666666666
+NEWS_0579_Q2,How old was Crichton?,"LOS ANGELES, California (CNN) -- Michael Crichton, who helped create the TV show",66.,1942,0,0.0
+NEWS_0165_Q4,What type of treatment did the two people seek?,NEW YORK (CNN) -- Three people were arrested Saturday after chaos broke out at a,"at a hospital,",hospital,0,0.6666666666666666
+NEWS_0491_Q1,What was the cause of Jackson's death?,"Los Angeles, California (CNN) -- Dr. Conrad Murray, personal physician to Michae","homicide, resulting from a combination of drugs, primarily propofol and lorazepam.",insomnia,0,0.0
+NEWS_0887_Q4,What is Jackson's family decideing?,"LOS ANGELES, California (CNN) -- About 1.6 million fans registered for a chance ","body will be brought to the Staples Center arena,",The family will provide a free live video feed to networks,0,0.23529411764705882
+NEWS_0230_Q2,"How much did ""The Proposal"" gross?",(Entertainment Weekly) -- Sandra Bullock will surely be popping open the champag,"$34.1 million,",$34.1 million,1,1.0
+NEWS_0332_Q3,Which journalist followed Snoop Dogg around?,"Habib Battah is a blogger, freelance journalist and documentary filmmaker based ",Habib Battah,Roger Kalaouz,0,0.0
+NEWS_0240_Q4,How many users does Facebook have?,"(CNN) -- Facebook's user base is nearly as large as the U.S. population and, for",300 million,300 million,1,1.0
+NEWS_0776_Q5,When is he expecting his next child?,"(Entertainment Weekly) -- Actor Jude Law is expecting his fourth child, his spok","fall of this year,""",following a relationship last year,0,0.25
+NEWS_0424_Q4,What was Bea Arthur known for?,"(CNN) -- Bea Arthur, the actress best known for her roles as television's ""Maude","her roles as television's ""Maude"" and the sardonic Dorothy","her roles as television's ""Maude""",0,0.7692307692307693
+NEWS_0266_Q4,where Best actress nominees include Julie Christie?,(CNN) -- Who'll win and who will lose? The following are the nominations for the,"The Golden Age""",Elizabeth: The Golden Age,0,0.8
+NEWS_0994_Q2,who will answer questions,(CNN) -- He's gone from being a backup dancer to the biggest thing in Asian pop ,Rain,thousands of screaming fans,0,0.0
+NEWS_0608_Q5,Who is Steve Jobs?,"SAN FRANCISCO, California (CNN) -- Instead of Apple CEO Steve Jobs, celebrity-se",Apple CEO,Apple CEO,1,1.0
+NEWS_0336_Q4,Where did Zellweger and Connick become friends?,"LOS ANGELES, California (CNN) -- The romantic comedy ""New In Town"" puts co-stars","on the set of ""New In Town.""",New In Town,0,0.6666666666666666
+NEWS_0795_Q2,What type of driver gave the suspect a lift?,(CNN) -- Elizabeth McCutchen and a friend were walking to book club two weeks ag,tow-truck,tow-truck,1,1.0
+NEWS_0461_Q2,in what way was the ad altered?,"SEATTLE, Washington (CNN)  -- Software giant Microsoft apologized Wednesday for ",to place the head of a white man on a black man's body.,to place the head of a white man on a black man's body,1,1.0
+NEWS_0356_Q3,What was he hospitalized in September for?,"Los Angeles, California (CNN) -- Actor and filmmaker Dennis Hopper has been diag",prostate,flu-like symptoms and stomach pains,0,0.0
+NEWS_0355_Q5,What is the name of Brown's girlfriend?,"LOS ANGELES, California (CNN) -- Singer Chris Brown, sought by Los Angeles polic","Rihanna,",Rihanna,1,1.0
+NEWS_0288_Q2,What is online communication based on according to Pitt?,(CNN) -- Need some social etiquette advice for the digital age? Brad Pitt's got ,lies,porn,0,0.0
+NEWS_0468_Q5,What did Cameron's father teach her?,"(InStyle.com) -- Actress Cameron Diaz talks candidly about love, guys, friends, ",how to fight bullies in school.,humor,0,0.0
+NEWS_0606_Q4,Who started a network of people collecting info on toads?,"(CNN) -- As a hobby, Suzie Jirachareonkul, a teacher and mother of two, spends m","Suzie Jirachareonkul,",Josep del Hoyo,0,0.0
+NEWS_0735_Q1,who could win their 18th grammy?,"(CNN) -- With 17 Grammys, five gold records and -- by his count -- almost 130 al",Jimmy Sturr,Lil Wayne and Radiohead,0,0.0
+NEWS_0684_Q3,What are was Burnet?,New York (CNN) -- Police in New York and Virginia are searching for a 22-year-ol,valedictorian from New Kent County High School and,CNN,0,0.0
+NEWS_0820_Q5,What forms layers in the tire casings?,"(AOL Autos) -- Ever wonder what goes into the making of that round, black, rubbe",series of cords (most typically polyester),woven steel strands,0,0.0
+NEWS_0883_Q2,Where are they performing?,"(CNN) -- Twenty-five years ago, America discovered ""one of England's loudest ban","Vancouver, British Columbia.","Vancouver, British Columbia",1,1.0
+NEWS_0546_Q1,What was the song of the year?,(CNN) -- The unlikely alchemy of a hard-rock legend and a bluegrass superstar cr,"""Please Read the Letter""",Viva La Vida,0,0.0
+NEWS_0813_Q5,What did T.I. do two days before his prison term started?,"(CNN) -- Rap star T.I. threw himself a going-away party Sunday night, less than ",performed to a packed crowd,threw himself a going-away party Sunday night,0,0.0
+NEWS_0080_Q2,Does Shaffer have a new memoir?,"NEW YORK (CNN) -- ""Late Show With David Letterman"" bandleader Paul Shaffer is a ","""We'll Be Here for the Rest of Our Lives: A Swingin' Showbiz Saga""","As far as favorite ""overall package"" record of all time",0,0.09523809523809525
+NEWS_0521_Q5,how much Physics and post-secondary biology teachers can earn?,"Editor's note: CNN.com has a business partnership with CareerBuilder.com, which ","$81,880","$80,870 2",0,0.0
+NEWS_0243_Q1,what have forty four states done,"(CNN) -- ""The Blind Side"" could have been filmed anywhere, says Tim Bourne, an i","offering incentives in hopes of attracting projects that will help their economies,",invested more than $521 million,0,0.0
+NEWS_0145_Q1,what cancer type did he have,"Los Angeles, California (CNN)  -- Roy Edward Disney, the nephew of Walt Disney, ",stomach,stomach cancer,0,0.6666666666666666
+NEWS_0108_Q3,What is the name of the iPhone app?,(AOL Autos) -- How long did it take you to get a taxi last time you tried? If it,Taxi Magic,"iPhone
+
+Taxi Magic",0,0.8
+NEWS_0506_Q2,Who called Silicon Valley a meritorcracy?,"(CNN) -- Last Wednesday, a Twitter fight erupted between technology experts Mich","Michael Arrington,",Michael Arrington,1,1.0
+NEWS_0693_Q1,What age  is the rapper accused of the Virginia slayings?,(CNN) -- Elizabeth McCutchen and a friend were walking to book club two weeks ag,20-year-old,20,0,0.0
+NEWS_0481_Q3,which is the age of the player,(CNN) -- David Beckham has promised he will do everything in his power to help E,"34-year-old,",34,0,0.0
+NEWS_0405_Q4,Who is the chairman of the Samsung Group?,"SEOUL, South Korea (CNN) -- The chairman of the Samsung Group plans to resign, a",Lee Kun-hee,Lee Kun-hee,1,1.0
+NEWS_0499_Q4,Who will give tribute to Jackson?,"NEW YORK (CNN) -- Sunday night's ""2009 MTV Video Music Awards"" will feature a pe",Janet,her late brother,0,0.0
+NEWS_1021_Q4,Were the policeand orphanage records complete?,"(CNN) -- His father and uncle fall to the ground, crying uncontrollably. After 1",incomplete,incomplete,1,1.0
+NEWS_0200_Q1,What type of charcter is Captain America?,NEW YORK (CNN) -- Perhaps he should be called Captain Phoenix? Captain America w,superhero,shield,0,0.0
+NEWS_0035_Q5,what could selling tickets become?,"(CNN)  -- Buy a $175,000 package to attend the Oscars and you might buy yourself","bring celebrity stalkers or terrorists to the star-studded event,",security issue,0,0.0
+NEWS_0316_Q4,What is Netflix's DVD by mail going to be called?,(CNN) -- It has been a rough couple of months for Netflix. The company that virt,"""Qwikster.""",Qwikster,1,1.0
+NEWS_0463_Q4,When will a compilation be released?,"(CNN) -- After 20 years of mega-success together, country duo Brooks & Dunn say ",September 8.,September 8,1,1.0
+NEWS_0783_Q5,Name of the person who wrote the classic novel?,"(CNN) -- Reclusive author J.D. Salinger has emerged, at least in the pages of co",J.D. Salinger,Silverman,0,0.0
+NEWS_0962_Q5,What did Schaedler and colleagues discuss?,"LONDON, England (CNN) -- Tino Schaedler is an architect-turned-digital design ar",the future,"design, virtuality",0,0.0
+NEWS_0992_Q1,Whose films did he appear in?,"LOS ANGELES, California (CNN) -- Dom DeLuise, who spiced up such movies as ""Blaz",Mel Brooks,Carol Arthur,0,0.0
+NEWS_0851_Q4,"Who performed on ""Late Night with David Letterman""?",NEW YORK (CNN) -- Paul McCartney has come to New York and he wants to shout it f,Paul McCartney,Paul McCartney,1,1.0
+NEWS_0038_Q1,When did he die at home?,"LOS ANGELES, California (CNN) -- Actor Ricardo Montalban, star of the hit TV ser",Wednesday,6:30 a.m,0,0.0
+NEWS_0318_Q1,Where were they?,(CNN) -- Police arrested 46 people Saturday morning after they swept through a d,"in Boston, Massachusetts,","Boston, Massachusetts",0,0.8
+NEWS_0317_Q4,What is the name of her alter ego?,"LOS ANGELES, California (CNN) -- Janelle Monae is a girl from another planet, an","Cindi Mayweather,",Monae,0,0.0
+NEWS_0006_Q5,Who is taking on the role of Jason?,"LOS ANGELES, California (CNN) -- Actor Derek Mears has a big hockey mask to fill",Derek Mears,Derek Mears,1,1.0
+NEWS_0634_Q1,Which films did Maurice Jarre score?,"(CNN) -- Academy Award-winning composer Maurice Jarre, who scored movies includi","""Lawrence of Arabia""","Doctor Zhivago"" and ""Lawrence of Arabia""",0,0.6666666666666666
+NEWS_0426_Q2,What is the use of Crowdmug?,"(CNN) -- We're in a time of flux, my friends. We're sandwiched somewhere between",trade cash for pics,lets you trade cash for pics of the scene at local bars and restaurants,0,0.47058823529411764
+NEWS_0845_Q5,Who plans to resume their former role as Chief Yahoo?,(CNN) -- Yahoo! announced Monday that the search is on for the Internet giant's ,Yang,Jerry Yang,0,0.6666666666666666
+NEWS_0914_Q5,Batman is reunited with which nemesis?,(CNN) -- Imagine taking the best characters and elements of your favorite fictio,"the Joker,",the Joker,1,1.0
+NEWS_0155_Q3,In which New Orleans ward was horrific video footage of Hurricane Katrina captured?,"(CNN) -- Before the storm hit and the floodwaters took over, Kimberly Rivers Rob",Ninth,Ninth Ward,0,0.6666666666666666
+NEWS_0079_Q4,Where is the hospital that Heidi Pratt rushed to located?,"(CNN) -- Reality TV star Heidi Pratt was hospitalized Saturday in Costa Rica, he","Costa Rica,",Costa Rica,1,1.0
+NEWS_0335_Q1,What country is the actor from?,(CNN) -- When scores of disgruntled Tunisians took to the streets in January to ,Tunisia's,UK,0,0.0
+NEWS_0373_Q1,what Spike Lee's film tells story of African-American?,"(Entertainment Weekly) -- Spike Lee's last film, the gratifyingly tense and tric","""Miracle at St. Anna,""",Inside Man,0,0.0
+NEWS_0874_Q4,who is the co-author,"(CNN) -- Asked about part of the entertainment business he particularly enjoys, ",Greg Behrendt,Greg Behrendt,1,1.0
+NEWS_0365_Q5,What should you share?,(CNN) -- CNN.com reader Kristy O'Connor took a prenatal yoga class with Heath Le,"memories of Ledger,",memories of Ledger,1,1.0
+NEWS_0001_Q2,Arrest was the director ?,(CNN) -- Oscar-winning filmmaker Roman Polanski has been arrested in Switzerland,Roman Polanski,Los Angeles Superior Court Judge Peter Espinoza,0,0.0
+NEWS_0435_Q1,When is the album due out>,"(CNN) -- Simon Cowell may not recognize ""American Idol"" alumna Mandisa the next ","March 24,",March 24,1,1.0
+NEWS_0631_Q3,In what year did their album bring them crossover fame.,Amadou Bagayoko and Mariam Doumbia are the blind husband and wife team from Mali,2005,1977,0,0.0
+NEWS_0702_Q1,What is Fireproof about?,WASHINGTON (CNN) -- You don't find many churches making theatrical films. You es,a firefighter in a crumbling marriage addicted to online porn.,marriage,0,0.2222222222222222
+NEWS_0722_Q4,What has Versace become?,"(CNN) -- As recognizable as the brand itself, Donatella Versace is adamant about",head of the Italian fashion house,head of the Italian fashion house,1,1.0
+NEWS_0705_Q1,What journal was it published in?,"LONDON, England (CNN) -- A medical ailment that has worried male members of stri",the British Medical,British Medical Journal,0,0.8
+NEWS_0710_Q4,When will the marathon take place?,(CNN) -- Actor Edward Norton already wanted to be in better shape for his 40th b,Nov. 1,Nov. 1,1,1.0
+NEWS_0193_Q3,Any form of what means everything in your life is fair game?,"(CNN) -- Four years ago, if someone said ""Robert Pattinson"" or ""Taylor Lautner"" ",success or notoriety,notoriety,0,0.5
+NEWS_0732_Q3,What do apps do?,(CNN) -- We're reviewing two $99 turn-by-turn navigation applications for the iP,"says the street you should turn on and not just ""turn left.""",manage favorites,0,0.0
+NEWS_0598_Q4,Who is Obama trying to win over in S. Carolina?,"COLUMBIA, South Carolina (CNN)  -- Democratic Sen. Barack Obama kicked off a ser",black vote,Hillary Clinton,0,0.0
+NEWS_0222_Q1,what did they stop in kenya,(CNN) -- Cell phone technology is helping developing nations prepare for disease,"the spread of the virus,""",measles,0,0.0
+NEWS_0514_Q5,What is being blamed?,(PEOPLE.com) -- Sixteen days after her December 8 Las Vegas wedding to boyfriend,"pressures placed upon him by ""certain people in his life""","pressures placed upon him by ""certain people in his life",1,1.0
+NEWS_0756_Q2,what is the name of  the documentary?,"(CNN) -- Since 2001, there have been many excellent, award-winning and ground-br","""Hell and Back Again""",Hell and Back Again,1,1.0
+NEWS_0263_Q4,Who said sometimes it is hard for stars to listen to advisers?,"(CNN) -- They say that breaking up is hard to do, especially when millions of ey",Kessler,Kessler,1,1.0
+NEWS_0100_Q2,who did the rapper admire,"LOS ANGELES, California (CNN) -- Many fans will always remember where they were ",Michael Jackson,Rihanna,0,0.0
+NEWS_0031_Q3,Where is a good place to look?,"(CareerBuilder.com) -- It can be tough to pinpoint exactly what the term ""person",Internet,The Internet,1,1.0
+NEWS_0775_Q2,what sort of projects does he prefer working on?,"(CNN) -- Billy Ray Cyrus may be a country boy at heart, but he is also pretty sa",that can combine the two. I also love to write scores.,"touring, composing and being a dad",0,0.0
+NEWS_0264_Q5,Who might you not want to answer to?,"Editor's note: CNN.com has a business partnership with CareerBuilder.com, which ",Naomi Campbell,Simon Cowell,0,0.0
+NEWS_0934_Q3,What is becoming a good career tool?,"Editor's note: CNN.com has a business partnership with CareerBuilder.com, which ",Twitter,Her advice,0,0.0
+NEWS_0101_Q1,What did Heigl say of shopping for her wedding dress?,(InStyle.com) -- A hit TV show. An Emmy. A summer blockbuster. A new company. A ,"""This is my favorite look of the three just because it's sexy but not overtly so,""","""I like simple hair and makeup.""",0,0.0
+NEWS_0579_Q3,"Who wrote ""Jurassic Park""?","LOS ANGELES, California (CNN) -- Michael Crichton, who helped create the TV show","Michael Crichton,",Michael Crichton,1,1.0
+NEWS_0015_Q2,For what reason did police visit the actor's home?,(CNN) -- Former child actor Gary Coleman remained in a Utah jail Monday after be,"civil disturbance call,",civil disturbance call,1,1.0
+NEWS_0788_Q5,Who will lose his job this week?,New York (CNN)  -- Spider-Man's alter ego cannot escape the harsh realities of t,Spider-Man's alter ego,Spider-Man,0,0.0
+NEWS_0973_Q5,who stars in the film,(CNN) -- Actor Michael Jai White thinks the negative connotation surrounding the,Michael Jai White,Roger Corman and Russ Meyer,0,0.0
+NEWS_0372_Q1,Who posted to Tweeter from space?,"(CNN) -- It's not quite the achievement of a lunar landing, but astronaut Mike M",Mike Massimino,astromike,0,0.0
+NEWS_0746_Q5,What does a tv historian say?,"LOS ANGELES, California (AP) -- The shoe phone on TV's ""Get Smart"" wasn't just a","The inextricable link between gadgets and spy movies began with James Bond in 1962,",our fixation with gadgets,0,0.23529411764705882
+NEWS_0197_Q3,tribute to whom,(CNN) -- Details were just beginning to emerge Thursday on plans for memorial se,"Steve Jobs,",Steve Jobs,1,1.0
+NEWS_0108_Q2,What dictates the quickest way to get a cab?,(AOL Autos) -- How long did it take you to get a taxi last time you tried? If it,a passenger's situation,a passenger's situation,1,1.0
+NEWS_0175_Q1,What did his wife say?,"Belfast, Northern Ireland (CNN) -- Pop superstar Rihanna has been ordered to cov",Alan was particularly objecting to,Rihanna had gone topless,0,0.0
+NEWS_0161_Q2,What are two of her hits?,"LOS ANGELES, California (CNN) -- After a long apprenticeship, it's been an aston","""Fearless""","""Bust Your Windows""",0,0.0
+NEWS_0153_Q5,Heidi Klum wore red to raise awareness for what?,(InStyle) -- While the Academy of Motion Picture Arts and Sciences has been cele,women's heart health,charity,0,0.0
+NEWS_0341_Q4,What his her claim to fame during the 1970s?,"LOS ANGELES, California (CNN)  -- Porn icon Marilyn Chambers was found dead in h",adult-film actress,her face had graced the Ivory Snow box,0,0.0
+NEWS_0003_Q2,who continues to hail him as a hero,NEW YORK (CNN)  -- When filmmaker Roman Polanski was arrested Saturday in Switze,Peers of Roman Polanski have praised,Polanski,0,0.2857142857142857
+NEWS_1013_Q4,What is a political hot topic?,"LONDON, England (CNN) -- A habitually violent young man was convicted Wednesday ",Knife crime in Britain,Knife crime,0,0.6666666666666666
+NEWS_1008_Q5,How many copies of Doughtry's first album sell?,"(Entertainment Weekly)  -- For the past three weeks in a row, Michael Jackson's ","304,000","269,000",0,0.0
+NEWS_0919_Q5,What made the dancer decide to turn to acting?,"(CNN) -- She added smart to sexy as a Bond girl opposite Pierce Brosnan's 007, a",she sustained an injury while training at the Royal Academy of Dance in London.,athleticism,0,0.0
+NEWS_0022_Q2,What is Luhrmann's style known as?,"LONDON, England (CNN) -- Baz Luhrmann is the type of director for whom the word ",lush imagery and a lavish production,epic storytelling,0,0.0
+NEWS_0966_Q4,Where is the estate located?,"Los Angeles, California (CNN)  -- Turn up the music, crack the window -- falling","San Simeon, California,",Hearst Castle,0,0.0
+NEWS_0497_Q1,What was found on the farm on Monday morning?,(CNN) -- Skeletal remains found in a hayfield are those of Virginia Tech student,remains,skeletal remains,0,0.6666666666666666
+NEWS_0391_Q5,How long has he been a superstar of Bollywood?,"(CNN) -- After 40 years of appearing on the silver screen, actor Amitabh Bachcha",40 years,40 years,1,1.0
+NEWS_0666_Q4,What award did Clint Eastwood win?,"LONDON, England (CNN) -- After a lifetime of playing characters past-their-prime",lifetime achievement,lifetime achievement award,0,0.8
+NEWS_0045_Q2,In what way is Nanci's voice described as being,"(CNN) -- Nanci Griffith wanted to look on the bright side. Nanci Griffith, who s","gentle, crystalline","gentle, crystalline",1,1.0
+NEWS_0282_Q3,What substances did this singer use frequently?,"LONDON, England (CNN) -- Troubled pop star Amy Winehouse spent the night in a Lo",anti-anxiety drug Valium.,anti-anxiety drug Valium,1,1.0
+NEWS_0487_Q3,Who found international fame with ''Farewell My Concubine''?,"(CNN) -- Director Chen Kaige's films often examine the close ties of love, passi",Chen Kaige,Heather Graham and Joseph Fiennes,0,0.0
+NEWS_0140_Q2,What is Iran turmoil a hot topic on?,"(CNN) -- Nearly a week after the bloody weekend crackdown on Iranian protesters,","Twitter, YouTube, and Facebook.",Iranian protesters,0,0.0
+NEWS_0063_Q4,when was the notebook used?,"PARIS, France (CNN) -- A Pablo Picasso sketchbook with 33 pencil drawings disapp",between 1917 and 1924,between 1917 and 1924,1,1.0
+NEWS_0070_Q3,What is Madonna trying to do?,(CNN) -- Madonna is in Malawi this week attempting to adopt a second child from ,adopt a second child from the African nation.,adopt a second child from the African nation,1,1.0
+NEWS_0289_Q5,What does it muster a modicum of?,"(CNN) -- If you've been to the movies recently, you've probably been pummeled wi","snap, crackle and pop,","snap, crackle and pop",1,1.0
+NEWS_0162_Q2,"Fred Astaire, Elizabeth Taylor, Judy Garland also immortalized where?",Los Angeles (CNN) -- Michael Jackson's three children will use their father's sh,Grauman's concrete courtyard on Hollywood Boulevard,Hollywood Boulevard,0,0.5
+NEWS_1021_Q1,How long ago did Christian ask his adopted mother?,"(CNN) -- His father and uncle fall to the ground, crying uncontrollably. After 1",three years,three years ago,0,0.8
+NEWS_0462_Q3,What is the name of the voice-assistant?,"Cupertino, California (CNN) -- The iPhone 4S may not look any different from its",Siri,virtual personal assistants,0,0.0
+NEWS_0171_Q4,Who had the concert?,NEW YORK (CNN)  -- The YouTube and Carnegie Hall generations collided Wednesday ,YouTube Symphony Orchestra,Michael Tilson Thomas,0,0.0
+NEWS_0025_Q3,Which CD was her tour scheduled for?,"LOS ANGELES, California (CNN) -- Singer Natalie Cole underwent kidney transplant","""Still Unforgettable.""","""Still Unforgettable.""",1,1.0
+NEWS_0349_Q1,Who sought 15 years?,"NEW YORK (CNN) -- An actor who played a wannabe mobster in ""The Sopranos"" was se",The Bronx County District Attorneys Office,The Bronx County District Attorneys Office,1,1.0
+NEWS_0354_Q1,Where did the crime happen?,"LONDON, England (CNN) -- Pop star George Michael was cautioned by police in Lond","LONDON, England",Hampstead Heath,0,0.0
+NEWS_0779_Q3,Who sells the iPhone?,"TEL AVIV, Israel (CNN) -- In Tel Aviv's wholesale fashion headquarters, where te",Z-Tov Ltd.,Apple retail store,0,0.0
+NEWS_0601_Q3,What do chefs and fishermen fear?,"(CNN) -- Gulf Coast chefs and fishing advocates claim, ""Come on in; the water's ",oil-tainted seafood.,oil-tainted seafood,1,1.0
+NEWS_0583_Q3,what is the reason for the lists,"ATLANTA, Georgia (CNN) -- Caring for a car has you a befuddled. The honeymoon's ",help readers navigate everything they might need,help readers navigate everything they might need,1,1.0
+NEWS_0592_Q4,who won the grammy?,"LOS ANGELES, California (CNN)  -- Grammy-winning rapper Coolio was charged Tuesd",Coolio,Coolio,1,1.0
+NEWS_0477_Q5,What will the device  have?,Los Angeles (CNN) -- After weeks of headlines about the outage of its hacker-com,a 5-inch touch screen and feature front and back-mounted cameras and touch pads in addition to a pair of mounted joysticks.,a set of 3-D glasses,0,0.08695652173913043
+NEWS_0959_Q2,"Which actor hit the top spot with ""Enter the Dragon""?","LONDON, England (CNN) -- Bad dubbing, angry men with extraordinary facial hair, ",Bruce Lee's,Robert Clouse,0,0.0
+NEWS_0287_Q2,Who got intoa  slap fest with a pair of monkeys?,"(CNN) -- When a film cast includes names like Ben Stiller, Robin Williams and Ow",Funny man Stiller,Teddy Roosevelt,0,0.0
+NEWS_0087_Q5,"who said he was running fast, tripped and took a tumble?",(CNN) -- Country music singer-songwriter Brad Paisley was examined and released ,Brad Paisley,Brad Paisley,1,1.0
+NEWS_0744_Q4,What did the treasury minister say?,"BOGOTA, Colombia (CNN) -- ""Easy money, fast and effective."" Investors protest ou",the government is not to blame.,"the government is not to blame. """,1,1.0
+NEWS_0981_Q4,Where was it performed?,"LOS ANGELES, California (CNN) -- Robert Plant and Alison Krauss. Once upon a tim",51st annual Grammy Awards.,Los Angeles,0,0.0
+NEWS_0754_Q2,Who interviewed the band?,"(Rolling Stone) -- ""Making Achtung Baby is the reason we're here now,"" Bono says",Davis Guggenheim's,Bono,0,0.0
+NEWS_0668_Q4,What Rivers said about the Liam Neeson and his wife?,"LOS ANGELES, California (CNN) -- Natasha Richardson, the Tony Award-winning stag","Totally happy, totally devoted to each other.",comedian Joan Rivers,0,0.0
+NEWS_0657_Q4,What is the age Macintosh is turning?,(CNN) -- Ben Cahan wishes he hadn't damaged his old snapshot of a person in a pr,computer celebrates its 25th birthday,25,0,0.0
+NEWS_0192_Q1,Who where in audience at Houston party?,"Los Angeles, CALIFORNIA (CNN) -- Whitney Houston swept into the room in full div",David Foster,Jane Fonda,0,0.0
+NEWS_0566_Q3,where will charity's spot be?,"LONDON, England (CNN)  -- Actress Keira Knightley released a violent commercial ","on television and in movie theaters,",movie theaters,0,0.5
+NEWS_0974_Q2,what are the ages of Two sisters and a cousin?,(CNN) -- The spotlight will soon shine on three granddaughters of South African ,"27,",32,0,0.0
+NEWS_0337_Q2,What is said about the Internet?,(CNN) -- Media tycoon Rupert Murdoch expects News Corporation-owned newspaper We,"will soon be over.""",malfunctioning,0,0.0
+NEWS_0541_Q2,what percent was the box office up,(Entertainment Weekly) -- In the first truly shocking box office result of the y,68,68 percent,0,0.6666666666666666
+NEWS_0837_Q5,What did the family dispute?,"LOS ANGELES, California (CNN) -- David Carradine's wife and his manager disputed",suggestions that the,suggestions that the actor's death was a suicide,0,0.5
+NEWS_0768_Q2,What does Clark teach?,"ATLANTA, Georgia (CNN) -- Seventh graders at Ron Clark Academy became an overnig","""I'm teaching an eighth-grade curriculum to fifth-graders,""",global curriculum,0,0.25
+NEWS_0624_Q5,What does the Irish singer do while she works on albums?,NEW YORK (CNN) -- Enya is an anomaly. Think about it: How many recording artists,sets her own pace,perfect every celestial chord and layer harmony upon harmony,0,0.0
+NEWS_0527_Q1,What were the rumors claiming?,(CNN) -- Twitter was buzzing Thursday morning with news that several airlines ar,nurses to Haiti free of charge to help with relief efforts,false,0,0.0
+NEWS_0701_Q4,How long was Twitter shut down by the attack?,(CNN) -- Internet attacks shut down the social networking site Twitter for about,two hours,two hours,1,1.0
+NEWS_0278_Q5,what is the name of the film?,"(CNN)  -- Is the movie cop thriller heading for retirement? Colin Farrell, left,","""Pride and Glory""",We Own the Night,0,0.0
+NEWS_0972_Q4,What is the name of the movie?,"ATLANTA, Georgia (CNN) -- Jeremy Piven is the kind of guy who can make you laugh","""The Goods.""",Entourage,0,0.0
+NEWS_0916_Q1,"who is known as ""the dude""","LOS ANGELES, California (CNN) -- He got a standing ovation before the orchestra ",Gustavo Dudamel,Dudamel,0,0.6666666666666666
+NEWS_0451_Q1,Where was Mitchell touring?,(CNN) -- Those who knew Canadian folk musician Taylor Mitchell say her passion f,Eastern Canada,Eastern Canada,1,1.0
+NEWS_0275_Q2,What campaign does this actress promote?,"London, England (CNN) -- ""I had to be stitched into those pants,"" Olivia Newton-",education about rainforests.,education about rainforests,1,1.0
+NEWS_0380_Q1,Who did Morissette partner with?,"(Entertainment Weekly) -- Once upon a time -- oh, let's just call it North Ameri",Weezer,Guy Sigsworth,0,0.0
+NEWS_0864_Q3,the future will be robot boxer?,"(CNN) -- The trouble with boxing is, people get hurt. Some time soon, according ",replaced by,Zeus,0,0.0
+NEWS_0452_Q3,Where is Rihanna's new house?,"(InStyle.com) -- From barefoot tomboy to fashion supernova, fearless pop renegad",Los Feliz,Los Feliz,1,1.0
+NEWS_0078_Q3,What film does Del Toro star in?,"LONDON, England (CNN) -- The decision to make ""Che"" was an easy one, Benicio Del","""Che""",21 Grams,0,0.0
+NEWS_0578_Q1,what did Jackson calle the performances?,"LONDON, England (CNN) -- Reclusive pop icon Michael Jackson will perform 10 conc","""final curtain call.""",This Is It,0,0.0
+NEWS_0016_Q2,How much of these Iphone 4s will be made?,"(Mashable) -- Stuart Hughes, the British jeweler known for his expensive remakes",two,Only two,0,0.6666666666666666
+NEWS_0191_Q5,who was found?,(CNN) -- The cat that vanished in baggage claim at New York's John F. Kennedy In,Jack the Cat,Jack,0,0.6666666666666666
+NEWS_0709_Q3,How many levels does Tipitina's have?,(Coastal Living) -- New Orleans without music? That's like Venice without canals,two-level,two,0,0.0
+NEWS_0360_Q1,Who is being held on $1 million bail?,"LOS ANGELES, California (CNN)  -- A Georgia man suspected of shooting to death a","Aubrey Louis Berry,",a 21-year-old up-and-coming rapper,0,0.0
+NEWS_0722_Q3,Who are often the faces of Versace?,"(CNN) -- As recognizable as the brand itself, Donatella Versace is adamant about",Demi Moore.,"Jennifer Lopez, Madonna, Halle Berry, Kate Moss and Demi Moore",0,0.33333333333333337
+NEWS_0213_Q2,What actor won 1977 Oscar?,NEW YORK (CNN) -- An Oscar-winning songwriter was indicted on charges of sexuall,"Joseph Brooks,",Brooks,0,0.6666666666666666
+NEWS_0938_Q5,What is Baxter Healthcare saying?,WASHINGTON (CNN) -- Actor Dennis Quaid told lawmakers Wednesday how his newborn ,"human error was to blame,",an accident waiting to happen,0,0.22222222222222224
+NEWS_0278_Q2,What is the film about?,"(CNN)  -- Is the movie cop thriller heading for retirement? Colin Farrell, left,","Based on a video game, ""Max Payne""",déja-vu,0,0.0
+NEWS_0147_Q4,Where did the fleeing Iraqis go?,"BAGHDAD, Iraq (CNN) -- Oscar-winning actress Angelina Jolie is visiting Iraq to ","neighboring states,",Syria and Jordan,0,0.0
+NEWS_0214_Q3,who helped Wison get her GED,"LEBANON, Tennessee (CNN)  -- A tumultuous home life forced country music star Gr",Bernadine Nelson,Bernadine Nelson,1,1.0
+NEWS_0226_Q2,Who stars in the film?,(CNN) -- Comedy is hard; dying is easy. Any stand-up will tell you that. Adam Sa,Seth Rogen,Janusz Kaminski,0,0.0
+NEWS_0809_Q5,What is the name of the film that won eight Academy Awards?,"MUMBAI, India (CNN) -- On Sunday night, Azharuddin Ismail and Rubina Ali were in","""Slumdog Millionaire.""",Slumdog Millionaire,1,1.0
+NEWS_0707_Q3,Who gave a private concert?,"LONDON, England (CNN) -- Vladimir Putin spent the Russian New Year boogying to t",ABBA tribute band,Vladimir Putin,0,0.0
+NEWS_0568_Q3,What could cause harm to the moral compass?,(CNN) -- Rapid-fire TV news bulletins or getting updates via social-networking t,"New findings show that the streams of information provided by social networking sites are too fast for the brain's ""moral compass""",social experience,0,0.09523809523809525
+NEWS_0824_Q1,Whose Depp's costar?,"(CNN) -- Early in Michael Mann's vivid, incisive, but half-cocked gangster opus ",(Christian Bale).,Arthur Penn,0,0.0
+NEWS_0161_Q3,Who is she a protegee of?,"LOS ANGELES, California (CNN) -- After a long apprenticeship, it's been an aston",Missy Elliott.,Missy Elliott,1,1.0
+NEWS_1015_Q3,Who died Wednesday at the age of 95?,"(CNN) -- Frances Reid, best known for her decades-long portrayal of Alice Horton",Frances,Frances Reid,0,0.6666666666666666
+NEWS_0042_Q3,Which cities top the list for best cities?,"Editor's note: CNN.com has a business partnership with CareerBuilder.com, which ",Cleveland,U.S.,0,0.0
+NEWS_0288_Q4,What  new movie is Brad Pitt promoting?,(CNN) -- Need some social etiquette advice for the digital age? Brad Pitt's got ,"""Inglourious Basterds""",Inglourious Basterds,1,1.0
+NEWS_0667_Q2,What is her doctor charged with?,"LOS ANGELES, California (CNN) -- The prosecution cannot argue that sex was a mot","illegal conspiracy to prescribe, administer and dispense controlled substances to an addict.","illegal conspiracy to prescribe, administer and dispense controlled substances",0,0.9
+NEWS_0697_Q2,who does Anne Hathaway play ?,(InStyle.com) -- Daring in her fashion choices and her roles -- this summer she ,Agent 99,Agent 99,1,1.0
+NEWS_0087_Q4,who was treated at a local hospital?,(CNN) -- Country music singer-songwriter Brad Paisley was examined and released ,Brad Paisley,Brad Paisley,1,1.0
+NEWS_0935_Q1,Which state does the Zetas cartel operate in?,(CNN) -- A video purporting to be from a vigilante group whose goal is the eradi,"Veracruz, Mexico,",Michoacan,0,0.0
+NEWS_0504_Q5,What medication made her react this way?,"LONDON, England (CNN) -- Troubled singer Amy Winehouse has been admitted to a Lo",Goodman did not disclose,Winehouse's medication,0,0.0
+NEWS_0682_Q2,What does FotoFlexer bill itself as?,(CNN) -- Digital cameras are now as common and affordable to the average family ,"""the world's most advanced online image editor.""",the world's most advanced online image editor,1,1.0
+NEWS_0024_Q4,Since when Hollywood started against smoking?,"LOS ANGELES, California (CNN) -- Smoking in youth-rated movies has not declined ",years ago,two years ago,0,0.8
+NEWS_0356_Q5,What did Hopper just finish shooting?,"Los Angeles, California (CNN) -- Actor and filmmaker Dennis Hopper has been diag","the second season of the Starz drama ""Crash,""","Crash,""",0,0.2857142857142857
+NEWS_0125_Q3,What movie has moments of inspired comedy?,(CNN) -- The Academy-Award winning British producer and (briefly) Columbia Pictu,"""The Invention of Lying,""",The Invention of Lying,1,1.0
+NEWS_0624_Q2,Who is the Irish singing star?,NEW YORK (CNN) -- Enya is an anomaly. Think about it: How many recording artists,Enya,Enya,1,1.0
+NEWS_0483_Q4,What is attracting lawsuits?,"Buenos Aires, Argentina (CNN) -- Tomas Escobar created a website in his bedroom ","Cuevana.tv,",international media companies,0,0.0
+NEWS_0721_Q5,Who plans to keep acting?,"(CNN) -- It's been eight years since Daniel Radcliffe, Emma Watson and Rupert Gr",Radcliffe,Radcliffe,1,1.0
+NEWS_0258_Q2,what is her dream?,"LONDON, (England) CNN -- Natalia Vodianova is best known as the supermodel who h",to build 500 play parks in,to build 500 play parks in her native Russia,0,0.8
+NEWS_0898_Q4,Who is organizing the effort to elect Mellencamp?,"(CNN) -- To hear leaders of the ""Draft John Mellencamp for Senate!"" Facebook gro",Facebook group,The state's Democratic committee,0,0.0
+NEWS_0726_Q4,How many people watched YouTube video?,"(CNN) -- An international footballer who played for the United Arab Emirates, an",More than 1.2 million,More than 1.2 million,1,1.0
+NEWS_0189_Q5,Who is the director?,"NEW YORK (CNN) -- In the midst of the ongoing culture wars, can it be a good ide",Harold Ramis,Harold Ramis,1,1.0
+NEWS_0464_Q3,how long has his career been,"LOS ANGELES, California (CNN) -- Brad Pitt gets top billing in Quentin Tarantino",three-decades-long acting résumé,three-decades,0,0.0
+NEWS_0691_Q4,What is the stuntman's name?,"(AOL Autos) -- It had never been done before, but as Monte Perlin gunned the eng",Monte Perlin,Monte Perlin,1,1.0
+NEWS_0620_Q4,When was the Metallica concert?,(CNN) -- The mother of a Virginia Tech junior who disappeared Saturday night dur,Saturday night.,Saturday night,1,1.0
+NEWS_0344_Q2,What you do as a public relations specialist depends on what?,(CareerBuilder.com) -- Are you an online enthusiast? The dictionary doesn't have,the organization in which,the organization in which you work,0,0.7499999999999999
+NEWS_0643_Q5,Who was honored that day ?,Washington (CNN) -- Legendary performers mingled with Washington heavyweights as,Bruce Springsteen.,Bruce Springsteen,1,1.0
+NEWS_0766_Q1,What did the blaze destroy?,"LOS ANGELES, California (CNN) -- Workers using blowtorches accidentally started ",several movie sets and the King Kong exhibit.,vault containing hundreds of videos,0,0.0
+NEWS_0300_Q5,What did Pakistan block access to?,(CNN) -- Pakistan on Thursday blocked access to YouTube -- a day after it shut d,YouTube,YouTube,1,1.0
+NEWS_0947_Q3,What does page reboot software mean?,"LONDON, England (CNN)  -- A Web designer in London was amazed to discover that I","automatically refreshes a Web page every few seconds,","that dissidents can ""attack"" sites with a barrage of hits",0,0.0
+NEWS_0791_Q5,Which movie had pirated versions distributed online?,"(CNN) -- When the highly anticipated movie ""X-Men Origins: Wolverine"" opened Fri","""Wolverine,""",Warner Bros.,0,0.0
+NEWS_1016_Q4,Which cast member didn't get along with Burruss?,"ATLANTA, Georgia (CNN) -- Why would an award-winning singer, songwriter, produce",NeNe Leakes,Kim Zolciak,0,0.0
+NEWS_0313_Q3,What does the app do ?,"(Mashable) -- For all their buzz and value, location-based social networks haven","bring awareness to location-based privacy issues,",attach metadata to tweets,0,0.2
+NEWS_1025_Q2,Who did he allegedly attack?,Los Angeles (CNN) -- A 24-year-old Connecticut man affiliated with the Anonymous,"website belonging to Gene Simmons of the rock band KISS,",Simmons,0,0.19999999999999998
+NEWS_0639_Q2,What is happning to money going into the Mumbai film industry?,"MUMBAI, India (CNN) -- Bollywood's recent financial growth has been as dizzying ",is now just trickling in.,Foreign money,0,0.0
+NEWS_0116_Q4,Where did the large group gather?,"ATLANTA, Georgia (CNN)  -- Atlanta rapper DeAndre Cortez Way, better known by hi","at a home in Stockbridge, 20 miles south of Atlanta,",Stockbridge,0,0.19999999999999998
+NEWS_0640_Q2,What is the fourth most popular box office hit ever?,"LONDON, England (CNN) -- Eight years ago, Gael Garcia Bernal and Diego Luna beca","""Rudo y Cursi""",Rudo y Cursi,1,1.0
+NEWS_0255_Q4,When is Jackson scheduled to perform in London?,"(CNN) -- Contrary to a report in a British newspaper, Michael Jackson does not h",beginning July 8.,July 8,0,0.8
+NEWS_0397_Q5,"Who is known as the ""Barefoot Burglar""?","SEATTLE, Washington (CNN) -- Who is stealing -- and crashing -- airplanes in Was","Colton ""Colt"" Harris-Moore",Harris-Moore,0,0.5
+NEWS_1030_Q4,How many bedrooms does Cyrus have?,(InStyle.com) -- The Cyrus family is ready to rock and always on a roll at its n,two-room,two,0,0.0
+NEWS_0735_Q5,Who is about to win their 18th Grammy?,"(CNN) -- With 17 Grammys, five gold records and -- by his count -- almost 130 al",Jimmy Sturr,Lil Wayne and Radiohead,0,0.0
+NEWS_0074_Q2,Janet will help open what awards show?,"LOS ANGELES, California (CNN)  -- Michael Jackson fans will get their first peek",2009 MTV Video Music,MTV Video Music Awards,0,0.75
+NEWS_0614_Q5,What are some of the songs on the album?,"London, England (CNN) -- The debut album by New York rock band The Strokes has b","""Last Night""","""12:51"" and ""Reptilia.""",0,0.0
+NEWS_0669_Q2,Who doesn't wear deodorant?,"(Mental Floss) -- Although you probably use it every day, here's some interestin",Matthew McConaughey,Matthew McConaughey,1,1.0
+NEWS_0696_Q3,How many shows has Craig Rutman seen?,"(CNN) -- He had a 1966 Volkswagen bus, scraggly beard and a penchant for the art",more than 200,more than 200,1,1.0
+NEWS_0208_Q5,Who did the actress have a sexual relationship with?,(CNN) -- After actress Mackenzie Phillips spoke about her sexual relationship wi,"her musician father,",Mackenzie Phillips,0,0.0
+NEWS_0397_Q1,"Who believes Colton Harris-Moore may be stealing, crash-landing small planes?","SEATTLE, Washington (CNN) -- Who is stealing -- and crashing -- airplanes in Was",Police,Wallace,0,0.0
+NEWS_0683_Q3,What does Reese Witherspoon say about divorce?,(InStyle.com) -- She refuses to dwell on the past and accepts that she can't con,You have to keep it together for your kids and for yourself too.,I love my life without work,0,0.0
+NEWS_0413_Q5,Who got into a car accident while driving home in 2002?,"(The Frisky) -- When Michael Jackson died last summer, it kick-started a year wi",Kanye West,"Joaquin Phoenix 
+
+Joaquin Phoenix",0,0.0
+NEWS_0519_Q4,Who was accused of killing Oscar Grant III?,"OAKLAND, California (CNN)  -- A former police officer for the Bay Area transit s",Johannes Mehserle,Mehserle,0,0.6666666666666666
+NEWS_0346_Q4,How many years was he at Turner?,"Atlanta (CNN) -- Veteran sports broadcaster Jim Huber, a former CNN journalist, ",27,six,0,0.0
+NEWS_0661_Q2,what twitter hashtags emerged?,Cairo (CNN) -- When Azza Hilal Suleiman saw Egyptian military pummel the veiled ,#TahrirWoman and #Bluebra,#TahrirWoman and #Bluebra,1,1.0
+NEWS_0517_Q4,Israel summons who?,(CNN) -- Tensions between Israel and Turkey spilled into a second day Tuesday wh,the Turkish ambassador,Turkish officials,0,0.5
+NEWS_0003_Q5,What did the film festival president say?,NEW YORK (CNN)  -- When filmmaker Roman Polanski was arrested Saturday in Switze,"""We stand by and await his release and his next masterwork,""",Debra Winger,0,0.0
+NEWS_0625_Q5,Since when has Tarkan been the biggest pop star?,"Istanbul, Turkey (CNN)  -- Police have arrested Tarkan, Turkey's most famous pop",late 1990s,late 1990s,1,1.0
+NEWS_0424_Q1,Bea Arthur had now many sons?,"(CNN) -- Bea Arthur, the actress best known for her roles as television's ""Maude",Matthew and Daniel,Matthew and Daniel and grandchildren Kyra and Violet,0,0.5454545454545454
+NEWS_0845_Q1,Who took over as CEO in 2007?,(CNN) -- Yahoo! announced Monday that the search is on for the Internet giant's ,"Jerry Yang,",Jerry Yang,1,1.0
+NEWS_0374_Q2,Where was Randy Pausch a computer science professor?,"(CNN) -- Randy Pausch, the professor whose ""last lecture"" became a runaway pheno",Carnegie Mellon University,Carnegie Mellon,0,0.8
+NEWS_0961_Q4,Who wrote a welcome song for president?,(CNN) -- A street vendor in Ghana's capital sells small American flags with an i,a group of local singers and rap artists,Obama,0,0.0
+NEWS_0622_Q2,Who shared tips?,"LONDON, England (CNN) -- We're in Hollywood on this month's CNN Business Travell",Hollywood stylist Negar Ali,Negar Ali,0,0.6666666666666666
+NEWS_0712_Q3,What was the name of the old band?,NEW YORK (CNN) -- Chris Cornell has taken to Twitter like Tweety Bird took to ma,Soundgarden and Audioslave,Timbaland,0,0.0
+NEWS_0385_Q5,What is the third most popular religion in the US?,"RIVERDALE, Georgia (CNN)  -- In his darkest moment, Kenneth Brown lost it all. H",Buddhism,Buddhism,1,1.0
+NEWS_0182_Q4,What are Ahmadinejad's opponents  using new  to spread message their message?,"TEHRAN, Iran (CNN) -- Iranian President Mahmoud Ahmadinejad said Monday he did n",technology,new technology,0,0.6666666666666666
+NEWS_0228_Q2,"One coach, trying to break up the fight, suffered what?","Warrenton, Georgia (CNN) -- Coach David Daniel's worried pacing along the sideli",concussion.,a concussion,1,1.0
+NEWS_0388_Q3,What band helped lead the way for American bands?,"(CNN) -- In 1980, in the pre-Internet, pre-download days when R.E.M. formed in A",R.E.M.,American Bandstand,0,0.0
+NEWS_1006_Q5,What is the name of the movie?,(CNN) -- More timely now than when it premiered at the Sundance Film Festival in,"""Sunshine Cleaning.""",Sunshine Cleaning,1,1.0
+NEWS_0360_Q5,How much is the bail,"LOS ANGELES, California (CNN)  -- A Georgia man suspected of shooting to death a",$1 million,$1 million,1,1.0
+NEWS_0508_Q4,Where is the Ron Clark Academy?,"WASHINGTON (CNN) -- There was no shortage of superstars in Washington this week,","Atlanta, Georgia's",Kenya,0,0.0
+NEWS_0508_Q1,What are the Ron Clark Academy singers famous for?,"WASHINGTON (CNN) -- There was no shortage of superstars in Washington this week,","The kids gained notoriety just before the election when they appeared on CNN, singing ""You Can Vote However You Like.""",politics and world issues,0,0.0
+NEWS_0218_Q1,Who are more likely to use Twitter?,"(CNN)  -- As a musician and social justice activist, online social media has hel",Latinos and African Americans,Latinos and African Americans,1,1.0
+NEWS_0069_Q3,Who is covering the earthquake story?,(CNN) -- 10:44 p.m. -- The family of Anaika St. Louis lays the 11-year-old to re,(CNN),Errol Barnett,0,0.0
+NEWS_0316_Q2,what is Responses to latest changes ?,(CNN) -- It has been a rough couple of months for Netflix. The company that virt,"Netflix announced this week that it's splitting itself in two and rebranding its movies-by-mail service as ""Qwikster.""",my Twitter stream,0,0.0
+NEWS_0241_Q1,"What is percentage that ""G.I. Joe: The Rise of Cobra"" dropped?","(Entertainment Weekly) -- In what feels like a box-office weekend from ""The Twil",59 percent,59,0,0.6666666666666666
+NEWS_0596_Q3,Who have police interviewed,"LOS ANGELES, California (CNN) -- Michael Jackson's personal physician, Dr. Conra",Murray,Murray,1,1.0
+NEWS_0500_Q2,What does Cage do?,NEW YORK (CNN) -- Academy Award winner Nicolas Cage has pretty much got this act,acting,do enjoy animated movies,0,0.0
+NEWS_0562_Q2,When does the new iPhone go on sale?,(CNN) -- Apple fans -- including co-founder Steve Wozniak -- lined up on Friday ,Friday,4S,0,0.0
+NEWS_0600_Q4,What is Capt Dale Dye's wife's name?,(CNN) -- Stealth helicopters zoom toward a mystery compound in northern Pakistan,Julia,Julia Dye,0,0.6666666666666666
+NEWS_0524_Q3,Census bureaus are hiring people from where?,CNN affiliates report on where job seekers are finding work across the country a,Denver area.,Alabama,0,0.0
+NEWS_0382_Q5,Under which label is it released?,(CNN) -- A polar bear falls through thin Arctic ice while searching for food for,"""Earth"" is the first of a series of movies set to be",Disneynature,0,0.0
+NEWS_0490_Q4,Adam Sandler and Seth Rogen starred in what movie together?,"LOS ANGELES, California (CNN) -- Given a cast of Adam Sandler, Seth Rogen and Jo","""Funny People""",Funny People,1,1.0
+NEWS_0488_Q2,Who was Michael Jackson's doctor?,"LOS ANGELES, California (CNN) -- Dr. Conrad Murray, the physician under investig","Dr. Conrad Murray,",Murray,0,0.5
+NEWS_0935_Q3,is the zetas cartel from the veracruz state,(CNN) -- A video purporting to be from a vigilante group whose goal is the eradi,the,"Veracruz, Mexico",0,0.0
+NEWS_0174_Q3,whats the name of michael douglas wifE?,New York (CNN) -- The son of actor Michael Douglas apologized to a federal judge,"Diandra Luker,",Michael Douglas,0,0.0
+NEWS_0756_Q5,What is the film showing the marine's injuries?,"(CNN) -- Since 2001, there have been many excellent, award-winning and ground-br","""Hell and Back Again""",An early shot of a Marine instructor,0,0.0
+NEWS_0391_Q3,What is he known as?,"(CNN) -- After 40 years of appearing on the silver screen, actor Amitabh Bachcha","as ""The Big B""",The Big B,0,0.8
+NEWS_0522_Q4,What is the reason for postponing tour?,"LOS ANGELES, California (CNN) -- The Beastie Boys canceled all scheduled concert","Adam ""MCA"" Yauch is treated",canceled all scheduled concerts and delayed their next album release,0,0.0
+NEWS_0774_Q4,How many years old is Tetris turning?,"(CNN) -- It's amazing how a huge global phenomenon can begin. Tetris, the simple",25,25,1,1.0
+NEWS_0338_Q1,"What genre has been mocked in movies like ""Austin Powers""?","LONDON, England (CNN) -- Western cinema's relationship with martial arts has bee",kung fu,kung fu,1,1.0
+NEWS_0249_Q4,What does the councilman want?,"LOS ANGELES, California (CNN) -- The sponsor of a proposal to rein in aggressive",require photographers to stay a safe distance from celebrities.,require photographers to stay a safe distance from celebrities,1,1.0
+NEWS_0544_Q2,what company had a harder time with a movie release,(Entertainment Weekly) -- Score a personal best at the box office for Quentin Ta,Warner Bros.,Warner Bros.,1,1.0
+NEWS_0580_Q2,What was the show?,"HOLLYWOOD, California (CNN) -- Reality television featuring law enforcement offi","""Smile: You're Under Arrest.""","Smile: You're Under Arrest.""",1,1.0
+NEWS_0703_Q3,Where did she fall?,(CNN)  -- Actress Natasha Richardson was hospitalized after she fell on a ski sl,"on a ski slope at a Quebec resort,",Quebec resort,0,0.5
+NEWS_0193_Q2,who will see instant Hollywood fame?,"(CNN) -- Four years ago, if someone said ""Robert Pattinson"" or ""Taylor Lautner"" ",Josh Hutcherson and Liam Hemsworth,Josh Hutcherson and Liam Hemsworth,1,1.0
+NEWS_0528_Q2,Where attended fans came from?,Los Angeles (CNN) -- They came seeking justice as the sun rose Tuesday over a co,"France, Spain and Australia, as well as the far-flung suburbs of Los Angeles,",Australia,0,0.15384615384615385
+NEWS_0969_Q3,What profession did Scott Altman work for?,"KENNEDY SPACE CENTER, Florida (CNN) -- So, what's harder, steering a space shutt",retired Navy F-14 fighter pilot,director,0,0.0
+NEWS_0408_Q2,"How many Academy Awards was ""Slumdog Millionaire"" nominated for?","MUMBAI, India (CNN)  -- In the U.S., the film ""Slumdog Millionaire"" barely escap",10,three,0,0.0
+NEWS_0032_Q4,What did the Wu-Tang producer say could have derailed the band?,(CNN)  -- The Wu-Tang Clan -- the New York hip-hop supergroup that spawned milli,imprisonment or Method Man's death,Method Man's death,0,0.7499999999999999
+NEWS_0644_Q3,What was she the first African-American to do ?,"(CNN) -- Legendary singer, dancer, actress and civil rights activist Lena Horne,",sign a long-term movie contract with a major Hollywood studio,tour with a white group in 1940,0,0.14285714285714288
+NEWS_0300_Q3,Who blocked access to YouTube?,(CNN) -- Pakistan on Thursday blocked access to YouTube -- a day after it shut d,Pakistan,Pakistan,1,1.0
+NEWS_0102_Q3,Who talks about his passion for flying?,(CNN) -- This month on Art of Life we feel the need for speed.  From the world's,Bruce Dickinson,Bruce Dickinson,1,1.0
+NEWS_0047_Q3,What was the arrest for?,"(CNN) -- One evening last winter, Mike Harris was watching his local TV news whe",alleged sexual predators,alleged sexual predators,1,1.0
+NEWS_0837_Q3,what did he star in,"LOS ANGELES, California (CNN) -- David Carradine's wife and his manager disputed","""Kung Fu,""",metal lunch box,0,0.0
+NEWS_0921_Q3,Who is teh actor fo Saving Grace?,(CNN) -- Holly Hunter doesn't take roles based on what she thinks viewers want t,Holly Hunter,Jerry Kellerman,0,0.0
+NEWS_0741_Q5,What year was Lohan convicted of drunken driving?,"LOS ANGELES, California (CNN)  -- A hearing is set for Monday in a case involvin",2007,2007,1,1.0
+NEWS_0883_Q4,Who are the members of the band?,"(CNN) -- Twenty-five years ago, America discovered ""one of England's loudest ban","Christopher Guest, Michael McKean and Harry Shearer",Tap,0,0.0
+NEWS_0608_Q2,What upgrade was announced?,"SAN FRANCISCO, California (CNN) -- Instead of Apple CEO Steve Jobs, celebrity-se","Apple's iLife and iWork software suites,",iPhoto,0,0.0
+NEWS_0065_Q1,What is the movie called?,NEW YORK (CNN)  -- Mary J. Blige has sung her way to nine Grammy Awards and sold,"""I Can Do Bad All By Myself""",I Can Do Bad All By Myself,1,1.0
+NEWS_0263_Q2,Who's marital woes are being currently played out in the public?,"(CNN) -- They say that breaking up is hard to do, especially when millions of ey",Kate and Jon Gosselin,Gosselins,0,0.0
+NEWS_0767_Q3,What is the predicament of the cop?,"(CNN) -- In ""Street Kings,"" Keanu Reeves' bad-boy cop Tom Ludlow may not play by",cover up his own potentially incriminating presence at the scene,utterly pointless occupation,0,0.0
+NEWS_0664_Q2,who is the bollywood star,"(CNN) -- Actor and producer Anil Kapoor has long been a Bollywood luminary, but ",Anil Kapoor,Anil Kapoor,1,1.0
+NEWS_0100_Q1,Who recorded a tribute to Michael Jackson?,"LOS ANGELES, California (CNN) -- Many fans will always remember where they were ",The Game,The Game,1,1.0
+NEWS_0558_Q2,Where is the spy tale set?,"LONDON, England (CNN) -- Masks beneath masks, the click-clack of Mahjong tiles a","Shanghai,",Hong Kong,0,0.0
+NEWS_0417_Q3,Who had a standoff with North Korea?,(CNN Student News) -- Record the CNN Special Investigations Unit Classroom Editi,U.S.,U.S.,1,1.0
+NEWS_0350_Q2,What does the new mobile Maps version allow?,(WIRED) -- Google's Maps team has made fantastic advances in surveying and mappi,"see the entire layout of a mapped building, switch between floor plans if the structure has multiple levels, and locate indoor points of interest like retail stores, bathrooms and ATMs.",to see the entire layout of a mapped building,0,0.35294117647058826
+NEWS_0687_Q5,What do most wonder about peace prize?,(CNN) -- News that U.S. President Barack Obama won the Nobel Peace Prize has bee,worthy recipient,happiness and hope,0,0.0
+NEWS_0876_Q3,What type of heritage has pitbull,"LOS ANGELES, California (CNN) -- As the man in the Dodgers jersey walked quickly",Cuban-American,hip-hop,0,0.0
+NEWS_0987_Q1,"What is ""Antichrist"" about?",(CNN) -- An infant falls to his death from a second-story window while his paren,"strange kind of horror movie,",anguished intensity and audacious stylistic choices,0,0.0
+NEWS_0649_Q5,What kind of laws did the movie break?,WASHINGTON (CNN)  -- The Supreme Court heard new arguments Wednesday in a dramat,on campaign advertising.,campaign advertising,0,0.8
+NEWS_0708_Q1,Where can you find pictures of couple with vice president?,Washington (CNN) -- Two people without invitations crashed President Obama's fir,Michaele Salahi's Facebook page,Facebook page,0,0.6666666666666666
+NEWS_0096_Q3,"What was Garfunkel's occupation at the time ""Bridge Over Troubled Water"" became a hit?","(Mental Floss) -- Students, we know you may not be all that ecstatic about seein",teaching math,gym teacher,0,0.0
+NEWS_0234_Q4,What is Ricci's first name?,"(The Frisky) -- The new year is a time for taking stock, a time for looking back",Christina,Christina,1,1.0
+NEWS_0985_Q3,Who died around 5pm on Monday?,Los Angeles (CNN) -- A man wounded Friday when a gunman opened fire at passing v,John Atterberry,John Atterberry,1,1.0
+NEWS_0228_Q4,When did a melee break out between two Georgia high schools?,"Warrenton, Georgia (CNN) -- Coach David Daniel's worried pacing along the sideli","On the night of October 14,",October 14,0,0.5714285714285715
+NEWS_0856_Q3,what is a celebrity chaser?,LOS ANGELES (CNN)  -- The man whose investigation of President Clinton provided ,paparazzi.,paparazzi,1,1.0
+NEWS_0969_Q5,Who did Altman work with in this film?,"KENNEDY SPACE CENTER, Florida (CNN) -- So, what's harder, steering a space shutt",Tom,Tony Scott,0,0.0
+NEWS_0195_Q4,On what network?,"LOS ANGELES, California (CNN) -- Before Jada Pinkett Smith took the role of prod",TNT,TNT Network,0,0.6666666666666666
+NEWS_0128_Q5,who scored a $26 million debut,"(EW.com) -- After two weekends atop the box office, ""Puss in Boots"" was thwarted","""Jack and Jill,""",Adam Sandler,0,0.0
+NEWS_0345_Q2,What is the weight of some of the pumpkins?,(Mashable) -- You know there's something significant going on when Google create,"over 1,000 pounds).","over 1,000 pounds",1,1.0
+NEWS_0877_Q1,Which album did Page help design?,"(CNN) -- After the gloom of December's postal strikes, Britain's Royal Mail has ","""IV,""",Let It Bleed,0,0.0
+NEWS_0637_Q4,What does the film concern?,(CNN) -- Phil Donahue has rarely shied away from controversy. On his long-runnin,"a disabled Iraq war veteran, Tomas Young,",a drama taking place behind the closed doors of thousands of homes in this country,0,0.0
+NEWS_0904_Q4,What does security video show?,"MIAMI, Florida (CNN)  -- Miami rapper Brisco lost $40,000 in jewelry and his lux","Brisco,",sitting in a barber chair,0,0.0
+NEWS_0429_Q4,What was the reason for the rapper's sentence?,"(CNN) -- Rapper T.I., who was sentenced to a 366-day prison sentence in March,  ",on federal weapons charges.,purchasing machine guns and silencers,0,0.0
+NEWS_0135_Q2,How long is his sentence?,"(CNN) -- They've sung his praises on social networking pages, calling him a ""her",three years,three years,1,1.0
+NEWS_0982_Q4,When did Luciano Pavarotti die?,(CNN) -- Luciano Pavarotti died Thursday at the age of 71 after suffering from p,Thursday,Thursday,1,1.0
+NEWS_0144_Q5,What technologies are not very accessible to Africans?,"LONDON, England (CNN) -- The humble mobile phone is driving a new revolution whi","internet.""",cellphones,0,0.0
+NEWS_0569_Q4,How much money does he say the world can be changed with?,(CNN) --   Global activist and U2 frontman Bono attended the United Nations Gene,$25 billion,$25 billion,1,1.0
+NEWS_0818_Q3,Where did he announce that he wanted people to join him on ride?,(CNN) -- Seven-times Tour de France winner Lance Armstrong brought a Scottish to,"Paisley, Scotland,",Paisley,0,0.6666666666666666
+NEWS_0377_Q2,What Paterno says?,(CNN) -- Penn State students and supporters of head football coach Joe Paterno r,"""No discussions about retirement with JVP,""",not his father's,0,0.0
+NEWS_0032_Q5,RZA talks about forming what in upcoming memoir?,(CNN)  -- The Wu-Tang Clan -- the New York hip-hop supergroup that spawned milli,Wu-Tang,Bible,0,0.0
+NEWS_0054_Q4,is there a reason for change on schedule?,"LOS ANGELES, California (CNN) -- The date of the funeral for pop legend Michael ",in date.,No reason was given for the change in date,0,0.4
+NEWS_0718_Q4,What do the insurance rates cost?,"LOS ANGELES, California (Reuters)  -- ""To insure or not to insure?"" It isn't Sha","1 percent to 3 percent of a movie's production budget,",$5 million to $100 million or more,0,0.125
+NEWS_0696_Q5,What band is planning a new tour?,"(CNN) -- He had a 1966 Volkswagen bus, scraggly beard and a penchant for the art",Grateful Dead's,Dead,0,0.0
+NEWS_0918_Q3,What is 'Into the Pixel'?,Los Angeles (CNN)  -- Keep debating whether video games are art if you wish. At ,a juried art show,a juried art show now in its eighth year,0,0.5454545454545454
+NEWS_0676_Q4,Who led the pack in maximum data speeds?,"(WIRED) -- The iPhone 4S is available on three major carriers, leaving potential",AT&T,AT&T,1,1.0
+NEWS_0383_Q4,did the Screen Actors Guild endorse the package,"LOS ANGELES, California (CNN)  -- Members of the Screen Actors Guild overwhelmin",The union endorsed the,the two sides had been at odds mainly over the amount actors should be paid,0,0.0
+NEWS_0921_Q2,When  do these shows air?,(CNN) -- Holly Hunter doesn't take roles based on what she thinks viewers want t,June 8.,June 8,1,1.0
+NEWS_0793_Q1,What is five hours from Berlin by train?,"(Travel + Leisure) -- With its tranquil beaches, the tiny northern island of Syl",Sylt,Hamburg,0,0.0
+NEWS_0643_Q3,What is Mel brooks job ?,Washington (CNN) -- Legendary performers mingled with Washington heavyweights as,"writer, composer, actor, director and producer","writer, composer, actor, director and producer",1,1.0
+NEWS_0097_Q1,What is the name of the Da Vinci Code sequel?,"(CNN) -- Three years ago, the film based on Dan Brown's novel ""The Da Vinci Code","""Angels & Demons,""",Angels & Demons,1,1.0
+NEWS_0301_Q2,What is Jonathan Romney looking forward to?,"CANNES, France (CNN) -- The line-up at this year's Cannes Film Festival is a cin","""Enter the Void,""","""Enter the Void",1,1.0
+NEWS_0206_Q4,what kind of music do they play,NEW YORK (CNN) -- The members of the band Naturally 7 are experts at blowing the,"""vocal play""",vocal play,1,1.0
+NEWS_0770_Q5,"Aside from decorations, what else are party hosts suggested to do","(CNN)  -- Everything will glow -- the balloons, the table cloths, the blue marti","""Prepare as much of the food ahead of time so you can enjoy the party,""",place digital cameras around the room to capture paparazzi shots,0,0.0
+NEWS_0556_Q3,What happened in 1978,(CNN) -- Fashion designer Vivienne Westwood and members of the Sex Pistols have ,The Sex Pistols broke up,The Sex Pistols broke up,1,1.0
+NEWS_0665_Q3,when Preston might have bragged about her victory on Facebook before the finale?,"(PEOPLE.com) -- ""America's Next Top Model"" crowned a winner Wednesday night in i",the,"There has been speculation, not confirmed",0,0.0
+NEWS_0904_Q5,What is great material for my next album?,"MIAMI, Florida (CNN)  -- Miami rapper Brisco lost $40,000 in jewelry and his lux","""I'll get bigger jewelry and still go hard,""",Opa Locka Goon,0,0.0
+NEWS_0695_Q2,Who's band happened organically?,"NASHVILLE, Tennessee (CNN) -- A singer took center stage at a Nashville honky-to",Kevin Costner,Kevin Costner,1,1.0
+NEWS_0586_Q1,What was Pat Hingle's occupation?,"(CNN) -- Longtime character actor Pat Hingle, a veteran of early television dram",character actor,surgeons,0,0.0
+NEWS_0490_Q2,Is Sandler's character like him?,"LOS ANGELES, California (CNN) -- Given a cast of Adam Sandler, Seth Rogen and Jo",have little in common.,he and his character have little in common,0,0.6666666666666666
+NEWS_0050_Q2,what did the actress say,"ATLANTA, Georgia (CNN) -- Wearing a plaid green A-line spring skirt from her new","""I can't decide, impossible to choose!""",gladiator heels,0,0.0
+NEWS_0942_Q4,when Taylor dies at Chicago home of complications from?,(CNN) -- The Queen of the Blues is dead. Koko Taylor performs in Spain in 2005. ,died Wednesday,gastrointestinal bleeding,0,0.0
+NEWS_0509_Q4,Who was sentenced on weapons charges?,"ATLANTA, Georgia (CNN)  -- Rap star T.I. was sentenced in Atlanta federal court ",Rap star T.I.,T.I.,0,0.5
+NEWS_0406_Q1,What is still not pubilcly known?,"LOS ANGELES, California (CNN) -- The first official indication that a family ser",where or when Jackson would be buried.,funeral processional,0,0.0
+NEWS_0960_Q4,was the scene from the book,"(CNN) -- ""Harry Potter and the Half-Blood Prince"" hit thousands of theater scree",it never occurs in the J.K. Rowling novel.,CNN,0,0.0
+NEWS_0696_Q4,Where did Mark Goldfarb meet his wife?,"(CNN) -- He had a 1966 Volkswagen bus, scraggly beard and a penchant for the art",Grateful Dead concert,"Woodstock, New York",0,0.0
+NEWS_0068_Q1,What did Jack Wagner discover?,(PEOPLE.com) -- There may be an extra place setting around Jack Wagner's dinner ,he has a long-lost 23-year-old daughter,he has a long-lost 23-year-old daughter,1,1.0
+NEWS_0726_Q5,How many people viewed the video on YouTube?,"(CNN) -- An international footballer who played for the United Arab Emirates, an",1.2 million,More than 1.2 million,0,0.6666666666666666
+NEWS_0793_Q2,What attracts German celebrities to the island?,"(Travel + Leisure) -- With its tranquil beaches, the tiny northern island of Syl",dining scene,dining scene,1,1.0
+NEWS_0989_Q4,Who was Altovise Davis married to?,"(CNN) -- Altovise Davis, the widow of entertainer Sammy Davis Jr., has died. She","Jr.,",Sammy Davis Jr.,0,0.5
+NEWS_0517_Q2,episode of what?,(CNN) -- Tensions between Israel and Turkey spilled into a second day Tuesday wh,"popular Turkish soap opera, ""Valley of the Wolves: Ambush,""","Valley of the Wolves""",0,0.5454545454545454
+NEWS_0517_Q3,What did the show portray?,(CNN) -- Tensions between Israel and Turkey spilled into a second day Tuesday wh,depicted Israeli intelligence agents as baby-snatchers.,baby-snatchers,0,0.2857142857142857
+NEWS_0307_Q3,What age was carter when she died?,"(CNN) -- Actress Dixie Carter, best known for her role as Julia Sugarbaker on th",70.,70,1,1.0
+NEWS_0923_Q1,When is the honor day?,"LONDON, England (CNN) -- One revolutionized women's hair in the 1960s. Another b",once on New Year's,June,0,0.0
+NEWS_1016_Q2,"Who is the newest member of ""Real Housewives of Atlanta""?","ATLANTA, Georgia (CNN) -- Why would an award-winning singer, songwriter, produce",of the Real,Kim Zolciak,0,0.0
+NEWS_0385_Q2,what are the first two most popular religions?,"RIVERDALE, Georgia (CNN)  -- In his darkest moment, Kenneth Brown lost it all. H","Christianity and Judaism,",Christianity and Judaism,1,1.0
+NEWS_0424_Q2,Bea Arthur died at what age?,"(CNN) -- Bea Arthur, the actress best known for her roles as television's ""Maude",86.,86,1,1.0
+NEWS_0143_Q5,When will the suspect appear?,"(CNN) -- The Jacksonville, Florida, man accused of hacking celebrities' online a",November 1,November 1,1,1.0
+NEWS_0710_Q5,What group will the actor's run benefit?,(CNN) -- Actor Edward Norton already wanted to be in better shape for his 40th b,"for the Maasai Wilderness Conservation Trust,",Maasai Wilderness Conservation Trust,0,0.888888888888889
+NEWS_0484_Q1,Who has admitted stabbing actress Sharon Tate to Death.,"(CNN) -- A former ""Manson family"" member who stabbed actress Sharon Tate to deat","Susan Atkins,",Debra Tate,0,0.0
+NEWS_0475_Q2,Who has a big MySpace presence?,"(CNN) -- From cyberspace to college campuses, many young conservatives are worri",Obama,Obama,1,1.0
+NEWS_0596_Q4,was he with Michael when he died?,"LOS ANGELES, California (CNN) -- Michael Jackson's personal physician, Dr. Conra",Dr. Conrad Murray,June 25,0,0.0
+NEWS_0710_Q3,Who is also running?,(CNN) -- Actor Edward Norton already wanted to be in better shape for his 40th b,David Blaine and three Maasai tribesmen.,David Blaine,0,0.5
+NEWS_0681_Q5,What was the name of the contest?,NEW YORK (CNN) -- One of the perks of using search engine Google's home page is ,"""Doodle 4 Google,""",What I Wish for the World,0,0.0
+NEWS_1028_Q2,What do the sisters become?,(CNN) -- More timely now than when it premiered at the Sundance Film Festival in,Rose (Amy Adams) and Norah (Emily Blunt) struggle with menial jobs and periods of unemployment.,infuriating father,0,0.0
+NEWS_0634_Q2,"Who scored the music for ""Witness""?","(CNN) -- Academy Award-winning composer Maurice Jarre, who scored movies includi","Maurice Jarre,",Neil Curry and associate producer Lidz-Ama Appiah,0,0.0
+NEWS_0121_Q4,When is Arias expected to return to work?,(CNN) -- Costa Rican President Oscar Arias has been diagnosed with the H1N1 viru,"Monday,",Monday,1,1.0
+NEWS_0872_Q3,Which film did she perform in?,Japanese actress Rinko Kikuchi walks Anjali Rao through the streets of Tokyo. Sh,"""Babel.""",Babel,1,1.0
+NEWS_0302_Q2,What does Hurley hope?,(CNN) -- Formula One's new Team U.S. F1 will have the financial backing of YouTu,his start-up experience can help the US F1 team become a major player.,it goes beyond Silicon Valley,0,0.0
+NEWS_0092_Q3,Where is the music school run?,"(CNN) -- He's the man who helped make ""Slumdog Millionaire"" an international hit","Chennai,",Chennai,1,1.0
+NEWS_0306_Q5,What show did Hudson first appear at?,(CNN) -- In an age when many people become celebrities through looks or connecti,"""American Idol""",American Idol,1,1.0
+NEWS_0853_Q1,Who is threatening to quit the Italian Players' Association?,ROME. Italy -- Italy and Roma striker Francesco Totti has threatened to quit the,Francesco Totti,Francesco Totti,1,1.0
+NEWS_0684_Q5,What age was Burnet?,New York (CNN) -- Police in New York and Virginia are searching for a 22-year-ol,22-year-old,22,0,0.0
+NEWS_1014_Q2,Through what way was the event organized?,"LONDON, England -- A huge crowd gathered in London, UK on Friday for a mass ""moo",sending messages via Twitter and Facebook.,sending messages via Twitter and Facebook,1,1.0
+NEWS_0751_Q5,What did the actor say?,"LONDON, England (CNN) -- David Prowse, who played Darth Vader in the original ""S",revealed he is suffering from prostate cancer,Every man over the age of 50 should have a PSA test,0,0.0
+NEWS_0377_Q4,When is Sandusky's hearing rescheduled to?,(CNN) -- Penn State students and supporters of head football coach Joe Paterno r,"December 7,",1999,0,0.0
+NEWS_0859_Q4,What was he charged with?,"ATLANTA, Georgia (CNN) -- Kandi Burruss, the newest cast member of the reality s",voluntary manslaughter,voluntary manslaughter,1,1.0
+NEWS_0534_Q1,what is redesigning its video download service for the PlayStation 3?,San Francisco (CNN) -- When Microsoft released the first Xbox nearly a decade ag,Sony,Sony set-top boxes and Bravia TVs,0,0.2857142857142857
+NEWS_0777_Q3,Who has so much money that they use it to place bets?,(The Frisky)  -- Virgin Airlines heir Sam Branson was hanging out with Andy Rodd,against,celebrities,0,0.0
+NEWS_0026_Q1,When did they find him,(CNN)  -- The Drug Enforcement Administration said Wednesday it's considering ti,June 25.,after Michael Jackson's death,0,0.0
+NEWS_0885_Q5,Who are the stars of the film?,(CNN) -- While the horrors inflicted by the Nazis during World War II are well d,"Liev Schreiber,",Bielskis,0,0.0
+NEWS_0837_Q1,who did he play in kill bill,"LOS ANGELES, California (CNN) -- David Carradine's wife and his manager disputed","""Bill""",Quentin Tarantino,0,0.0
+NEWS_0494_Q4,Who is having a medical ethics board meeting?,"San Juan, Puerto Rico (CNN) -- A humanitarian mission to aid Haitian earthquake ",committee of the commonwealth's,commonwealth's,0,0.5
+NEWS_0044_Q5,What wedding did he play at?,"NEW YORK (CNN) -- He performed at Ellen DeGeneres' wedding this past summer, and",Ellen DeGeneres',Ellen DeGeneres,1,1.0
+NEWS_0166_Q5,What did A.R Rahman win?,"NEW DELHI, India (CNN) -- The collective cry throughout India of ""Jai ho"" (May y",two Oscars,two Oscars,1,1.0
+NEWS_0807_Q3,What were the comments a product of?,"(CNN) -- Actress Sharon Stone said in a statement Saturday that she ""could not b","news sensationalism.""",news sensationalism,1,1.0
+NEWS_0996_Q3,Was the movie a success?,"Tukwila, WASHINGTON (CNN) -- The Dude was in the house. Winners of the Seattle L",fell flat at the box office,the movie has developed a distinct cult following,0,0.0
+NEWS_0580_Q1,What is the show called.,"HOLLYWOOD, California (CNN) -- Reality television featuring law enforcement offi","""Smile: You're Under Arrest.""",Smile: You're Under Arrest,1,1.0
+NEWS_0101_Q2,What did she say about wearing makeup?,(InStyle.com) -- A hit TV show. An Emmy. A summer blockbuster. A new company. A ,"""I like simple hair and makeup.""","Send me a box of makeup, Stila",0,0.16666666666666666
+NEWS_0084_Q5,Who is director?,"HOLLYWOOD, California (CNN) -- Director Antoine Fuqua, the force behind films su","Antoine Fuqua,",Antoine Fuqua,1,1.0
+NEWS_0469_Q2,Who was arrested for drug possession in a London public toilet?,"LONDON, England (CNN) -- Pop star George Michael was cautioned by police in Lond",George Michael,George Michael,1,1.0
+NEWS_0350_Q5,What launched Tuesday with indoor mapping?,(WIRED) -- Google's Maps team has made fantastic advances in surveying and mappi,Google Maps 6.0 for Android,Google Maps 6.0,0,0.7499999999999999
+NEWS_0298_Q1,who are the first ladies?,"LOS ANGELES, California (CNN)  -- Fifteen first ladies from African nations will","U.S. Doctors for Africa (USDFA) and African Synergy Against AIDS and Suffering, a nonprofit organization formed by",Angola,0,0.0
+NEWS_0937_Q2,What was the former Culture Club singer jailed for?,"LONDON, England (CNN) -- Karma caught up with former Culture Club singer Boy Geo","falsely imprisoning a male escort,",falsely imprisoning a male escort,1,1.0
+NEWS_0240_Q1,How many users has Facebook?,"(CNN) -- Facebook's user base is nearly as large as the U.S. population and, for",300 million,300 million,1,1.0
+NEWS_0919_Q2,Is the dancer a professional?,"(CNN) -- She added smart to sexy as a Bond girl opposite Pierce Brosnan's 007, a",ballerina was dashed when she sustained an injury while training,her advice is typically practical,0,0.0
+NEWS_0830_Q3,What kind of movie is Zack and Miri Make a Porno?,"LOS ANGELES, California (CNN) -- Subtlety may not be in Kevin Smith's vocabulary",comedy,porn,0,0.0
+NEWS_0926_Q1,What will the three women receive?,(CNN) -- The struggle for women's rights against the backdrops of the Arab Sprin,medals and $1.5 million in cash.,Nobel Peace Prize,0,0.0
+NEWS_0419_Q3,What was the singer diagnosed with?,"(CNN) -- Andrew McMahon always wanted to be a rock star. When his band, Jack's M",acute lymphoblastic leukemia.,leukemia,0,0.5
+NEWS_0033_Q5,"Where did ""Avatar"" premiere?","(CNN) -- James Cameron unveiled his much-hyped, wildly-anticipated 3D sci-fi epi",London,London Thursday,0,0.6666666666666666
+NEWS_0043_Q4,Who denied that Apple was planning to enter the cell phone and tablet markets?,"London, England (CNN) -- Apple CEO Steve Jobs this week rebuffed the suggestion ",CEO Steve Jobs,Jobs,0,0.5
+NEWS_0695_Q5,What is the name of the band?,"NASHVILLE, Tennessee (CNN) -- A singer took center stage at a Nashville honky-to","Modern West,",Modern West,1,1.0
+NEWS_0746_Q1,What comes to the big screen next week?,"LOS ANGELES, California (AP) -- The shoe phone on TV's ""Get Smart"" wasn't just a","""Get Smart""",the phone,0,0.0
+NEWS_0952_Q1,What does the coroner say?,"Los Angeles, California (CNN) -- Casey Johnson, heiress to the Johnson & Johnson","She died of diabetic ketoacidosis,",Thursday,0,0.0
+NEWS_0104_Q1,what is part of her business,(PEOPLE.com) -- One thing Jennifer Lopez hasn't missed about not constantly bein,being in shape and looking good.,being in shape and looking good,1,1.0
+NEWS_0473_Q2,Who has a solo album out?,"ATLANTA, Georgia (CNN) -- There's the Amy Ray of the Indigo Girls: blending her ",Amy Ray,Daemon Records,0,0.0
+NEWS_0477_Q3,The launch marks Sony's biggest advance in handheld gaming since when?,Los Angeles (CNN) -- After weeks of headlines about the outage of its hacker-com,PSP in 2006.,2006,0,0.5
+NEWS_0521_Q4,The 2008 report lists dozens of jobs paying at least what?,"Editor's note: CNN.com has a business partnership with CareerBuilder.com, which ","$80,000 a year.",sciences,0,0.0
+NEWS_0974_Q5,What prompted the meeting?,(CNN) -- The spotlight will soon shine on three granddaughters of South African ,The show,Zaziwe Dlamini-Manaway,0,0.0
+NEWS_0971_Q4,Who are finding new ways to translate the Web?,(CNN) -- One of the Internet's great promises is that it's the ultimate democrat,Facebook and Google,Facebook and Google,1,1.0
+NEWS_0256_Q2,how many were shot,"LONDON, England (CNN) -- When David Whitney traveled to Pakistan to shoot his fi",Four,Four,1,1.0
+NEWS_0889_Q3,What are developeers creating?,"(WIRED) -- Last month, when Zack Ajmal was planning a vacation to Italy, he set ","OpenStreet Map, a community-driven maps database.",custom maps,0,0.28571428571428575
+NEWS_0099_Q3,"Which slot the ""Slumdog Millionaire"" take?","(Entertainment Weekly) -- After all the anticipation and hubbub, the weekend is ",(No. 4),No. 4,1,1.0
+NEWS_0775_Q1,what was in 1992,"(CNN) -- Billy Ray Cyrus may be a country boy at heart, but he is also pretty sa","""Achy Breaky Heart,""","1992 hit ""Achy Breaky Heart",0,0.7499999999999999
+NEWS_0133_Q2,What was she charged with?,"LONDON, England (CNN) -- British singer Amy Winehouse has been charged with ""com","""common assault""",common assault,1,1.0
+NEWS_0026_Q3,What kind of drug is Propofol?,(CNN)  -- The Drug Enforcement Administration said Wednesday it's considering ti,powerful anesthetic and sedative.,powerful anesthetic and sedative,1,1.0
+NEWS_0929_Q2,what Sports announcers use Twitter to share behind-the-scenes?,"(CNN) -- It's Sunday night during TNT's coverage of the NBA playoffs, and announ",Kenny Smith,Eleven members of the network's broadcast team,0,0.0
+NEWS_0373_Q2,"what ""Miracle"" isn't powerful but muddled and diffuse?","(Entertainment Weekly) -- Spike Lee's last film, the gratifyingly tense and tric","""Miracle at St. Anna""",Miracle at St. Anna,1,1.0
+NEWS_0826_Q4,Are the passengers responding to treatment ?,(CNN) -- The outbreak of a gastrointestinal illness has spread to more passenger,"well,",well,1,1.0
+NEWS_0816_Q5,What will the experts do?,"(CNN)  -- Could humans one day live to be 1,000, and would that be a good thing?",give you tips on how,give you tips on how to live longer,0,0.7692307692307693
+NEWS_1026_Q2,Who does Usher's Camp New Look help?,"(CNN) -- Fans of Usher Raymond IV view him as a singing, dancing and acting supe",teens from underserved communities,successful people who are living the lives she hopes to achieve,0,0.0
+NEWS_0140_Q1,The summary of latest trends is on where?,"(CNN) -- Nearly a week after the bloody weekend crackdown on Iranian protesters,",Twitter:,Twitter,1,1.0
+NEWS_0807_Q2,what did stone say about the comments?,"(CNN) -- Actress Sharon Stone said in a statement Saturday that she ""could not b","that the quake was an act of ""karma.""",They were an accident of my distraction and a product of news sensationalism,0,0.11764705882352942
+NEWS_0762_Q4,What are her hits?,"LONDON, England (CNN) -- Vera Lynn, who made her name entertaining troops in Wor","""The White Cliffs of Dover""","The White Cliffs of Dover""",1,1.0
+NEWS_0800_Q5,Which couple are to separate?,"(CNN) -- British model and television personality Katie Price, also known as Jor","Peter Andre,",Peter Andre and Katie Price,0,0.5714285714285715
+NEWS_0905_Q2,Who was convicted of her murder,"Atlanta, Georgia (CNN) -- Turn back time, more than 90 years, to a cold case tha","Leo Frank,",Mary Phagan,0,0.0
+NEWS_0078_Q4,"Who is the subject of ""Che""?","LONDON, England (CNN) -- The decision to make ""Che"" was an easy one, Benicio Del",Guevara.,Del Toro,0,0.0
+NEWS_0999_Q5,What is helping devastate West Africa?,"LONDON, England (CNN) -- The United Nations' anti-drugs chief has denounced cele",their alleged drug use,drug use,0,0.6666666666666666
+NEWS_0139_Q4,Who has the TED Prize gone to?,"Long Beach, California (CNN) -- Moments after marine explorer Sylvia Earle finis",Jamie Oliver,Anderson,0,0.0
+NEWS_0785_Q3,What does Shatner say about his time on Boston Legal?,"(CNN) -- From Captain Kirk on ""Star Trek"" to Denny Crane on ""Boston Legal,"" Will","We laughed our way through five years of great joy, great entertainment, and we got some wonderful awards during the years and the beauty of it all was that when we came in this season, we knew we were going to do 13 shows and be out. So the writing reflected the fact that we knew we were ending and it wrapped the whole show up.","talked with CNN's Kyra Phillips about his career, past and present",0,0.02777777777777778
+NEWS_0396_Q1,What do experts say is the future of animation?,"LONDON, England (CNN) -- From bedroom creators to big studios, hand-drawn to CGI","CGI,",animators face many complex challenges,0,0.0
+NEWS_0591_Q4,what is the AG name?,"(CNN) -- More than 2,100 registered North Carolina sex offenders were found on t","Roy Cooper,",MySpace,0,0.0
+NEWS_0782_Q2,Who is hosting?,"OSLO, Norway (CNN) -- A week of events to mark the presentation of the Nobel Pea",Michael Caine and Scarlett Johansson,Michael Caine and Scarlett Johansson,1,1.0
+NEWS_0871_Q3,Who is reportly behind it?,"TEHRAN, Iran (CNN) -- The Iranian government has blocked access to the social ne","the Masadiq Committee, made up of representatives from Iran's intelligence ministry, judiciary and others",Mahmoud Ahmadinejad,0,0.0
+NEWS_0023_Q3,what is the name of the new album,"LOS ANGELES, California (CNN) -- Mandy Moore stepped onto the small stage at Amo","""Amanda Leigh.""",Amanda Leigh,1,1.0
+NEWS_0532_Q5,what is The Auteurs?,"LONDON, England (CNN) -- Social networking, Martin Scorsese and cinema classics ",new movie Web site,a free online film festival,0,0.0
+NEWS_0774_Q1,Who did CNN talk to?,"(CNN) -- It's amazing how a huge global phenomenon can begin. Tetris, the simple","Alexey Pajitnov,",Pajitnov,0,0.6666666666666666
+NEWS_1012_Q2,What did writer Al Jean say?,"LONDON, England (CNN) -- The most eagerly anticipated animated film this year hi","explained. ""What really held us up for a long time was to have enough people to do the show and the movie,"" he said.",everyone's favorite two-dimensional yellow family,0,0.0
+NEWS_0160_Q1,When will the changes be made?,"(CNN) -- A couple years ago, a Microsoft researcher named Gordon Bell embarked o","the coming weeks,",weeks,0,0.6666666666666666
+NEWS_0624_Q1,What is Enya's new album called?,NEW YORK (CNN) -- Enya is an anomaly. Think about it: How many recording artists,"""And Winter Came,""",And Winter Came,1,1.0
+NEWS_0812_Q2,What does the BBC say?,(CNN) -- Iran has detained six documentary filmmakers on accusations that they w,no one works for the Persian service inside Iran,no one works for the Persian service inside Iran,1,1.0
+NEWS_0816_Q1,where is the webcast,"(CNN)  -- Could humans one day live to be 1,000, and would that be a good thing?",CNN.com,CNN.com,1,1.0
+NEWS_0380_Q3,What is Alanis Morissette's most affecting moment on the album?,"(Entertainment Weekly) -- Once upon a time -- oh, let's just call it North Ameri","which her voice cracks heartbreakingly over the lines ""From scratch begin again, but this time, I as I/And not as we.""",eccentric anthems,0,0.0
+NEWS_0035_Q2,Who was sued by academy?,"(CNN)  -- Buy a $175,000 package to attend the Oscars and you might buy yourself",the company Experience 6,Arizona-based company,0,0.4
+NEWS_0825_Q3,Who has a cancerous tumor?,"LOS ANGELES, California (CNN) -- The Beastie Boys canceled all scheduled concert","Adam ""MCA"" Yauch","Adam ""MCA"" Yauch",1,1.0
+NEWS_0234_Q5,There were more celebrity breakups in 2009 than what?,"(The Frisky) -- The new year is a time for taking stock, a time for looking back",deaths!,deaths,1,1.0
+NEWS_0991_Q3,What impact could the virus allow?,"(CNN) -- Software giant Microsoft is offering a $250,000 reward for information ",lead to millions of PCs being hijacked.,millions of PCs being hijacked,0,0.8333333333333333
+NEWS_0693_Q2,"Who was the ""stinkiest rascal I've ever smelled""?",(CNN) -- Elizabeth McCutchen and a friend were walking to book club two weeks ag,Elton Napier,McCroskey,0,0.0
+NEWS_0953_Q5,What did the witness say?,WASHINGTON (CNN) -- The Salvadoran immigrant suspected in the 2001 slaying of Wa,"Guandique said he and two male teenagers were sitting on a bench in a park smoking marijuana laced with cocaine when a woman with dark, thick hair jogged by.",he killed a young woman in the park,0,0.25
+NEWS_0785_Q1,What is the name of his autobiography?,"(CNN) -- From Captain Kirk on ""Star Trek"" to Denny Crane on ""Boston Legal,"" Will","""Up Till Now,""",Up Till Now,1,1.0
+NEWS_0658_Q2,What was Johnson's nickname?,"(CNN) -- Van Johnson, whose boyish looks and earnest manner made him a Hollywood","""voiceless Sinatra,""",The Purple Rose of Cairo,0,0.0
+NEWS_0569_Q5,"What can change the world, according to the activist?",(CNN) --   Global activist and U2 frontman Bono attended the United Nations Gene,$25 billion,AIDS drugs,0,0.0
+NEWS_0703_Q2,What activity was she doing?,(CNN)  -- Actress Natasha Richardson was hospitalized after she fell on a ski sl,a ski lesson,fell on a ski slope,0,0.3333333333333333
+NEWS_0135_Q1,Who through his shoes at Bush?,"(CNN) -- They've sung his praises on social networking pages, calling him a ""her","Muntadhar al-Zaidi,",Muntadhar al-Zaidi,1,1.0
+NEWS_0305_Q2,Are they directly involved?,"Rome, Italy (CNN) -- Two Pakistani men accused of providing logistical support f",10 Pakistanis were,CNN's Hada Messia in Rome contributed to this report.,0,0.0
+NEWS_0410_Q2,What is a prototype of a bad boy?,(The Frisky) -- When I try to explain my ardor for HBO's trashy-fabulous soap op,"The vampire,",The vampire,1,1.0
+NEWS_0861_Q1,what is the name of his company?,"(Tribune Media Services) -- A century and a half ago, Athens was a humble, forgo","New Acropolis Museum,",Brits,0,0.0
+NEWS_0789_Q3,Who was placed on mental health evaluation hold?,"LOS ANGELES, California (CNN) -- Pop star Britney Spears was resting at UCLA Med",Britney Spears,Britney Spears,1,1.0
+NEWS_0233_Q2,What is the key scene in UP?,(CNN) -- With an unbroken chain of blockbuster hits under their belt -- includin,An elderly balloon salesman uproots his house with the help of thousands of balloons,the first 10-15 minutes,0,0.0
+NEWS_0985_Q4,what is the age of Tyler Brehm?,Los Angeles (CNN) -- A man wounded Friday when a gunman opened fire at passing v,26-year-old,26,0,0.0
+NEWS_0458_Q4,He was dominant in what kind of music?,"(CNN) -- Michael Jackson, the show-stopping singer whose best-selling albums -- ",pop,pop,1,1.0
+NEWS_0905_Q4,Who was murdered in 1913?,"Atlanta, Georgia (CNN) -- Turn back time, more than 90 years, to a cold case tha",Mary Phagan,Mary Phagan,1,1.0
+NEWS_0557_Q2,Who is the show's host?,"NEW YORK (CNN) -- Supermodel and television host Tyra Banks said Sunday she's ""c",Tyra Banks,Tyra Banks,1,1.0
+NEWS_0198_Q5,What does ZipRealty used?,(CNN) -- ZipRealty is a full-service residential real estate brokerage firm whic,proprietary technology and employee real estate agents,"Internet, proprietary technology and employee real estate agents",0,0.9333333333333333
+NEWS_0464_Q5,who made the movie?,"LOS ANGELES, California (CNN) -- Brad Pitt gets top billing in Quentin Tarantino",Quentin Tarantino's,Waltz,0,0.0
+NEWS_0189_Q3,What type of film is it?,"NEW YORK (CNN) -- In the midst of the ongoing culture wars, can it be a good ide",sandal epic,biblical films,0,0.0
+NEWS_0431_Q5,"what ""Miss Guided"" star Brooke Burns likes?","(InStyle.com) -- As an aspiring ballerina, 9-year-old Brooke Burns took an aggre",being a brunette.,ABC comedy,0,0.0
+NEWS_0614_Q2,What topped the 100 Greatest Albums Of The Decade list?,"London, England (CNN) -- The debut album by New York rock band The Strokes has b","""Is This It""","""Is This It""",1,1.0
+NEWS_0484_Q4,In which year was Susan Atkins denied compassionate release from prison.,"(CNN) -- A former ""Manson family"" member who stabbed actress Sharon Tate to deat",2008.,2008,1,1.0
+NEWS_0223_Q5,Where was Grylls when the injury occurred?,(CNN) -- Adventurer and TV show host Bear Grylls injured his shoulder in Antarct,Antarctica,Antarctica,1,1.0
+NEWS_0253_Q1,Vampire weekend is working on what?,"(CNN) -- The name ""Vampire Weekend"" describes the band perfectly: distinctive an","new album,",a new album,1,1.0
+NEWS_0641_Q2,What dance group won Britain's Got Talent?,"(CNN) -- Internet sensation Susan Boyle came up short, coming in second during ""","Diversity,",Diversity,1,1.0
+NEWS_0440_Q2,What online phone company did Google buy?,"(Wired)  -- Google is set to become your new phone company, perhaps reducing you","Gizmo5,",Gizmo5,1,1.0
+NEWS_0142_Q5,What else is happening with Toyotas?,"Tokyo, Japan (CNN) -- Without issuing a recall of its iconic Prius hybrid vehicl",for a problem in which the cars' gas pedals could get stuck,when drivers are on a bumpy road or frozen surface,0,0.0
+NEWS_0459_Q3,what Fans across the world remark on Jackson's music?,"(CNN) -- From street corners, buses and subways to phone calls, e-mails, text me","WILL MISS YOU! WE LOVE YOU MICHAEL!!!""",hundreds of messages in languages ranging from French and Spanish to Japanese and Hebrew,0,0.0
+NEWS_0820_Q2,Who is being credited?,"(AOL Autos) -- Ever wonder what goes into the making of that round, black, rubbe",Charles Goodyear,Charles Goodyear,1,1.0
+NEWS_0124_Q4,What is playing as an outright family affair>?,"(EW.com) -- A remake, a prequel, and one woefully misguided bird-watching comedy","""Real Steel""",Real Steel,1,1.0
+NEWS_0225_Q3,Who unveiled a website?,(CNN) -- Former vice presidential candidate Sarah Palin joined the national batt,Brewer,Sarah Palin,0,0.0
+NEWS_0614_Q1,What did Libertines' debut?,"London, England (CNN) -- The debut album by New York rock band The Strokes has b","""Up the Bracket""",Up the Bracket,1,1.0
+NEWS_0265_Q5,Since when has the Watchmen film been anticipated?,"LOS ANGELES, California (CNN) -- Comic book fans have been waiting for years for",for years,Friday,0,0.0
+NEWS_0597_Q4,what is very difficult,WASHINGTON (CNN) -- Suzanne Richard was born to be an actress. Suzanne Richard s,"These strict financial eligibility limitations,",I'm hanging on by my fingernails,0,0.0
+NEWS_0274_Q3,"where Governments seek to control news, sometimes by jailing?",(CNN)  -- Despite the rise of the Web and its freewheeling second-by-second ferm,"Middle East and North Africa,",Twitter,0,0.0
+NEWS_0578_Q2,What rumors were about?,"LONDON, England (CNN) -- Reclusive pop icon Michael Jackson will perform 10 conc",financial difficulties and health problems,Rumors of financial difficulties and health problems,0,0.8333333333333333
+NEWS_1010_Q5,"What does one observer believes ""Knight's"" chances of getting a best picture nomination?","(CNN) -- When it comes to the Academy Awards, Hollywood has some biases. The lat","""an excellent shot""",it shouldn't be automatically relegated to the minor leagues,0,0.0
+NEWS_0311_Q5,What group of people is the app aimed for?,(CNN)  -- A new smartphone application allows users to carry out a virtual disse,"at medical and anatomy students who might not have the opportunity to dissect a real human body,",curious amateur,0,0.0
+NEWS_0478_Q1,What does the video supposedly show?,"BERLIN, Germany (CNN) -- A hoax video purporting to show Michael Jackson hopping",van alive,hopping out of a coroner's van alive,0,0.5
+NEWS_0959_Q1,What is described as 'stylish and bloody'?,"LONDON, England (CNN) -- Bad dubbing, angry men with extraordinary facial hair, ",Kill Bill 1 & 2,nunchucks,0,0.0
+NEWS_0192_Q2,Who attended the party?,"Los Angeles, CALIFORNIA (CNN) -- Whitney Houston swept into the room in full div",Whitney Houston,Jane Fonda,0,0.0
+NEWS_0281_Q3,Where did the singer visit?,"MBOLA, Tanzania (CNN)  -- Moved by a 2007 trip to Ghana, singer/songwriter John ","Mbola,",Ghana,0,0.0
+NEWS_0061_Q2,What is this week's topic?,"In this new weekly feature, CNN.com highlights five recommended Twitter feeds ab",five recommended Twitter feeds,health care debate,0,0.0
+NEWS_0029_Q3,what he want from Obama?,(CNN) -- Microsoft founder Bill Gates told CNN on Wednesday that he hopes Presid,"craft a wide-ranging stimulus package,",a wide-ranging stimulus package,0,0.8571428571428571
+NEWS_0184_Q1,what g155 mean,"(CNN) -- For video game fans, many of the gadgets and accessories designed to su","A portable game room to go,",$299.99,0,0.0
+NEWS_0211_Q3,What did Constance's school cancel?,(CNN) -- Walking into school Wednesday morning was not easy for Constance McMill,prom,prom,1,1.0
+NEWS_0883_Q5,What did shearer say?,"(CNN) -- Twenty-five years ago, America discovered ""one of England's loudest ban","""We're trying very hard to get across the idea that this is us, and only us,""",smooshing all that stuff into this fictional band,0,0.1739130434782609
+NEWS_0317_Q1,Name the singer,"LOS ANGELES, California (CNN) -- Janelle Monae is a girl from another planet, an",Janelle Monae,Monae,0,0.6666666666666666
+NEWS_0720_Q5,What is the name of the murder victim?,"OAKLAND, California (CNN)  -- A former transit police officer charged with murde",Oscar Grant III,Jackie Castillo,0,0.0
+NEWS_0680_Q1,What is Pandora music?,"(CNN) -- Pandora, the music-streaming service that's a soundtrack for many a des",music-streaming service,a soundtrack for many a desk-bound music lover,0,0.0
+NEWS_0699_Q1,who is Reese Witherspoon?,"LOS ANGELES, California (CNN) -- The latest 3-D animated movie involves the poss",actress,Jeffrey Katzenberg,0,0.0
+NEWS_0789_Q1,Who called the police?,"LOS ANGELES, California (CNN) -- Pop star Britney Spears was resting at UCLA Med",Spears' psychiatrist.,Spears' psychiatrist,1,1.0
+NEWS_0673_Q2,Number of weeks that the bikers was jailed for?,(CNN) -- A biker who posted videos of himself on YouTube performing stunts and s,12,12,1,1.0
+NEWS_0853_Q3,what did he said?,ROME. Italy -- Italy and Roma striker Francesco Totti has threatened to quit the,"""I'm ready to leave the Italian Players Association. We are the principal actors, but also the people who are never listened to,""",Roma striker Totti has complained that the Italian players are never listened to,0,0.3870967741935484
+NEWS_0030_Q2,What number of best actors presented Oscars?,"In our Behind the Scenes series, CNN correspondents share their experiences in c",five,five,1,1.0
+NEWS_0740_Q1,What is the title of the movie?,"(CNN) -- Watch out! Lock up your loved ones! Another bloated, over-produced, hig","""Monsters vs. Aliens.""",Monsters vs Aliens,1,1.0
+NEWS_0240_Q2,Who said that Facebook will be a strong independent service?,"(CNN) -- Facebook's user base is nearly as large as the U.S. population and, for","Mark Zuckerberg,",Mark Zuckerberg,1,1.0
+NEWS_0763_Q2,How many students?,"(CNN) -- A student who videoed a re-enactment of the ""Jena 6"" incident apologize",six,"8,500",0,0.0
+NEWS_0526_Q3,What is the name of the Barcelona company that claims its software can tell if a song will be a pop hit?,"(CNN) -- Since the early days of pop music, the music industry has been searchin",Science,Music Intelligence Solutions,0,0.0
+NEWS_0999_Q4,What did Winehouse respond with?,"LONDON, England (CNN) -- The United Nations' anti-drugs chief has denounced cele","a ""ludicrous man.""",she sends to others who are vulnerable to addiction and who cannot afford expensive treatment,0,0.0
+NEWS_0428_Q2,Charitable arm of which industry adapts to changing times?,(CNN) -- Elmo and Gordon want you to wash your hands so you don't catch the flu.,"Ad Council,",The Ad Council,1,1.0
+NEWS_0326_Q3,how many tickets does each winnner get,"LOS ANGELES, California (CNN) -- Some lucky Michael Jackson fans got the e-mails",two,two,1,1.0
+NEWS_0048_Q5,How many years until another hearing for Atkins?,"(CNN) -- Former ""Manson Family"" member Susan Atkins, who stabbed actress Sharon ",three,three,1,1.0
+NEWS_0736_Q1,who is a fan and recorded a tribute album,"LONDON, England (CNN) -- As the lights went down in the theater the low murmur b","Scarlett Johansson,",Bukowski,0,0.0
+NEWS_0411_Q2,Who was rapper Dolla?,(CNN)  -- The murder of rapper Dolla reverberated throughout the music industry ,"Roderick Anthony Burton II,",Akon,0,0.0
+NEWS_0686_Q3,What is he saving for?,"LONDON, England (Reuters) -- Harry Potter star Daniel Radcliffe gains access to ",books,£20 million ($41.1 million) fortune,0,0.0
+NEWS_0576_Q4,Who did Condoleeza Rice say was used by non-state actors?,"WASHINGTON (CNN) -- ""There's no doubt"" that the deadly attack on India's financi",Pakistani territory,Pakistani territory,1,1.0
+NEWS_0810_Q4,What companies have their headquaters in Ireland?,(CNN) -- Ireland --- once Europe's 'Celtic Tiger' -- was last year felled by its,"Facebook and Google,",Facebook and Google,1,1.0
+NEWS_0782_Q1,Where is the gala being held?,"OSLO, Norway (CNN) -- A week of events to mark the presentation of the Nobel Pea",Oslo,"Aceh, Indonesia",0,0.0
+NEWS_0956_Q4,What did Clooney talk about?,"(CNN) -- On Monday night, CNN's Larry King had an exclusive interview with actor","Criminal Court is going to indict the president of Sudan for war crimes,","coming back from Chad, right on the border of Darfur",0,0.09523809523809525
+NEWS_0670_Q1,What is grueling?,(InStyle.com) -- A hit TV show. An Emmy. A summer blockbuster. A new company. A ,A wedding!,gluttony,0,0.0
+NEWS_0126_Q2,"Who stars in ""The Ugly Truth""?",(Entertainment Weekly) -- Neither the magic of Harry Potter nor the combined sta,Katherine Heigl,Katherine Heigl and Gerard Butler,0,0.5714285714285715
+NEWS_0683_Q1,What is the name of her boyfriend who she grows cucumbers and tomatoes with?,(InStyle.com) -- She refuses to dwell on the past and accepts that she can't con,Jake Gyllenhaal,Jake Gyllenhaal,1,1.0
+NEWS_0014_Q3,Who did Robert Duvall first work with 40 years ago?,"LONDON, England (CNN) -- He immortalized the ""smell of napalm in the morning"" in",Francis Ford Coppola,Francis Ford Coppola,1,1.0
+NEWS_0071_Q5,What does the victory mean for the charity?,"(CNN) -- She's been a comedian, talk-show host and feared red carpet fashion cri","$250,000",raising money,0,0.0
+NEWS_1006_Q1,Who are the struggling sisters?,(CNN) -- More timely now than when it premiered at the Sundance Film Festival in,Norah (Emily Blunt),Rose (Amy Adams) and Norah (Emily Blunt),0,0.6
+NEWS_1007_Q2,What did he use to spy on the reporter?,"CHICAGO, Illinois (CNN) -- Authorities arrested a man accused of secretly taping",a peephole,videos on the Internet,0,0.0
+NEWS_0767_Q1,Who is playing the rogue cop?,"(CNN) -- In ""Street Kings,"" Keanu Reeves' bad-boy cop Tom Ludlow may not play by",Keanu Reeves',Whitaker,0,0.0
+NEWS_0763_Q1,What race were the Jena 6?,"(CNN) -- A student who videoed a re-enactment of the ""Jena 6"" incident apologize",black,black,1,1.0
+NEWS_0907_Q1,Which news channel was this information confirmed to?,(CNN) -- A phone hacking scandal may have cost Rupert Murdoch his biggest-sellin,CNN,CNN,1,1.0
+NEWS_0716_Q4,Who will play a free show in Auburn Hills?,(CNN) -- Comedian Jay Leno's plan to hold a free concert for the jobless of Detr,Jay Leno's,Jay Leno,0,0.5
+NEWS_0390_Q3,What is the name of the lead actor in the movie?,"(CNN) -- Three years ago, the film based on Dan Brown's novel ""The Da Vinci Code",Tom Hanks,Ewan McGregor,0,0.0
+NEWS_0607_Q1,Who plays the grieving widower Benjamin?,"(CNN) -- Based on a true story, Cameron Crowe's ""We Bought a Zoo"" is the kind of",Matt Damon,Maggie Elizabeth Jones,0,0.0
+NEWS_0520_Q1,What must a customer do in order to be able to use the unauthorized apps?,"(WIRED) -- Apple is the exclusive gatekeeper to its iPhone App Store, able to re",jailbreak their phones,jailbreak their phones,1,1.0
+NEWS_0400_Q5,What devices are AR apps being made for?,(CNN) -- Blair MacIntyre imagines a world where tiny clouds of information -- Fa,"Google's Android, T-Mobile's G1",on the market,0,0.0
+NEWS_0342_Q3,Which directors have been previously attached to the film?,"LONDON, England -- A yellow smiley-face badge, smeared with blood, has become th","Terry Gilliam, Darren Aronofsky, Paul Greengrass",Moore,0,0.0
+NEWS_0743_Q1,What is the film based on?,(Entertainment Weekly) -- They have come to glimpse the miracle. They have come ,the comic book that changed the face of comic books forever.,The Dark Knight,0,0.0
+NEWS_0718_Q2,Who is difficult to insure?,"LOS ANGELES, California (Reuters)  -- ""To insure or not to insure?"" It isn't Sha",Lindsay Lohan,Lindsay Lohan,1,1.0
+NEWS_0551_Q1,Which calendar features international starlets?,"(CNN) -- What do Elvis, Kim Kardashian, the Jonas Brothers, Dilbert and teen vam",the Sports Illustrated Swimsuit,Gruppo Campari,0,0.0
+NEWS_0548_Q2,What will the attorneys be discussing?,Los Angeles (CNN) -- After approximately a week of poring over 145 jury question,prospective jurors may have said outside the courthouse and online about events surrounding the June 2009 death of pop star Michael Jackson.,removing jurors,0,0.09090909090909091
+NEWS_0897_Q5,"What did ""Pulp Fiction"" win?","LONDON, England (CNN) --     Editor's note: Watch Tarantino talking about the ma",awarded the coveted Palm D'Or,Palm D'Or,0,0.6666666666666666
+NEWS_0488_Q5,Dr. Conrad Murray was the doctor of which superstar?,"LOS ANGELES, California (CNN) -- Dr. Conrad Murray, the physician under investig","Michael Jackson,",Michael Jackson,1,1.0
+NEWS_0711_Q1,What did he produce?,(CNN) -- It's difficult to overestimate Quincy Jones's contribution to American ,"produced Michael Jackson's multi-platinum albums ""Off The Wall,"" ""Bad"" and ""Thriller""","Michael Jackson albums and ""We are the World,""",0,0.3529411764705882
+NEWS_1029_Q2,name of british journalist,"(EW.com) -- How did the makers of ""I Don't Know How She Does It"" not know that t","Allison Pearson,",Allison Pearson,1,1.0
+NEWS_0700_Q3,Elizabth Taylor used twitter as to talk about how she cope after the death of whom,"(CNN) -- Elizabeth Taylor is having a ""procedure on her heart,"" she announced on",Michael Jackson,Jackson,0,0.6666666666666666
+NEWS_0720_Q4,The bail was set at how much?,"OAKLAND, California (CNN)  -- A former transit police officer charged with murde",$3 million,$3 million,1,1.0
+NEWS_0145_Q2,which films were successful,"Los Angeles, California (CNN)  -- Roy Edward Disney, the nephew of Walt Disney, ","and 'The Lion King,'","""Destino,""",0,0.0
+NEWS_0499_Q3,What is also promised?,"NEW YORK (CNN) -- Sunday night's ""2009 MTV Video Music Awards"" will feature a pe","will get their first peek during the MTV show at the behind-the-scenes documentary of the pop star's final three months,",Michael Jackson receives the Legend Award,0,0.0
+NEWS_0270_Q1,What did Obama use during his campaign?,(CNN) -- Self-confessed BlackBerry addict President Barack Obama may not have to,BlackBerry,"$3,350 smartphone",0,0.0
+NEWS_0719_Q5,What may be the only guarantee of success?,"London, England (CNN) --  YouTube this week announced the biggest viral video se",novelty.,novelty,1,1.0
+NEWS_0356_Q1,what has he just finished shooting,"Los Angeles, California (CNN) -- Actor and filmmaker Dennis Hopper has been diag","second season of the Starz drama ""Crash,""",Crash,0,0.2857142857142857
+NEWS_0529_Q2,What  has been cut off in Myanmar?,"(CNN) -- The Internet connection in Myanmar was cut Friday, limiting the free fl",Internet connection,The Internet connection,1,1.0
+NEWS_0776_Q2,Which did Law not reveal?,"(Entertainment Weekly) -- Actor Jude Law is expecting his fourth child, his spok",individual concerned,he is expecting his fourth child,0,0.0
+NEWS_0258_Q4,What is Vodianova's dream?,"LONDON, (England) CNN -- Natalia Vodianova is best known as the supermodel who h",to build 500 play parks in her native Russia.,to build 500 play parks in her native Russia,1,1.0
+NEWS_0667_Q4,What did the investigators find?,"LOS ANGELES, California (CNN) -- The prosecution cannot argue that sex was a mot","photos of Eroshevich and Smith ""naked in the bathtub in intimate embraces,""",photos,0,0.16666666666666669
+NEWS_0569_Q3,What did he say about campaigning?,(CNN) --   Global activist and U2 frontman Bono attended the United Nations Gene,grateful that they,"fighting disease, poverty, and hunger",0,0.0
+NEWS_0857_Q1,What did the judge revoke?,Los Angeles (CNN) -- Actress Lindsay Lohan missed her first day of community ser,probation for Lohan,probation,0,0.5
+NEWS_0655_Q4,What type of test is the coroners office waiting on,"Los Angeles, California (CNN) -- The autopsy on Corey Haim revealed the actor's ",toxicology,toxicology tests,0,0.6666666666666666
+NEWS_0684_Q1,"who is 5 feet, 10 inches",New York (CNN) -- Police in New York and Virginia are searching for a 22-year-ol,Ian Hunter Burnet,Ian Hunter Burnet,1,1.0
+NEWS_0438_Q1,When does the new album come out in the US?,"(CNN) -- Twenty-five years after the hit single ""West End Girls,"" can the Pet Sh",on April 21,April 21,0,0.8
+NEWS_1026_Q5,What did Usher create?,"(CNN) -- Fans of Usher Raymond IV view him as a singing, dancing and acting supe",Camp New Look.,New Look Foundation,0,0.6666666666666666
+NEWS_0807_Q5,What did the actress issue?,"(CNN) -- Actress Sharon Stone said in a statement Saturday that she ""could not b",statement,hasty comments,0,0.0
+NEWS_0727_Q1,What is his name?,"LONDON, England (CNN) -- A British adventurer has overcome sea sickness to compl",Paul Smith,Paul Smith,1,1.0
+NEWS_0681_Q4,"Where does the winner of ""Doodle for Google"" live?",NEW YORK (CNN) -- One of the perks of using search engine Google's home page is ,"San Antonio, Texas,","Bernard Harris Middle School in San Antonio, Texas",0,0.5454545454545454
+NEWS_0597_Q5,What does she encourage disabled actors to do?,WASHINGTON (CNN) -- Suzanne Richard was born to be an actress. Suzanne Richard s,"embraced it,",expensive medical treatment,0,0.0
+NEWS_0444_Q3,Who is guily of murder?,"CAIRO, Egypt (CNN) -- An Egyptian business tycoon and a former police officer ha",Hisham Talaat Moustafa and,Suzanne Tamim,0,0.0
+NEWS_0486_Q2,What happened to Natalie Cole,(People.com) -- While she does not know who donated the kidney that potentially ,had a kidney transplant in May.,a kidney transplant,0,0.5714285714285715
+NEWS_0865_Q5,What Torrance said about Thatchers movie?,(CNN) -- There's always been something about Margaret Thatcher that makes grown ,"a pitch-perfect performance, accurately capturing the look, sound and general aura of the United Kingdom's first female premier.",nostalgia trip,0,0.0
+NEWS_0099_Q1,What did Watchmen do?,"(Entertainment Weekly) -- After all the anticipation and hubbub, the weekend is ","grossed $55.7 million during its first frame,",led the weekend box office,0,0.0
+NEWS_0706_Q2,What is his wife's name?,Washington (CNN) -- Veteran sports anchor George Michael died early Thursday aft,"Pat,",Pat,1,1.0
+NEWS_0103_Q3,What was passed around at conference?,(CNET)  -- At a hacker conference no one is safe. Demographic of Defcon conferen,USB thumb drive,USB thumb drive,1,1.0
+NEWS_0663_Q1,Who played the identical cousins?,(CNN) -- For those of us who remember a time when many families didn't have colo,Patty Duke,Cathy,0,0.0
+NEWS_0446_Q3,What does the work?,New York (CNN)  -- Rapper Lil Wayne will go directly to jail after he is sentenc,removal of his diamond-studded braces.,"dental work done, including removal of his diamond-studded braces",0,0.7142857142857143
+NEWS_0036_Q1,What film is Virginia Madsen best known for?,"LOS ANGELES, California (CNN) -- In its opening weekend, ""The Haunting in Connec","""The Haunting in Connecticut""",The Haunting in Connecticut,1,1.0
+NEWS_0599_Q5,Who said he is trying to be funny and entertaining?,(CNN) -- Generations of standup comedians never saw this coming. John Heffron is,John Heffron:,John Heffron,1,1.0
+NEWS_0549_Q2,What instrument is Martin accomplished at?,"LOS ANGELES, California (CNN) -- We were scheduled to speak with Steve Martin ju",banjo,banjo,1,1.0
+NEWS_0228_Q5,What injuries were an outcome of the melee?,"Warrenton, Georgia (CNN) -- Coach David Daniel's worried pacing along the sideli",wound over his right eye,concussion,0,0.0
+NEWS_1002_Q4,What did the homeless man call it?,"LOS ANGELES, California (CNN) -- Brenda Gardenhire shows off her new home with p",hobo condo.,hobo condo,1,1.0
+NEWS_0730_Q1,What is the number of the proposition?,(CNN) -- A California judge ruled Wednesday to allow cameras in a federal courtr,"8,",52.5 percent,0,0.0
+NEWS_0185_Q1,Which films failed to make the shortlist?,"LONDON, England (CNN) -- While the Oscars is without doubt the grandest of all t","""Persepolis""",DIDN'T select,0,0.0
+NEWS_0113_Q3,Where Michael Jackson fans gathered?,"LONDON, England (CNN) -- Hundreds of Michael Jackson fans gathered in London on ","O2 arena in southeast London,",London,0,0.33333333333333337
+NEWS_0458_Q1,Who suffers cardiac arrest at home?,"(CNN) -- Michael Jackson, the show-stopping singer whose best-selling albums -- ","Jackson,",Michael Jackson,0,0.6666666666666666
+NEWS_0963_Q2,Who participated in the fund-raising concert?,(CNN) -- Former Beatles Paul McCartney and Ringo Starr will reunite on stage nex,Ringo Starr,Paul McCartney (above) and Ringo Starr,0,0.5
+NEWS_0006_Q1,What does Mears say of the iconic role?,"LOS ANGELES, California (CNN) -- Actor Derek Mears has a big hockey mask to fill","It's so weird. There's two different versions. There's my version of how it went about, and there's the producer's",boogeyman Jason Voorhees,0,0.0
+NEWS_0306_Q4,How many other women did Hudson beat out for a certain role?,(CNN) -- In an age when many people become celebrities through looks or connecti,almost 800,almost 800,1,1.0
+NEWS_0563_Q5,what does the internet game involve,"LONDON, England (CNN) -- Seven emergency medics in England have been suspended f",being photographed lying down in unusual places.,being photographed lying down in unusual places,1,1.0
+NEWS_0657_Q2,Who photographed Kurt Russell with his old Mac?,(CNN) -- Ben Cahan wishes he hadn't damaged his old snapshot of a person in a pr,Cahan,Mike Tuohy,0,0.0
+NEWS_0291_Q1,What movie came in second with $17.7 million ?,"(Entertainment Weekly) -- It was a glass half-full, glass half-empty kind of wee","""Harry Potter and the Half-Blood Prince""",Harry Potter and the Half-Blood Prince,1,1.0
+NEWS_0748_Q2,What was Harrison's star next to?,"LOS ANGELES, California (CNN) -- George Harrison's closest friends and family ga","the iconic Hollywood headquarters of Capitol Records,",Capitol Records,0,0.5
+NEWS_0204_Q3,Sex and the what?,"(CNN) -- The AMC series ""Mad Men"" has been honored for its sharp writing, polish","City""",the City,1,1.0
+NEWS_0486_Q5,when is natalie comeback?,(People.com) -- While she does not know who donated the kidney that potentially ,"September 9,",September 9,1,1.0
+NEWS_0578_Q4,How many concerts at London's O2 Arena?,"LONDON, England (CNN) -- Reclusive pop icon Michael Jackson will perform 10 conc",10,"20,000",0,0.0
+NEWS_1005_Q3,what was a homicide,"LOS ANGELES, California (CNN) -- Seventy days after his sudden death, Michael Ja",The coroner announced last week that he had ruled Jackson's death a,Jackson's death,0,0.33333333333333337
+NEWS_0011_Q1,what wears Michelle Obama?,(CNN) -- President Barack Obama and first lady Michelle Obama were dancing their,"white gown designed by up-and-coming designer Jason Wu,",Jason Wu,0,0.4
+NEWS_0917_Q2,What provides $875 million for DreamWorks?,"LOS ANGELES, California (CNN) -- Financing for DreamWorks Studios' partnership w","Ambani, the Walt Disney Co. and loans made by a syndicate of banks.",Reliance BIG Entertainment,0,0.0
+NEWS_0409_Q5,When will the program be broadcast?,"(CNN) -- Grammy Award winners Alicia Keys and John Legend will perform at ""CNN H",p.m. ET/PT November 27,9 p.m. ET/PT November 27,0,0.888888888888889
+NEWS_0546_Q3,Who won five grammys?,(CNN) -- The unlikely alchemy of a hard-rock legend and a bluegrass superstar cr,Robert Plant and Alison Krauss,Robert Plant and Alison Krauss,1,1.0
+NEWS_0450_Q5,What does Betty White say about Rue McClanahan?,"New York (CNN) -- Emmy-winning ""Golden Girls"" actress Rue McClanahan died of a s","""I treasured our relationship. It hurts more than I even thought it would, if",McClanahan requested that no funeral be held for her,0,0.0
+NEWS_0450_Q1,whose family at hospital?,"New York (CNN) -- Emmy-winning ""Golden Girls"" actress Rue McClanahan died of a s","McClanahan,",McClanahan,1,1.0
+NEWS_0857_Q5,What did Coroner say?,Los Angeles (CNN) -- Actress Lindsay Lohan missed her first day of community ser,Lohan failed to show up on time,"if she does something ""terribly"" wrong or shows misconduct",0,0.0
+NEWS_0849_Q3,What news outlet says he will hold a series of summer concerts?,"LONDON, England (CNN)  -- Michael Jackson may soon return to the stage, at least",Britain's Sky,Britain's Sky News,0,0.8
+NEWS_0275_Q3,What does Olivia Newton-John advocate?,"London, England (CNN) -- ""I had to be stitched into those pants,"" Olivia Newton-",early detection,education about rainforests,0,0.0
+NEWS_0363_Q3,What film involves aliens in South Africa?,(CNN) -- Science fiction flicks featuring aliens can be a little formulaic: Alie,"""District","""District 9",0,0.6666666666666666
+NEWS_0304_Q5,What qualifies as uber high end,"(WIRED) -- Got a few grand to spare for a $3,000 phone? Yeah, we didn't think so","Vertu makes phones starting at $6,000",True luxury,0,0.0
+NEWS_0880_Q5,What were the social networks victims of?,(CNN) -- Christina Cimino was logging onto Twitter on Thursday morning when some,"a single, massively coordinated attack.""",blackout,0,0.0
+NEWS_0872_Q4,Whom did she recently work with?,Japanese actress Rinko Kikuchi walks Anjali Rao through the streets of Tokyo. Sh,Karl Lagerfeld,Karl Lagerfeld,1,1.0
+NEWS_0791_Q4,"What happened weeks before the ""Wolverine"" movie premiere?","(CNN) -- When the highly anticipated movie ""X-Men Origins: Wolverine"" opened Fri","The online leak of a pirated, unfinished version",March 31 leak,0,0.2222222222222222
+NEWS_1012_Q4,What does Matt Groening say?,"LONDON, England (CNN) -- The most eagerly anticipated animated film this year hi","""We've had fans clamoring for a movie for the past 18 years,""",fans had driven the demand for the movie,0,0.5
+NEWS_0692_Q4,How many years did prosecutors want to charge Lillo Brancato Jr. with for attempted burglary?,"NEW YORK (CNN) -- An actor who played a wannabe mobster in ""The Sopranos"" was se",15,15,1,1.0
+NEWS_0814_Q2,How many planes will Aircell have equipped by the end of the year?,(CNN) -- The days of being cut off from the Internet while you're on a plane are,more than 190 commercial,"1,200",0,0.0
+NEWS_0939_Q4,what do critics say,(CNN) -- Madonna said she hopes the Malawian girl she wants to adopt and the boy,using her fame to circumvent a residency law for foreigners adopting in the southern African country.,legal battle,0,0.0
+NEWS_0501_Q5,Who is the female lead in this movie?,(CNN) -- The biggest challenge was finding an Edward. Robert Pattinson and Krist,Kristen Stewart,Romeo and Juliet,0,0.0
+NEWS_0709_Q4,Where is a good spot for classic straight ahead jazz?,(Coastal Living) -- New Orleans without music? That's like Venice without canals,Snug Harbor,live music nightly,0,0.0
+NEWS_0477_Q4,When was the PSP launched?,Los Angeles (CNN) -- After weeks of headlines about the outage of its hacker-com,2006.,2006,1,1.0
+NEWS_0070_Q4,What is the best way to help the children?,(CNN) -- Madonna is in Malawi this week attempting to adopt a second child from ,off helping those families by building schools and supporting them,building schools,0,0.33333333333333337
+NEWS_0227_Q3,What is the doctors name?,"LOS ANGELES, California (CNN) -- Search warrants filed Thursday in court in Clar",Dr. Conrad Murray,Michael Jackson,0,0.0
+NEWS_0575_Q2,Where is the suspect?,(CNN)  -- The mother of an 8-year-old boy suspected in the shooting deaths of hi,juvenile detention center.,"Apache County, Arizona",0,0.0
+NEWS_0646_Q1,who is the father,"(The Frisky) -- There are certain families -- like, say, the Coppolas and the Gy",Papa Ivan,Ivan,0,0.6666666666666666
+NEWS_0267_Q1,What do the dancing parrots prove?,(CNN) -- A head-banging parrot who became a YouTube sensation has demonstrated t,an ability to appreciate,they were synchronizing with the beat,0,0.0
+NEWS_0842_Q2,Who partenered with google?,(Ars Technica) -- With the planned settlement between Google and book publishers,many libraries at US universities,Authors' Guild,0,0.0
+NEWS_0554_Q1,what target vitamin Injections?,(CNN)  -- In trendy neighborhoods of Tokyo customers are lining up for vitamin i,a particular health ailment or beauty concern.,health ailment or beauty concern,0,0.9090909090909091
+NEWS_0549_Q1,Where did he just make debut?,"LOS ANGELES, California (CNN) -- We were scheduled to speak with Steve Martin ju",the Grand Ole Opry.,Grand Ole Opry,1,1.0
+NEWS_0886_Q3,Which prize was won?,"CANNES, France (CNN) -- After eleven days, hundreds of screenings and thousands ",Palme d'Or,best actress prize,0,0.0
+NEWS_0552_Q2,Where is Furtado from?,(CNN) -- Singer Nelly Furtado is trying to cross over in a direction many artist,Canada.,Spanish or in Portuguese,0,0.0
+NEWS_1013_Q5,Who attacked Rob Knox?,"LONDON, England (CNN) -- A habitually violent young man was convicted Wednesday ","Karl Bishop,",Karl Bishop,1,1.0
+NEWS_0178_Q1,What has doubled since 2005?,"(CNN) -- Whether they're raising their adopted baby girl, dodging homophobic qui","the number of lesbian, gay, bisexual and transgender (LGBT) characters on scripted programs","lesbian, gay, bisexual and transgender (LGBT) characters on scripted programs",0,0.9090909090909091
+NEWS_0635_Q1,who wree the criminals,"KUALA LUMPUR, Malaysia (Reuters) -- Malaysia defended on Friday its practice of ",traffickers of illegal immigrants in addition to drug-traffickers and violent,the Bar Council,0,0.0
+NEWS_1014_Q3,Who is famous for doing the Moonwalk?,"LONDON, England -- A huge crowd gathered in London, UK on Friday for a mass ""moo",Michael Jackson,Michael Jackson,1,1.0
+NEWS_0953_Q3,What was the suspect known as?,WASHINGTON (CNN) -- The Salvadoran immigrant suspected in the 2001 slaying of Wa,"""Chuckie""",Chuckie,1,1.0
+NEWS_0040_Q5,What is the name of Goodle's phone service?,SAN FRANCISCO (CNET) -- Google plans to unveil a service called Google Voice on ,Google Voice,Thursday,0,0.0
+NEWS_0522_Q5,Which Beastie Boys member has a cancerous tumour?,"LOS ANGELES, California (CNN) -- The Beastie Boys canceled all scheduled concert","Adam ""MCA"" Yauch","Adam ""MCA"" Yauch",1,1.0
+NEWS_0741_Q1,What was Lindsay Lohan convicted of in 2007?,"LOS ANGELES, California (CNN)  -- A hearing is set for Monday in a case involvin","drunken driving convictions,",driving under the influence charges,0,0.28571428571428575
+NEWS_0387_Q4,what did gallagher say about the man?,"LONDON, England (CNN) -- Oasis frontman Liam Gallagher on Saturday denied that h",the figure captured on Google Earth outside a pub in London is not him.,talking about the man's ankle-high shoes and thick black socks,0,0.0
+NEWS_0450_Q3,what did betty white say,"New York (CNN) -- Emmy-winning ""Golden Girls"" actress Rue McClanahan died of a s","""Rue was a close and dear friend,""","""I treasured our relationship",0,0.0
+NEWS_0984_Q3,How many were killed?,(CNN) -- Ten people were killed Tuesday when a gunman rampaged through a Finnish,people,nine,0,0.0
+NEWS_0560_Q3,Intel launched an app store for what?,"Las Vegas, Nevada (CNN) -- To most people these days, an ""app"" is something you ",netbook computers.,netbook computers,1,1.0
+NEWS_0669_Q5,What is illegal in one of the U.S. city's libraries?,"(Mental Floss) -- Although you probably use it every day, here's some interestin",Offensive body odor,Offensive body odor,1,1.0
+NEWS_0860_Q2,Trial seeking to overturn California's ban on what?,(CNN) -- It's hard to imagine a video of lawyers debating points of constitution,same-sex marriage,same-sex marriage,1,1.0
+NEWS_0223_Q3,What is Bear Grylls known for?,(CNN) -- Adventurer and TV show host Bear Grylls injured his shoulder in Antarct,"is the host of Discovery's ""Man vs. Wild""",former member of the British Special Forces,0,0.15384615384615383
+NEWS_0015_Q3,What did he do to get in jail if no charges were filed?,(CNN) -- Former child actor Gary Coleman remained in a Utah jail Monday after be,outstanding,"posting a $1,725 bail",0,0.0
+NEWS_0866_Q5,What is he accused of?,Washington (CNN) -- An Idaho man accused of trying to assassinate President Bara,trying to assassinate President Barack Obama,trying to assassinate President Barack Obama,1,1.0
+NEWS_0172_Q5,What is the name of the king of pop?,(CNN) -- U.S. fans of Michael Jackson are pouring out their grief through music ,Michael Jackson,Delores,0,0.0
+NEWS_0621_Q1,What did singer O'Riordan just do?,"NEW YORK (CNN) -- Dolores O'Riordan is singing ""Linger"" while playing a gleaming","is singing ""Linger"" while playing a gleaming white guitar",The Cranberries went on hiatus,0,0.0
+NEWS_0671_Q1,What did Corry Haim get?,"Los Angeles, California (CNN) -- Actor Corey Haim was the ""poster child"" for the",prescriptions for five controlled substances,553 dangerous drugs,0,0.0
+NEWS_0474_Q4,Ringo Starr is how old on Monday?,"(CNN) -- The Beatles first appeared on ""The Ed Sullivan Show"" 44 years ago. It's",68th,68th birthday,0,0.6666666666666666
+NEWS_0230_Q3,"What genre is the ""The Proposal""?",(Entertainment Weekly) -- Sandra Bullock will surely be popping open the champag,"comedy,",romantic comedy,0,0.6666666666666666
+NEWS_0538_Q2,when are the Harlem residents going to  scamper to get out of the coyote's way?,"New York (CNN) -- One wily coyote traveled a bit too far from home, and its resu",Wednesday morning.,Wednesday morning,1,1.0
+NEWS_0559_Q5,Agains which newspaper have allegations been made,"LONDON, England (CNN) -- British lawmakers demanded answers Thursday after a new",Britain's News of the World tabloid,Guardian newspaper,0,0.0
+NEWS_0556_Q5,when did the band break up,(CNN) -- Fashion designer Vivienne Westwood and members of the Sex Pistols have ,1978,1978,1,1.0
+NEWS_0138_Q2,Where were they found dead?,"NEW YORK (CNN) -- Juliana Redding was 21, an aspiring actress and model who, lik",Santa Monica apartment.,Santa Monica apartment,1,1.0
+NEWS_0666_Q1,what did clint eastwood win,"LONDON, England (CNN) -- After a lifetime of playing characters past-their-prime",lifetime achievement award,1976,0,0.0
+NEWS_0158_Q5,who plays role of ideal investment banker?,(CNN) -- Gordon Gekko-inspired suspenders may have faded from Wall Street and lu,Shia LaBeouf.,Shia LaBeouf,1,1.0
+NEWS_0308_Q2,what did has a $34 million debut?,"(EW.com) -- The box office had to contend with the World Series, a very early sn","""Puss in Boots""",Megamind,0,0.0
+NEWS_0157_Q1,What does the worm do?,"LONDON, England (CNN) -- A new sleeper virus that could allow hackers to steal f","exploits a bug in Microsoft Windows to infect mainly corporate networks,",it will infect and begin spreading to other servers,0,0.2105263157894737
+NEWS_0769_Q1,What was his age?,"CARDIFF, Wales -- Former Wales and British Lions center Ray Gravell has died of ","56,",56,1,1.0
+NEWS_0916_Q5,what kind of music does he play,"LOS ANGELES, California (CNN) -- He got a standing ovation before the orchestra ",classical,philharmonic,0,0.0
+NEWS_0705_Q2,Where was Cello scrotum referenced?,"LONDON, England (CNN) -- A medical ailment that has worried male members of stri",by a medical researcher in the BMJ late last year.,BMJ,0,0.2222222222222222
+NEWS_0982_Q5,What type of singer was Luciano Pavarotti?,(CNN) -- Luciano Pavarotti died Thursday at the age of 71 after suffering from p,opera tenor.,opera,0,0.6666666666666666
+NEWS_0899_Q5,Which magazine released a study on Facebook and modern courtship?,(Mashable) -- There's no denying that Facebook has had an impact on the way the ,Seventeen,AreYouInterested,0,0.0
+NEWS_0744_Q3,Who is the Treasury Minister?,"BOGOTA, Colombia (CNN) -- ""Easy money, fast and effective."" Investors protest ou",Oscar Ivan Zuluaga,Oscar Ivan Zuluaga,1,1.0
+NEWS_0112_Q3,where was vijay talent spotted for a supporting part?,(CNN)  -- Rafael Nadal may be more used to serving aces than strutting his stuff,"Barcelona, Spain",Williams sisters,0,0.0
+NEWS_1003_Q4,What does the Facebook plugins collect?,"(CNET)  -- When Facebook Chief Executive Mark Zuckerberg recently announced a ""L",the address of the Web page being visited and the Internet address of the visitor,the address of the Web page being visited,0,0.7058823529411764
+NEWS_0872_Q1,What is she challenging?,Japanese actress Rinko Kikuchi walks Anjali Rao through the streets of Tokyo. Sh,the traditional demure image of the Japanese woman,traditional demure image,0,0.6666666666666666
+NEWS_0982_Q2,Who died Thursday?,(CNN) -- Luciano Pavarotti died Thursday at the age of 71 after suffering from p,Pavarotti,Luciano Pavarotti,0,0.6666666666666666
+NEWS_0588_Q1,Kitt made a name for herself in which TV series?,"(CNN) -- Singer and actress Eartha Kitt has died, her publicist, Patty Freedman,","""Batman.""",Batman,1,1.0
+NEWS_0083_Q1,At what upcoming events will the Jonas Brothers be performing?,WASHINGTON (CNN) -- Sasha and Malia Obama had front row seats for Monday night's,"Kids' Inaugural Concert,",Kids' Inaugural Concert,1,1.0
+NEWS_0418_Q3,What role did Toro play?,"HAVANA, Cuba (CNN) -- ""Che"" the movie met Che the myth in Cuba this weekend, and",Che Guevara's,Heroic Guerrilla,0,0.0
+NEWS_0863_Q1,Who does not embarrasses Johansson?,"Los Angeles (CNN) -- A 35-year-old Florida man accused of being a ""hackerazzi"" p",Christopher Chaney,Chaney,0,0.6666666666666666
+NEWS_0782_Q3,Who will be hosting the event?,"OSLO, Norway (CNN) -- A week of events to mark the presentation of the Nobel Pea",Michael Caine,Michael Caine and Scarlett Johansson,0,0.5714285714285715
+NEWS_0101_Q4,"What does ""Grey's Anatomy"" actress Katherine Heigl have?",(InStyle.com) -- A hit TV show. An Emmy. A summer blockbuster. A new company. A ,A hit TV show. An Emmy. A summer blockbuster. A new company. A wedding!,started a production company at Fox,0,0.14285714285714285
+NEWS_0431_Q1,Her daytime moisturizer is same that her mom used,"(InStyle.com) -- As an aspiring ballerina, 9-year-old Brooke Burns took an aggre",Oil of Olay,Oil of Olay,1,1.0
+NEWS_0867_Q2,Who is going to be a democratic state?,"Cairo, Egypt (CNN) -- Demonstrations that began with quiet determination on the ",Egypt.,Egypt,1,1.0
+NEWS_0354_Q2,Who tipped police?,"LONDON, England (CNN) -- Pop star George Michael was cautioned by police in Lond","suspicious toilet attendant,",a suspicious toilet attendant,1,1.0
+NEWS_0164_Q3,Perseus is the son of who?,"(CNN) -- There's never a bad time for a toga party, right? The story of Perseus ",Zeus,Zeus,1,1.0
+NEWS_0771_Q4,What time did the game go on sale?,(CNN) -- Some people might call 17-year-old Joshua Hanson one the luckiest peopl,stroke of midnight Monday,Monday,0,0.4
+NEWS_0440_Q1,What soft drink did a consultant compare Google to?,"(Wired)  -- Google is set to become your new phone company, perhaps reducing you",iconic 7-UP,Coca-Cola,0,0.0
+NEWS_0165_Q2,How many people were arrested?,NEW YORK (CNN) -- Three people were arrested Saturday after chaos broke out at a,Three,Three,1,1.0
+NEWS_0082_Q1,Who is an American and Irish national?,"DUBAI, United Arab Emirates (CNN)  -- Inspired by images of Iranians taking to t","Michelle May,",Michelle May,1,1.0
+NEWS_0184_Q2,What does the G155 portable game room pack?,"(CNN) -- For video game fans, many of the gadgets and accessories designed to su","a built-in 15.5-inch LED HD screen, stereo speakers and dual 3.5mm headphone jacks",a built-in 15.5-inch LED HD screen,0,0.5882352941176471
+NEWS_0313_Q4,What are getting buzz from tech media?,"(Mashable) -- For all their buzz and value, location-based social networks haven",location-based social networks,location-based services worth the potential privacy headaches,0,0.2222222222222222
+NEWS_0355_Q1,Which event did Brown fail to show up at?,"LOS ANGELES, California (CNN) -- Singer Chris Brown, sought by Los Angeles polic","Grammy Awards,",Grammy Awards,1,1.0
+NEWS_0357_Q5,Who turned to acting and directing?,"(CNN) -- Chinese language media often refer to Jay Chou as the ""small heavenly k",Jay Chou,Jacky Wu,0,0.0
